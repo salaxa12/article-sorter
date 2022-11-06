@@ -1,26 +1,153 @@
 import newspaper
+import os
+from requests_html import HTMLSession
+
+
+session = HTMLSession()
+url = 'https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen'
+r = session.get(url)
+
+r.html.render(sleep=1, scrolldown=6)
+
+articles = r.html.find('article')
+newsLinks = []
+
+for i in articles:
+    try:
+        newsitem = i.find('a', first=True)
+        rawLink = newsitem.attrs['href']
+        fullLink = str("https://news.google.com" + rawLink[1:-1])
+        newsLinks.append(fullLink)
+    except:
+        pass
+
+print(len(newsLinks))
+print(newsLinks[5:10])
+
+# ---------------------------------------second part--------------------------------------------------------
+
 
 item = 1
 
-# Define list of urls
-list_of_urls = ['https://www.geeksforgeeks.org/how-to-get-the-magnitude-of-a-vector-in-numpy/',
-                'https://www.geeksforgeeks.org/3d-wireframe-plotting-in-python-using-matplotlib/',
-                'https://www.geeksforgeeks.org/difference-between-small-data-and-big-data/']
-for url in list_of_urls:
-    print(url)
-    file2write = open("Article" + str(item) + ".txt", 'w')
-    url_i = newspaper.Article(url=(url), language='en')
-    url_i.download()
-    url_i.parse()
-    text = url_i.text
-    file2write.write(text)
-    print(url_i)
-    item = item + 1
-file2write.close()
+switch = 0
 
-# for item in  [ "one", "two", "three" ]:
-#     f = open (item + " hello_world.txt", "w")
-#     f.write("This is my first line of code")
-#     f.write("\nThis is my second line of code with " + item  + " the first item in my list")
-#     f.write ("\nAnd this is my last line of code")
-#     f.close()
+# Define list of urls
+list_of_urls = ['https://news.google.com/articles/CAIiEOxZgN3Og2P3MbBc5R-44EwqGQgEKhAIACoHCAowwL2ICzCckocDMOeRtwc?uo=CAUiZ2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3Nwb3J0cy9uZmwtd2Vlay05LWNoaWVmcy1yZXR1cm4tYWN0aW9uLXBsYXlvZmYtY29udGVuZGVycy1oZWFkLXBpdm90YWwtbWF0Y2h1cHPSAQA&hl=en-US&gl=US&ceid=US%3Ae',
+                'https://news.google.com/articles/CCAiC0ZBMVhYM3RmUTJFmAEB?hl=en-US&gl=US&ceid=US%3Ae',
+                'https://news.google.com/articles/CAIiEPaUDkK-R-GHnhnfCM9h-mEqFggEKg4IACoGCAow5tYTMODEAjDyugQ?uo=CAUihgFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25mbC9uZXdzL25mbC13ZWVrLTktb2Rkcy1waWNrcy1zY2hlZHVsZS1ob3ctdG8td2F0Y2gtc3RyZWFtaW5nLWV4cGVydC1waWNrcy1zdXJ2aXZvci1waWNrcy10ZWFzZXJzLWFuZC1tb3JlL9IBAA&hl=en-US&gl=US&ceid=US%3Ae']
+
+os.chdir("articles/sports/training")
+for url in newsLinks:
+    if item <= 100 and switch == 0:
+        try:
+            print(url)
+            file2write = open("TrSportsArticle" + str(item) + ".txt", 'w')
+            url_i = newspaper.Article(url=(url), language='en')
+            url_i.download()
+            url_i.parse()
+            text = url_i.text
+            print(text)
+            if(len(text) > 0):
+                file2write.write(text)
+                print(url_i)
+                item = item + 1
+                file2write.close()
+            if(item == 101):
+                os.chdir("../testing")
+                switch = 1
+        except:
+            pass
+
+    elif item > 100 and switch == 1:
+        try:
+            print(url)
+            file2write = open("TeSportsArticle" + str(item) + ".txt", 'w')
+            url_i = newspaper.Article(url=(url), language='en')
+            url_i.download()
+            url_i.parse()
+            text = url_i.text
+            print(text)
+            if(len(text) > 0):
+                file2write.write(text)
+                print(url_i)
+                item = item + 1
+                file2write.close()
+        except:
+            pass
+    else:
+        break
+
+# -------------------------------------------------technology---------------------------------------------------------------------------
+
+url = 'https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen'
+r = session.get(url)
+
+r.html.render(sleep=1, scrolldown=6)
+
+articles = r.html.find('article')
+newsLinks = []
+
+for i in articles:
+    try:
+        newsitem = i.find('a', first=True)
+        rawLink = newsitem.attrs['href']
+        fullLink = str("https://news.google.com" + rawLink[1:-1])
+        newsLinks.append(fullLink)
+    except:
+        pass
+
+print(len(newsLinks))
+print(newsLinks[5:10])
+
+item = 1
+
+switch = 0
+
+# Define list of urls
+list_of_urls = ['https://news.google.com/articles/CAIiEOxZgN3Og2P3MbBc5R-44EwqGQgEKhAIACoHCAowwL2ICzCckocDMOeRtwc?uo=CAUiZ2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL3Nwb3J0cy9uZmwtd2Vlay05LWNoaWVmcy1yZXR1cm4tYWN0aW9uLXBsYXlvZmYtY29udGVuZGVycy1oZWFkLXBpdm90YWwtbWF0Y2h1cHPSAQA&hl=en-US&gl=US&ceid=US%3Ae',
+                'https://news.google.com/articles/CCAiC0ZBMVhYM3RmUTJFmAEB?hl=en-US&gl=US&ceid=US%3Ae',
+                'https://news.google.com/articles/CAIiEPaUDkK-R-GHnhnfCM9h-mEqFggEKg4IACoGCAow5tYTMODEAjDyugQ?uo=CAUihgFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25mbC9uZXdzL25mbC13ZWVrLTktb2Rkcy1waWNrcy1zY2hlZHVsZS1ob3ctdG8td2F0Y2gtc3RyZWFtaW5nLWV4cGVydC1waWNrcy1zdXJ2aXZvci1waWNrcy10ZWFzZXJzLWFuZC1tb3JlL9IBAA&hl=en-US&gl=US&ceid=US%3Ae']
+
+os.chdir("../../technology/training")
+for url in newsLinks:
+    if item <= 100 and switch == 0:
+        try:
+            print(url)
+            file2write = open("TrTechnologyArticle" + str(item) + ".txt", 'w')
+            url_i = newspaper.Article(url=(url), language='en')
+            url_i.download()
+            url_i.parse()
+            text = url_i.text
+            print(text)
+            if(len(text) > 0):
+                file2write.write(text)
+                print(url_i)
+                item = item + 1
+                file2write.close()
+            if(item == 101):
+                os.chdir("../testing")
+                switch = 1
+        except:
+            pass
+
+    elif item > 100 and switch == 1:
+        try:
+            print(url)
+            file2write = open("TeTechnologyArticle" + str(item) + ".txt", 'w')
+            url_i = newspaper.Article(url=(url), language='en')
+            url_i.download()
+            url_i.parse()
+            text = url_i.text
+            print(text)
+            if(len(text) > 0):
+                file2write.write(text)
+                print(url_i)
+                item = item + 1
+                file2write.close()
+        except:
+            pass
+    else:
+        break
+
+
+23
