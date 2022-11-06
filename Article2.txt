@@ -1,0 +1,34 @@
+To create static, animated and interactive visualizations of data, we use the Matplotlib module in Python. The below programs will depict 3D wireframe. visualization of data in Python. In-order to visualize data using 3D wireframe we require some modules from matplotlib, mpl_toolkits and numpy library.
+
+Example 1:
+
+
+
+Python3
+
+
+
+
+
+from mpl_toolkits.mplot3d import axes3d from matplotlib import pyplot fig = pyplot.figure() wf = fig.add_subplot( 111 , projection = '3d' ) x, y, z = axes3d.get_test_data( 0.05 ) wf.plot_wireframe(x,y,z, rstride = 2 , cstride = 2 ,color = 'green' ) wf.set_title( 'Example 1' ) pyplot.show()
+
+Output:
+
+
+
+In the above program, a 3D wireframe is plotted using test values for coordinates.
+
+Example 2:
+
+
+
+Python3
+
+
+
+
+
+from mpl_toolkits import mplot3d import numpy from matplotlib import pyplot a = numpy.linspace( - 5 , 5 , 25 ) b = numpy.linspace( - 5 , 5 , 25 ) x, y = numpy.meshgrid(a, b) z = numpy.sin(numpy.sqrt(x * * 2 + y * * 2 )) fig = pyplot.figure() wf = pyplot.axes(projection = '3d' ) wf.plot_wireframe(x, y, z, color = 'green' ) wf.set_title( 'Example 2' ) pyplot.show()
+
+Output:
+

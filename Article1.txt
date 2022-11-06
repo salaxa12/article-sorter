@@ -1,0 +1,65 @@
+How to get the magnitude of a vector in NumPy?
+
+The fundamental feature of linear algebra are vectors, these are the objects having both direction and magnitude. In Python, NumPy arrays can be used to depict a vector.
+
+There are mainly two ways of getting the magnitude of vector:
+
+By defining an explicit function which computes the magnitude of a given vector based on the below mathematical formula:
+
+if V is vector such that, V = (a, b, c) then ||V|| = ?(a*a + b*b + c*c)
+
+Here are some programs which computes the magnitude of a vector following the above approach:
+
+Python3
+
+
+
+
+
+import numpy import math def magnitude(vector): return math.sqrt( sum ( pow (element, 2 ) for element in vector)) v = numpy.array([ 0 , 1 , 2 , 3 , 4 ]) print ( 'Vector:' , v) print ( 'Magnitude of the Vector:' , magnitude(v))
+
+Output:
+
+Vector: [0 1 2 3 4] Magnitude of the Vector: 5.477225575051661
+
+Below is another example with the same approach:
+
+Python3
+
+
+
+
+
+import numpy import math def magnitude(vector): return math.sqrt( sum ( pow (element, 2 ) for element in vector)) print ( 'Magnitude of the Vector:' , magnitude(numpy.array([ 1 , 2 , 3 ])))
+
+Output:
+
+Magnitude of the Vector: 3.7416573867739413
+
+By using the norm() method in linalg module of NumPy library. The Linear Algebra module of NumPy offers various methods to apply linear algebra on any NumPy array. Below are some programs which use numpy.linalg.norm() to compute the magnitude of a vector:
+
+Python3
+
+
+
+
+
+import numpy v = numpy.array([ 1 , 2 , 3 ]) print ( 'Vector:' , v) print ( 'Magnitude of the Vector:' , numpy.linalg.norm(v))
+
+Output:
+
+Vector: [1 2 3] Magnitude of the Vector: 3.7416573867739413
+
+An additional argument ord can be used to compute the nth order of the norm() of a vector.
+
+Python3
+
+
+
+
+
+import numpy v = numpy.array([ 0 , 1 , 2 , 3 , 4 ]) print ( 'Vector:' , v) print ( 'Magnitude of the Vector:' , numpy.linalg.norm(v)) print ( 'ord is 0: ' , numpy.linalg.norm(v, ord = 0 )) print ( 'ord is 1: ' , numpy.linalg.norm(v, ord = 1 )) print ( 'ord is 2: ' , numpy.linalg.norm(v, ord = 2 )) print ( 'ord is 3: ' , numpy.linalg.norm(v, ord = 3 )) print ( 'ord is 4: ' , numpy.linalg.norm(v, ord = 4 ))
+
+Output:
+
+Vector: [0 1 2 3 4] Magnitude of the Vector: 5.477225575051661 ord is 0: 4.0 ord is 1: 10.0 ord is 2: 5.477225575051661 ord is 3: 4.641588833612778 ord is 4: 4.337613136533361
