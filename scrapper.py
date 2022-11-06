@@ -40,13 +40,11 @@ os.chdir("articles/sports/training")
 for url in newsLinks:
     if item <= 100 and switch == 0:
         try:
-            print(url)
             file2write = open("TrSportsArticle" + str(item) + ".txt", 'w')
             url_i = newspaper.Article(url=(url), language='en')
             url_i.download()
             url_i.parse()
             text = url_i.text
-            print(text)
             if(len(text) > 0):
                 file2write.write(text)
                 print(url_i)
@@ -60,13 +58,11 @@ for url in newsLinks:
 
     elif item > 100 and switch == 1:
         try:
-            print(url)
             file2write = open("TeSportsArticle" + str(item) + ".txt", 'w')
             url_i = newspaper.Article(url=(url), language='en')
             url_i.download()
             url_i.parse()
             text = url_i.text
-            print(text)
             if(len(text) > 0):
                 file2write.write(text)
                 print(url_i)
@@ -74,7 +70,7 @@ for url in newsLinks:
                 file2write.close()
         except:
             pass
-    else:
+    elif item >= 200:
         break
 
 # -------------------------------------------------technology---------------------------------------------------------------------------
@@ -112,16 +108,13 @@ os.chdir("../../technology/training")
 for url in newsLinks:
     if item <= 100 and switch == 0:
         try:
-            print(url)
             file2write = open("TrTechnologyArticle" + str(item) + ".txt", 'w')
             url_i = newspaper.Article(url=(url), language='en')
             url_i.download()
             url_i.parse()
             text = url_i.text
-            print(text)
             if(len(text) > 0):
                 file2write.write(text)
-                print(url_i)
                 item = item + 1
                 file2write.close()
             if(item == 101):
@@ -132,22 +125,16 @@ for url in newsLinks:
 
     elif item > 100 and switch == 1:
         try:
-            print(url)
             file2write = open("TeTechnologyArticle" + str(item) + ".txt", 'w')
             url_i = newspaper.Article(url=(url), language='en')
             url_i.download()
             url_i.parse()
             text = url_i.text
-            print(text)
             if(len(text) > 0):
                 file2write.write(text)
-                print(url_i)
                 item = item + 1
                 file2write.close()
         except:
             pass
-    else:
+    elif item >= 200:
         break
-
-
-23
