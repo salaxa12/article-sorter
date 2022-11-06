@@ -1,0 +1,33 @@
+Google has been extremely shy in coming forward with its AI-image generator program but CEO Sundar Pichai recently shared an impressive video of the technology in action.
+
+Pichai posted a video of AI-video generator Phenaki in action on his Twitter page. Phenaki differs from Google’s other video generator Imagen because it is capable of creating a video that changes scenes over time.
+
+It means the artificially intelligent (AI) text-to-video generator can be directed by the operator.
+
+1/ From today's AI@ event: we announced our Imagen text-to-image model is coming soon to AI Test Kitchen. And for the 1st time, we shared an AI-generated super-resolution video using Phenaki to generate long, coherent videos from text prompts and Imagen Video to increase quality. pic.twitter.com/WofU5J5eZV — Sundar Pichai (@sundarpichai) November 2, 2022
+
+“From today’s AI@ event: we announced our Imagen text-to-image model is coming soon to AI Test Kitchen,” Pichai writes.
+
+“And for the 1st time, we shared an AI-generated super-resolution video using Phenaki to generate long, coherent videos from text prompts and Imagen Video to increase quality.”
+
+Phenaki differs from Google’s Imagen Video model because it can synthesize longer clips that move into different scenes.
+
+The technology is similar to a movie storyboard where directors will plan scenes shot-by-shot, except rather than physically shooting a film, the AI creates it instead. Google says that Phenaki could generate videos as long as “multiple minutes.”
+
+A Lucky Few Will Get to Try Imagen
+
+While Phenaki remains under wraps, Google has announced that selected users will be able to try out its AI image generator Imagen on the AI Test Kitchen app.
+
+AI Test Kitchen was launched earlier this year and allows Google to beta test various AI systems.
+
+Josh Woodward, senior director of product management at Google, explains to The Verge that the point of AI Test Kitchen is to get feedback from the public and find out how they might break them.
+
+Sentient AI
+
+Google’s entire AI program is based on LaMDA. LaMDA hit the headlines over the summer after a Google engineer named Blake Lemoine claimed that its AI chatbot program is sentient.
+
+After Lemoine made the controversial claims about the LaMDA chatbot he was fired from Google. It stated that he had violated data security policies.
+
+“I know a person when I talk to it,” Lemoine said in an interview with the Washington Post.
+
+“It doesn’t matter whether they have a brain made of meat in their head. Or if they have a billion lines of code. I talk to them. And I hear what they have to say, and that is how I decide what is and isn’t a person.”

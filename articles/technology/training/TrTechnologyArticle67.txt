@@ -1,0 +1,64 @@
+Crashing onto the scene back in 2017, NieR:Automata was a breakthrough moment for Yoko Taro. Though the director gained infamy for the Drakengard series — including the original NieR on PS3 and Xbox 360 — and his unusual interviews, Automata is the game that truly put him and his team on the mainstream map.
+
+Five years later, the game came to Switch in the form of NieR:Automata The End of YoRHa Edition, an utterly outstanding port of a true modern classic. But why now and not, one, two, three years ago? Why is 2022 the time for Switch owners to hop into Automata, and what technical wizardry did the dream team at Virtuos have to pull to get Square Enix and PlatinumGames' action-RPG running on Switch?
+
+We spoke to Taro, along with producer Yosuke Saito, composer Keiichi Okabe, and Virtuos' Shi Qiang to celebrate the success of NieR:Automata, lament over the lack of 2B in Super Smash Bros., and find out what makes this game so popular. It turns out not even the team truly knows...
+
+Nintendo Life: It’s been over five years since NieR:Automata was first released. Why do you think the game has resonated with so many over the years?
+
+YOKO Taro, director and scenario writer: You might not believe this everyone, but the real reason why NieR:Automata was such a big hit is… complete chance!!
+
+Yosuke Saito, producer: It could be Mr. YOKO’s intriguing mysterious world, Yoshida Akihiko’s charismatic characters 2B and 9S, Mr. Okabe’s eccentric melodies or the sublime action game feel from the craftsmen at Platinum Games.
+
+the real reason why NieR:Automata was such a big hit is… complete chance!!
+
+But I think that the biggest reason was probably how Automata blended all these different elements together to make the grade.
+
+Keiichi Okabe, composer: I think that it is probably how the things that Mr. YOKO imagined and PlatinumGames' ability to realise those things and balance them out came together so well.
+
+After that, it was probably the power of my music though. (laughs)
+
+Taro-san, you asked Saito-san for a Switch port of NieR:Automata during E3 2018. How do you feel now it’s finally coming to fruition four years later?
+
+YOKO: I am hugely disappointed that we did not make it in time to get into Smash Bros…
+
+This marks the series’ debut on a Nintendo console, what pushed you to finally make the jump to the Switch?
+
+Saito: This came about from wanting to do something for the 5th anniversary and from seeing Astral Chain and thinking that we might be able to bring Automata to Nintendo Switch too. I think we have managed to port the game over with quite impressive levels of fidelity, so I would love to see everyone play it!
+
+Virtuos has a pretty strong track record with Switch ports, how did you find working with them on bringing the game to the console?
+
+it feels like there is nowhere in the games industry left for me to inhabit anymore
+
+Saito: I think they are a great company, and they took on various difficult challenges on our behalf, so I would love to work with them again if we get the chance!
+
+Given Automata’s fast-paced action-RPG combat, was it a challenge to maintain all of the different visual elements on the screen for the Switch port?
+
+Shi Qiang, Studio Technical Director from Virtuos: Indeed, it was quite tricky in some places. That was why we were very thorough in our preparations.
+
+The team started by quickly delineating where all the hot spots were and then developed an omnidirectional feature tracking tool for optimisation. For the engine and the code, we did overall optimisation on the CPU, GPU and shaders. We also carried out comprehensive optimisation on the art as well, including all of the models, lighting, special effects, stamps and assets.
+
+Once the general optimisation process was complete, we carried out functionality spot checks on the complex scenes. For example, in the boss fight scenes, we did further optimisation on the detail level of the boss models, textures and lighting, including the large-scale rebuilding of the VFX to fit with the Switch’s technical capabilities.
+
+Having brought Voice of Cards to the Switch, has that series’ success influenced your decision to bring the game to the console?
+
+Saito: Personally, I would be happier to see it the other way around, with Switch players playing Automata and experiencing the world of YOKO Taro through that, then going on to play Voice of Cards!
+
+Has the success of NieR:Automata changed the way you approach developing games?
+
+YOKO: We had more capable staff on this one, so there was less for me to do. I mean, it feels like there is nowhere in the games industry left for me to inhabit anymore.
+
+If there is one convenient reason why “you should play Automata on Switch because of XXX” then please could you tell it to the Square Enix marketing team?
+
+For newcomers to Automata, why should they pick up the Switch version of the game?
+
+YOKO: If there is one convenient reason why “you should play Automata on Switch because of XXX” then please could you tell it to the Square Enix marketing team? I think they would be delighted to know that. They might even buy you a beer. No, really…
+
+Saito: I will answer this as a gamer, rather than as the producer. With the incredibly appealing characters and worlds that YOKO Taro creates, Okabe Keiichi’s beautiful music and Yoshida Akihiko’s superior character design, as well as it being made by PlatinumGames, one of the world’s top action game developers, is there actually any reason NOT to play the game?
+
+Subscribe to Nintendo Life on
+
+This interview has been lightly edited for clarity.
+
+Thank you to Yoko Taro, Yosuke Sait, Keiichi Okabe, and Shi Quiang for taking the time to talk to us about NieR:Automata The End of YoRHa Edition. You can pick up the game right now on Switch.
+

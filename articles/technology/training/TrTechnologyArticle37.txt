@@ -1,0 +1,11 @@
+Alphabet Inc.’s Google is preparing an app that will use artificial intelligence to let consumers create images by typing a few words.
+
+Alphabet Inc.'s Google is preparing an app that will use artificial intelligence to let consumers create images by typing a few words.
+
+People will only be able to do two things with the app: construct buildings through a function called “City Dreamer,” or use the “Wobble” feature to interact with a cartoon monster, Douglas Eck, a principal scientist at Google, said at the company's AI@ event in New York Wednesday. The tools will be available through Google's AI Test Kitchen app. A release date for the new capabilities wasn't given.
+
+AI imaging technologies like DALL-E can produce vivid pictures from a brief text description, like teddy bears shopping for groceries in ancient Egypt. But critics say so-called generative AI can also be used to spread misinformation, use artists' work without credit and enforce harmful biases, and Eck said Google's slow roll out to the public reflects concerns about the emerging technology.
+
+“Generative AI models are powerful, there's no doubt about that,” Eck said during a presentation at the event. “But we also have to acknowledge the real risks that this technology can pose if we don't take great care, which is why we've been slow to release them.”
+
+Google also presented improvements with AI tools that help with tasks such as coding and audio generation, as well as a text creation program that authors can use to write short stories. The company also announced a goal of having 1,000 languages in its translation services and plans to expand climate and health technology, such as flood forecasting.

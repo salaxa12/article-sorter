@@ -1,0 +1,13 @@
+AMD’s RDNA 3 architecture features decoupled clocks: The front end and the shaders run at different frequencies. For example, the Radeon RX 7900 XTX has a peak boost of 2.5GHz for the front end and a slightly lower 2.3GHz for the shaders or stream processors. This is a far cry from the 3.0GHz claimed by rumors and leaks over the past months. Well, it turns out that something went wrong at the hardware level, preventing Navi 31 from clocking that high.
+
+As per @XpeaGPU, Navi 31 needs a respin to fix the issue, limiting it to 2.5GHz. Unfortunately, this is a hardware-level flaw, and no matter how much power you feed the GPU (within reason), it won’t be able to hit the 3GHz mark. On the bright side, AMD’s engineering team has identified the bug and found a workaround with Navi 32, so we may see midrange SKUs approaching 3GHz.
+
+Bad news:
+
+Navi31 needs a respin to fix the issue preventing to reach the 3GHz target at reasonable power level. Hardware team failed this design.
+
+Good news:
+
+The problem has been identified and corrected for Navi32 — AGF (@XpeaGPU) November 6, 2022
+
+Coming back to the RX 7900 XTX, even AIB cards with a power ceiling of 450W can barely make it to 2.8GHz for a meager 5% performance gain. 2.9GHz is allegedly the upper limit, no matter how much power or voltage you throw at it.

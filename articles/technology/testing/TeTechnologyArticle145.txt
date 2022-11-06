@@ -1,0 +1,15 @@
+An Uncharted 4 RTX 4090 graphical showcase has been released, showing the game running in 8K resolution with ReShade ray tracing.
+
+Unfortunately, the PC port of Uncharted 4 within the Legacy of Thieves Collection doesn’t support ray tracing, but artist 'Digital Dreams’ has now released a new video showing off Naughty Dog’s PC port complete with his own custom version of Pascal Glitcher's RTGI preset which adds global illumination to the title. The video has the game running in 8K resolution at 60 frames per second with Otis_Inf’s new camera mod for the Legacy of Thieves collection. This mod features various additional camera options, including higher Level of Detail (LoD) settings.
+
+You can check out the Uncharted 4 RTX 4090 graphical showcase with ReShade ray tracing down below:
+
+Do you like what you’re seeing or do you prefer the vanilla look of the collection on PC? Discuss down below.
+
+Uncharted: The Legacy of Thieves Collection was released for PC last month. Here’s what Alessio Palumbo had to say about the PC port in his impressions article.
+
+Naughty Dog worked alongside Iron Galaxy on this version of the game. While generally respected for their porting expertise, Iron Galaxy was also behind the dreadful Batman: Arkham Knight PC port that forced Warner Bros. Games to remove the game from Steam until it was fixed and to offer full refunds.
+
+There's no need to worry, though, as Uncharted: Legacy of Thieves Collection is a solid, though not exceptional, port. Let's begin with the breadth of settings. We've seen far worse but also better - for instance, there is no full screen option, only borderless windowed, which is a disturbing trend with recent PC games. The game supports Ultrawide displays, though.
+
+As confirmed before release, the collection features NVIDIA DLSS 2 and AMD FSR 2 support. Each upscaling technique can be tweaked not only through the quality setting but also with a sharpness slider, and that's something not all games enable on the user end. As an added bonus, NVIDIA users can enable the Highlights feature of GeForce Experience. The software will then smartly capture exciting action bits of footage at key moments.

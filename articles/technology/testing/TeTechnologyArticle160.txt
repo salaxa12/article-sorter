@@ -1,0 +1,67 @@
+Trainers are reporting that mysterious new golden yellow PokéStops are appearing after the Dratini Community Day Classic ends in their region. These new PokéStops seem to be connected to the Paldea region, and the new Strange Coin Pokémon recently discovered by data miners.
+
+The whole thing is super strange, as it seems that spinning a golden PokéStop rewards you with a mysterious Coin. We collated all the information from Trainers, here’s what’s going on when the Dratini CD ends.
+
+Golden PokéStops explained
+
+As soon as the event ends (5:00 p.m. local time), random PokéStops will turn golden / yellow. These PokéStops take over the regular PokéStop colors, and spinning them has special effects. Spinning Golden PokéStops seems to have two outcomes:
+
+Get a mysterious coin Get a lot of loot
+
+Spinning these PokéStops will give you a mysterious Coin, and it will trigger a dialog between Professor Willow, and Jacq, a new character coming in Pokémon Scarlet and Violet.
+
+Willow and Jacq talk about the new mysterious Coin, and Jacq runs off saying that he has more work to do elsewhere. Willow is confused, and asks us to collect more Coins, as if nothing strange is going on.
+
+1 of 9
+
+New mysterious Pokémon
+
+Meanwhile, Trainers will observe a new Pokémon walking around the map. This new Pokémon is believed to originate from the Paldea region, the region where Scarlet and Violet take place. It is not catchable, but clicking on it will trigger a speech above its head with a Coin inside the bubble.
+
+
+
+
+
+It is not known what the connection between this new Pokémon, Scarlet and Violet, Jacq and Professor Willow is. It does sound like a crossover mini event similar to Meltan’s Mystery Box release.
+
+Scarlet and Violet will be released globally on November 18, 2022. We assume we will know more about this soon. Judging by the November 2022 Event Guide, there’s a mysterious gap between November 17 and November 23, where we expect an unannounced Scarlet and Violet crossover event to take place.
+
+Full dialog between Willow and Jacq
+
+Willow – What’s that you’ve got, %PLAYERNAME%? Ah! Yes, I see—this appears to be a very old coin. I picked one up myself, actually. There’s something mysterious about them…
+
+Jacq – Professor Willow? Can you hear me?
+
+Willow – Oh—hello, Jacq! It was great hearing you speak at the World Pokémon Ecological Society conference the other day!
+
+Jacq – Thank you. Your lecture, "Strolling through the World of Pokémon," was fantastic, too!
+
+Willow – %PLAYERNAME%, this is Jacq. He teaches biology at an academy in the Paldea region.
+
+Jacq – It’s very nice to meet you! Hm? Oh! That coin…!
+
+Willow – Hm? Do you know something about this, Jacq?
+
+Jacq – I think I might… I know we were supposed to discuss Diglett, but can I get a rain check? This is something that I want to look into!
+
+Willow – Of course! I’ll get right on researching this with %PLAYERNAME%. And I’ll be sure to take a video of the coin and share it with you soon.
+
+Jacq – Thank you! I’ll see you later, then. Happy exploring!
+
+Willow – All right, %PLAYERNAME%—let’s get cracking! I’d like to find a few more coins, so why don’t we start looking around? These coins are a little suspicious, but I can’t help feeling excited all the same! I believe a thorough investigation is in order. We’ve got a lot of ground to cover—so I’ll start my search over there! Are you ready? Then let’s GO!
+
+A curious chest opened by the Pokémon Company
+
+Parallel to this event in Pokémon GO, the Pokémon Company launched a mysterious website called ??????, and featuring an open chest. It’s not clear how (or if) this is connected to Pokémon GO, but there is a counter on the top left.
+
+Chest updates:
+
+Chest was updated to 839 Coins, three new screens have been added, the chest is now semi full of coins and you can open and close the chest by clicking the hidden 4th view (it’s there but hard to see)
+
+We’ll keep an eye on the website to see how and if the counter increases, but here’s what we’ve found in the CSS code on the webpage:
+
+There is code indicating that a slideshow and an iframe (frame to another website) will appear on this website at one point
+
+The code mentions something called cbox, cboxTitle and cboxWrapper – maybe this stands for coin box? There are also mentions of colorbox, but in a different context, so we assume cbox is a shorthand for something.
+
+Mysterious!

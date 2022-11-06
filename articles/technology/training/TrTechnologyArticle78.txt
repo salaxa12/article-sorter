@@ -1,0 +1,11 @@
+As per the official blog post published by DALL-E, "developers can now integrate DALL-E directly into their apps and products through our APL." Adding to it, the post reads, "more than 3 million people are already using DALL-E to extend their creativity and speed up their workflows, generating over 4 million images a day."
+
+DALL-E can now be integrated into other platforms
+
+Essentially, developers of apps can now integrate the DALL-E image creation AI into their code. It will enable users to create images using the app instead of heading to the platform. DALL-E also announced that Microsoft is bringing its AI into a new graphic design app, Designer. The app will help users create professional-quality graphics that are social media-ready.
+
+Microsoft is also adding DALL-E in Bing and Microsoft Edge with Image Creator, allowing users to create images themselves if regular web searches do not return what they want. Another platform that happens to be the world's first fashion and lifestyle operating system called CALA is also powered by DALL-E. "CALA's new artificial intelligence tools will allow users to generate new design ideas from natural text descriptions or uploaded reference images."
+
+The AI image generation tool now has better moderation
+
+Another photo startup, Mixtiles, uses the DALL-E API to "create and frame emotionally resonating" artwork. In addition, users now have full ownership rights over the images they make. DALL-E also has a new moderation system that includes filters for hate symbols and gore. "As a part of OpenAI's commitment to responsible deployment, we will continue to make trust & safety a top priority so that developers can focus on building."

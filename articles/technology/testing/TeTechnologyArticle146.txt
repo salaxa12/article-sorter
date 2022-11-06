@@ -1,0 +1,25 @@
+Using a $20 off-the-shelf drone, researchers at the University of Waterloo in Ontario have created what is effectively an airborne scanning device that can triangulate the location of every WiFi-connected device in your house. Yikes.
+
+
+
+Researchers Ali Abedi and Deepak Vasisht, who recently presented their findings at the 28th Annual International Conference on Mobile Computing and Networking, call this contraption “Wi-Peep,” which is a deceptively cute name for a project with such horrifying implications. Wi-Peep engages in what researchers call a “location-revealing privacy attack” that can manipulate the data in WiFi networks and use it to “see through walls,” or, rather, approximate the location of devices via sneaky scanning.
+
+How does the attack work?
+
+Researchers say their device exploits security deficiencies in IEEE 802.11—a longstanding wireless protocol for local access networks that has a history of problems with data interception and eavesdropping. The program deploys what is known as a “time-of-flight” technique (ToF), which uses a data manipulation trick to measure the physical distance between a signal and an object.
+
+Advertisement
+
+This is all possible due to a security “loophole” in most WiFi networks which the researchers have dubbed “polite WiFi.” In essence, all smart devices are primed to automatically respond to “contact attempts” from other devices in their area, even if the network is secured via password protection. To manipulate this vulnerability, Wi-Peep emits a ToF signal that attempts to make contact with local devices and subsequently allows for the “surreptitious localization” of specific WiFi-powered devices within a particular building or area. The nature of the device can be assessed via information culled from its MAC address—the unique identifier given out to devices within a particular network. Obviously, this means stuff like your Smart TV, Amazon Echo, cell phone, laptop, or any other “smart” device would all be visible to the sneaky little spy.
+
+Researchers imagine some pretty creepy scenarios involving Wi-Peep’s clandestine collection of data. Abedi and Vasisht worry that a hacker armed with this device could potentially “ infer the location of home occupants, security cameras and even home intrusion sensors.”
+
+Taking it one step further, they imagine an intruder:
+
+A burglar could use this information to locate valuable items like laptops and identify ideal opportunities when people are either not at home or away from a specific area (e.g., everyone is in the basement) by tracking their smartphones or smartwatches.
+
+Advertisement
+
+During his presentation, Abedi further hypothesized that the tool could be used to “track the movements of security guards inside a bank by following the location of their phones or smartwatches. Likewise, a thief could identify the location and type of smart devices in a home, including security cameras, laptops, and smart TVs, to find a good candidate for a break-in. In addition, the device’s operation via drone means that it can be used quickly and remotely without much chance of the user being detected.”
+
+Abedi and Vasisht say they hope their research leads to the development of better protections for WiFi protocols, so that future iterations aren’t as vulnerable to attack as the current ones. “We hope that our work will inform the design of next-generation protocols,” the researchers write.

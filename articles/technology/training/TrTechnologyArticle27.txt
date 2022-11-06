@@ -1,0 +1,28 @@
+Sonic Frontiers is going for the open zone concept, which at first glance may seem like more of a challenge to run well on Switch, especially compared to prior entries in the series. However, Sonic Team boss Takashi Iizuka has indicated that the Hedgehog Engine is up for the task.
+
+Speaking with Gamereactor, Iizuka spoke about the challenges of making a game that’s releasing across a variety of platforms and different generations of hardware. When it comes to Switch, though it won’t have the same “high-end assets” (and it’ll have a lower resolution and frame rate), Iizuka believes the game looks “very comparable” on Nintendo’s console.
+
+Iizuka stated:
+
+“It is extremely challenging to develop on this incredibly wide spectrum of hardware. But the good thing is we are using the Hedgehog Engine. The Hedgehog Engine is an internally developed engine we have been using since Sonic Generations, and we have been updating it since 2010 when the game was in development, to really make sure that multiplatform development is as easy as it can be. And we have been working on polishing all of those multiplatform abilities and capabilities of the engine. And as we saw with Sonic Forces, yes, we were able to deliver a game across not only the very low-end spec machines, but also the high-end spec machines.” “Our artists are making tons of content at very high levels, and if you got this great and amazing high-spec PC, that’s great. But we also want to make sure, that people who are playing on the Nintendo Switch have the same experience. So, we are not necessarily using the same high-end assets, but the Hedgehog Engine is able to reduce it to a size were it’s going to look very comparable on a Nintendo Switch, as it is to a high-end PC.”
+
+Sonic Frontiers will be available for Switch on November 8, 2022.
+
+Share this: Twitter
+
+Facebook
+
+Reddit
+
+Tumblr
+
+Pinterest
+
+More
+
+Print
+
+Pocket
+
+
+

@@ -1,0 +1,27 @@
+@Yomerodes "As they clearly show, the only port that actually fails at the frame rate test is the Steam Deck."
+
+No, in the video they state that the Steam Deck mostly runs at a locked 720p 60fps in portable mode (1080p 60fps in docked). The only "drops" are very small loading area ones, that typically happen in a few areas of town. However, when the frame rate is capped to 30 or 40fps, it completely eliminates those stutters. But for the most part the game runs at 60fps, max graphics, just fine. In portable mode, the Deck runs at 720p, vs 540p on Switch.
+
+But most importantly, the Steam Deck version has the higher resolution textures. A lot of small texture details appears to be completely smeared out on Switch, which, in a game that's all about its art style, is a disappointment.
+
+Also, the average person is going to play Persona 5 docked sometimes as well. When you compare the docked performance of Steam Deck vs the Switch, the Deck is simply better in terms of frame rate, resolution and higher quality textures. On a big screen, the Switch's low res textures are going to be much more noticeable.
+
+Performance wise: Battery life on Deck is about 4 hours with a capped 40 hertz / 40 fps frame rate. 40hz/40fps is the sweet spot on Steam Deck, as it draws little battery compared to 60hz/60fps, while still maintaining a very smooth motion. Why? Because 30hz = 33.3ms response, 60hz = 16.7 ms and 40hz is mathetmatically right in between both at 25ms. So while 40hz isn't 60, it still feels much smoother than 30. And again, at 40hz, you are getting no frame rate stutters on Deck. One thing I agree with the reviewer about, is the "deeper blacks" of the Switch OLED (I have the OG Switch, so that doesn't apply to me).
+
+Also, keep in mind that the Digital Foundry guy hasn't played the game all the way through on Deck; if you want an actual more realistic opinion of someone who has played it on Deck, the following YouTube videos are much more informative:
+
+"With minimal tweaking, I was able to play through the first 10 hours of the game, at a solid 40 frames per second, max graphics, with no drops, and consistent frame pacing throughout."
+
+"At 40 frames, the Deck's battery will also last for around 4 hours"
+
+Source: https://www.youtube.com/watch?v=s_A-Bf2Pt20
+
+
+
+Persona content creator prefers playing Persona 5 on Steam Deck over Switch:
+
+https://www.youtube.com/watch?v=AgDHX6w_94g
+
+Quote: 'I've played Persona 5 multiple times. I've played it on PS4; Royal on PS4 and PS5, and I've also played the Nintendo Switch version now, as well. I can confidently say that the Steam Deck is the best way that you can experience Persona 5; Valve's Steam Deck is the ultimate way to play Persona 5 Royal':
+
+https://youtu.be/AgDHX6w_94g?t=305

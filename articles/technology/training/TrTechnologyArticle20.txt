@@ -1,0 +1,29 @@
+
+
+
+
+Whether you're a dyed-in-the-wool Radeon fanboy or just a general PC gamer, you've got to be looking ahead with some excitement to the release of AMD's Radeon RX 7900 series graphics cards in mid-December. AMD's presentation left us with some questions, but Frank Azor, AMD's Chief Architect of Gaming Solutions & Marketing, took some time to speak with us as well as a few other outlets and answered many of those questions.
+
+One of the first big questions was "where were the comparisons against NVIDIA?" AMD is normally not shy about comparing its new products to its competitors, where both NVIDIA and Intel typically prefer to compare against their own previous-generation products. We could write reams about why this is, but apparently the reason AMD didn't compare itself to NVIDIA this time around is because the GeForce RTX 4080 isn't out yet, and that's the card that the red team was targeting with its product.
+
+
+
+
+
+Speaking to PC World and responding to a question from the livestream audience , Frank Azor also noted that AMD's FSR3 frame-generation technology is "not a reaction ... to DLSS3," and that the company has been working on it for "a while." He says it's not ready for prime time yet because AMD wants to make FSR 3 continue the tradition of openness that has carried through FidelityFX Super Resolution. In other words, he wants to make it available on older and competitor GPUs, not just on RDNA 3 Radeons.
+
+
+
+
+
+Of course, boost clocks will be higher than the nominal clocks, and AMD isn't disclosing "max boost" numbers, instead preferring to give "game clocks" that it thinks will more accurately represent what gamers will see while gaming. According to Jarred Walton for Tom's Hardware, the maximum boost could be quite a bit higher than that. Speaking on a livestream , Walton stated that AMD told him the GPU was "designed ... to scale to up to 3GHz." Whether this means that the standard Radeon RX 7900 XTX will hit 3GHz, or instead that partner cards with higher power limits can hit 3 GHz—or whether Walton misinterpreted something—we don't know.
+
+
+
+
+
+
+
+
+
+That makes some sense, given the $900 and $1000 price points for the Navi 31-based GPUs. NVIDIA's preliminary pricing on the GeForce RTX 4080 16GB model—which is now the only 4080 model —puts it at $1200, so if AMD's product is competitive, it will certainly have a place in the market. However, AMD could have compared its GPU against NVIDIA's previous-generation parts, which are still technically current-generation below the GeForce RTX 4090—especially if the claims of drastically-improved ray-tracing performance are to be believed.Many details about RDNA 3 were leaked before the launch of the cards, and most of those details were accurate, but one area where leakers really scored a miss is on the topic of clock rates. Rumors had pegged RDNA 3 GPUs at easily over 3GHz, and in some cases as high as 4GHz . Meanwhile, the actual cards that AMD is selling top out at 2.5 GHz, at least for their nominal clock rates.We should have the usual reviews of the new Radeons ready for you as soon as possible, so sit tight and keep your eyes on HotHardware to find out whether AMD's new boards are boom or bust for the red team.

@@ -1,0 +1,189 @@
+The rebirth of the Pixel series in 2021 was rife with problems, so much so that you might be wondering if the Pixel 7 Pro can resolve some lingering Pixel 6 Pro issues. Here’s everything you need to know.
+
+Before we get into the nitty-gritty and intense details, it’s worth noting that, ordinarily, we would not suggest switching from a device after just one year of regular usage. However, some of the more prominent Pixel 6 issues, such as the in-display fingerprint scanner and somewhat poor mobile data reception, appear to have been focus points with the release of the Pixel 7 series.
+
+If you’re coming from an older Pixel or any older device, we’re sure that you’ll be content and, on a day-to-day basis, will not see a major difference from any other Android flagship smartphone — at least if you are not a hard-core gamer.
+
+Video — Google Pixel 6 Pro vs. Pixel 7 Pro: Bug fixer!
+
+Subscribe to 9to5Google on YouTube for more videos
+
+Hardware
+
+Just looking at the specifications of the Pixel 6 Pro and Pixel 7 Pro side by side, and there is little to separate the duo. It’s true that many of the changes are subtle rather than full-blown overhauls.
+
+Google has stuck with the design language that helped the Pixel 6 series stand out when released. While the “Camera bar” has been a defining design trait, the glass panel has been ditched in favor of a metal fusion with the midframe. You can tell that the Pixel 6 Pro and Pixel 7 Pro share a lineage but with differences that help separate the two devices.
+
+Google Pixel 6 Pro Google Pixel 7 Pro Size 6.71 inches 6.71 inches Display 120Hz / LTPO / QHD+ / Gorilla Glass Victus / 3,120 x 1,440 pixels / 512ppi 120Hz / LTPO / QHD+ / Gorilla Glass Victus / 3,120 x 1,440 pixels / 512ppi Chipset Google Tensor Google Tensor G2 RAM 12GB DDR5 12GB DDR5 Storage 128 / 256 / 512GB UFS 3.1 128 / 256 / 512GB UFS 3.1 Battery 5,003mAh 5,003mAh Rear camera 50MP wide / 12MP ultrawide / 48MP 4x telephoto 50MP wide / 12MP ultrawide / 48MP 5x telephoto Front-facing camera 11.1MP 11.1MP Biometrics In-display fingerprint scanner Pixel Imprint fingerprint scanner Colors Cloudy White / Sorta Sunny / Stormy Black Obsidian / Snow / Hazel
+
+Most of the recipe remains the same. Both smartphones come with 6.71-inch QHD+ 120Hz LTPO AMOLED displays. The curve is less pronounced on the 7 Pro, but the experience is relatively identical. What has improved is the in-display fingerprint scanner.
+
+While many have had no issues, Google still made the wise choice to switch out the optical scanner to ensure that the Pixel 7 Pro offers even more reliable biometric unlocking. This is paired with a software-based Face Unlock for added security.
+
+Leaning back into glossy finishes may come as a disappointment – if you prefer to use your phone without a case, dirt and grime can amass. It’s also worth noting that the metal camera bar is great for deflecting smudges from the camera lenses but can scuff easily if not protected. There is also a change to the mmWave bar, which is now smaller, harder to damage, and doesn’t stand out as prominently along the top bezel.
+
+Colors are familiar, but the two-tone design has been ditched on the Pixel 7 Pro this time. There’s no room for a Champagne gold option this time around. Instead, a Hazel color option is offered instead, which retains a gold metal frame.
+
+Software
+
+In day-to-day usage, you’ll notice no great difference between the Pro Pixel duo. Android 13 is running on both devices. Some changes have been made to the new model, with the Face Unlock functionality being a prime difference. Performance gains with Tensor G2 also seem to be minimal, with slick performance on both handsets. This is a big improvement over the buggy rollout and release of Android 12 — which shipped with the Pixel 6 series.
+
+Material You and Dynamic Color are tuned with more refinements and problem areas addressed. What’s also interesting is that you can scale the UI between 1080p and 1440p on the Pixel 7 Pro, but not the Pixel 6 Pro. This can help with battery life but not noticeably so in our experience.
+
+Gaming still isn’t a strong suit for Tensor, with heat and frame drops quite common. You’ll be able to play most games, but the experience is certainly a few steps behind devices with the Qualcomm Snapdragon 8 Gen 1 and 8+ Gen 1.
+
+While there were rumors ahead of the launch, the 6 Pro did not offer software-based Face Unlock. It’s present on the Pixel 7 Pro in tandem with the in-display scanner. This helps alleviate any frustrations that people might have.
+
+Google Pixel 6 Pro Google Pixel 7 Pro Software Shipped with Android 12 Shipped with Android 13 Support window October 2026 October 2027 Features In-display fingerprint scanner
+
+Magic Eraser
+
+Face Unblur
+
+Motion modes
+
+On-device Live translation In-display fingerprint scanner
+
+Face Unlock
+
+Photo Unblur
+
+Cinematic Blur
+
+Google One VPN
+
+Cough and snore detection
+
+Pixel 7 owners will also get access to the Google One VPN for the life span of the device. This is a big component in the security arsenal and one that usually comes with a $9.99 per month fee as part of the 2TB Google One storage tier.
+
+Photo Unblur is bundled in with the 2022 flagship. This tool found in Google Photos lets you apply a machine-learning filter that will enhance blurry shots. It’s not limited to photos taken with your Pixel 7 Pro and can breathe new life into older photos.
+
+The other notable addition to the Pixel 7 Pro that you won’t find on the 6 Pro is a new Digital Wellbeing option that allows you to track snoring and coughing while sleeping. When a Bedtime schedule is set, your phone is able to identify coughing or snoring when your phone is charging at your bedside.
+
+Because the Pixel 6 Pro launched with Android 12 and updated to Android 13, it’ll get two further major OS builds up to and including Android 15. The full support window for the Pixel 6 and 7 series remains at 5 years but with security patches in the final years. Support will cease for the Pixel 6 Pro in October 2026 while the Pixel 7 Pro will be supported up to October 2027. It’ll get Android 16 within this time period.
+
+Battery
+
+When it comes to the battery and charging of the latest “Pro” Pixel, absolutely nothing has changed. Internal cell size is still capped at approximately 5,000mAh (or 5,003mAh to be precise), and the maximum charging speeds remain identical.
+
+Daily life spans for the Pixel 6 Pro and Pixel 7 Pro are comparable, even despite the supposed 20% power efficiency gains. All-day longevity is par for the course with all of the power-saving modes, helping you to achieve an even greater life span if you are willing to forgo selected functions and features.
+
+Google Pixel 6 Pro Google Pixel 7 Pro Battery size 5,003mAh 5,003mAh Charging speed 30W wired (23W peak)
+
+21W Qi wireless w/ Pixel Stand 2
+
+5W reverse wireless 30W wired (23W peak)
+
+21W Qi wireless w/ Pixel Stand 2
+
+5W reverse wireless
+
+The wired charging speeds are still capped at 23W, despite Google’s protestations that a 30W power brick is required. That is partnered with 21W Qi wireless speeds courtesy of the second-generation Pixel Stand. Reverse wireless charging for accessories like the Pixel Buds and Pixel Buds Pro — no support for Pixel Buds A-series or Pixel Watch though — is also capped at 5W.
+
+Cameras
+
+On paper, not a great deal has altered when it comes to the Pixel 6 Pro and the Pixel 7 Pro. What’s important here is that these two devices represent the best camera systems on Google smartphones to date. The improvements come in the software department, although the impressive telephoto lens has been switched out to garner a greater zoom range on the newer model.
+
+The core triple camera system is familiar as the 50-megapixel Samsung ISOCELL GN1 makes another appearance. The 12-megapixel Sony IMX386 ultrawide is also used once again, but an improved Samsung GM1 5x optical telephoto zoom lens gives the Pixel 7 Pro an edge over the Pixel 6 Pro’s Sony IMX586 sensor with its 4x optical zoom capabilities.
+
+Because of this change and some software tuning improvements for Super Res Zoom, the Pixel 7 Pro has the ability to punch in all the way up to 30x. That is a substantial increase over the 20x zoom cap you’ll find on the Pixel 6 Pro.
+
+Google Pixel 6 Pro Google Pixel 7 Pro Main sensor Samsung GN1
+
+50MP
+
+f1.9 aperture Samsung GN1
+
+50MP
+
+f1.9 aperture Secondary sensor Sony IMX 386
+
+12MP ultra-wide-angle
+
+f2.2 aperture
+
+114° FOV Sony IMX 386
+
+12MP ultra-wide-angle
+
+f2.2 aperture
+
+126° FOV Tertiary sensor Sony IMX 586
+
+48MP telephoto
+
+f3.5 Samsung GM1
+
+48MP telephoto
+
+f3.5 Front-facing sensor Sony IMX 663
+
+11.1MP
+
+f2.2 Sony IMX 663
+
+11.1MP
+
+f/2.2 Camera hardware features OIS
+
+EIS
+
+PDAF OIS
+
+EIS
+
+PDAF Camera software features 20x zoom
+
+Night Sight Portrait
+
+Portrait Light
+
+4K UHD 60fps
+
+Live HDR+ Video
+
+Cinematic Pan
+
+Locked Focus
+
+Active mode 30x zoom
+
+Macro Mode
+
+Guided Frame
+
+4K UHD 60fps (all lenses)
+
+10-bit HDR10 Video
+
+Real Tone 2.0
+
+Cinematic Blur
+
+It’s almost unfair to compare the Pixel 6 Pro camera suite against the Pixel 7 Pro, given that many exclusive features exist on the newer device. You get a number of key functionality that comes courtesy of the Tensor G2 processor too.
+
+The most notable being the 30x zoom and Macro Modes. Both of these new modes rely on some hardware changes, with the improved zoom abilities provided by the improved 5x lens. However, the macro shooting mode utilizes the ultrawide lens increased 114- to 126-degree field of view to allow for close-up shots without the need for extra on-device hardware.
+
+It’s not clear if these will come to the Pixel 6 Pro, but Guided Frame is set to be made available soon. Although not confirmed, Real Tone improvements could also come with a future Feature Drop, but this is simply fine-tuning for the impressive skin tone tech.
+
+Video modes are where the Pixel 7 Pro has truly leveled up. 4K UHD video at 60fps is available on all of the cameras, including the selfie camera, for the first time. That’s not all, as you can switch between the rear cameras at this framerate too — something many other Android phones and even iPhones do not currently offer. 10-bit HDR10 video can be recorded at up to 4K 30fps too. A new Cinematic Blur mode provides fake bokeh effects at up to 1080p 24fps.
+
+All of the Pixel 6 Pro’s existing modes such as Locked Focus, Cinematic Pan, Night Sight Portrait, and more are also included. In our experience, the actual image and video processing times appear to be substantially faster on the Pixel 7 series this year. Most images are ready instantly, while on Pixel 6 Pro it can sometimes take a second for processing to be completed.
+
+Pixel 6 Pro vs. Pixel 7 Pro: Truly worth the upgrade?
+
+About upgrading: 9to5Google often gives specific product recommendations. Sometimes, we may suggest not upgrading, due to various reasons including, but not limited to: increased device cost, negligible performance gains, or environmental impact. Whether to upgrade is always your call, but our aim is to help you make as informed a decision as possible.
+
+As noted at the top of this post, in normal circumstances, at no point would we suggest switching from a year-old smartphone. Due to the persistent frustration and issues that have tarnished the Pixel 6 Pro for many people, the Pixel 7 Pro offers a viable upgrade path with many important and notable improvements. You may have opted to look elsewhere by this point in time, which is understandable.
+
+That said, while the Pixel 7 Pro is not the perfect smartphone, it’s the closest that Google has come to crafting a “perfect” Pixel device. That’s a big deal given the teething problems that have pained previous models so extensively.
+
+To simplify, if you want a more reliable, almost flawless fingerprint scanner and a device that has strong signal/connectivity in more places, then trade in your Pixel 6 Pro and pick up the Pixel 7 Pro. Otherwise, if you’re issue-free, you’re not missing out on too many changes.
+
+Where can I get the best deal on the Pixel 7 Pro?
+
+If you want what could be Google’s best flagship to date, then the Pixel 7 Pro is priced at $899 and available at stores, including Google, Amazon, Best Buy, Verizon, Target, and AT&T, plus many more.
+
+FTC: We use income earning auto affiliate links. More.
+
+Check out 9to5Google on YouTube for more news:

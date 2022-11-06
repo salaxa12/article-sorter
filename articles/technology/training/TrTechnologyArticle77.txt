@@ -1,0 +1,15 @@
+Back in July, OpenAI’s DALL-E went from being restrictive to more openly available for people. This venture is now taking a new step as the company has now released the DALL-E API to app developers. Check out the details.
+
+DALL-E Is Now Becoming More Open!
+
+DALL-E API is now a part of the public beta, allowing more apps to use DALL-E or the recently introduced DALL-E 2. The AI image generator tool allows people to enter any random keywords, based on which it will generate an image by following “natural language descriptions.”
+
+OpenAI has already released improved moderation methods so that the tool isn’t used for harmful reasons. There are filters for “hate symbols and gore“ and DALL-E also restricts people from uploading realistic images or images sharing resemblance with other people, especially famous ones.
+
+It is also revealed that DALL-E is being used by over 3 million people and is already being used by third-party apps. Microsoft has integrated DALL-E in its graphic design app called Designer and will now include the tool in Bing and Microsoft Edge.
+
+Another client is the fashion and lifestyle operating system CALA, which uses DALL-E to generate design ideas. And Mixtiles is also using DALL-E. OpenAI’s blog post reveals that “Mixtiles uses the DALL·E API to create and frame emotionally resonating artwork, by guiding users through a creative process that captures childhood memories, dream destinations, and more.“
+
+The company now provides people more control over the artwork created and lets people own them. Earlier, ownership rights were owned by OpenAI. It is said that this is possible due to the “improvements to our safety systems which minimize the ability to generate content that violates our content policy.” There will also be a My Collection for people to hold their DALL-E creations.
+
+To recall, DALL-E recently got the ability to edit human faces for people to make some tweaks. It is claimed that there won’t be any misuse. It remains to be seen which apps end up using DALL-E. So, are you excited to see the DALL-E magic on other apps? Let us know your thoughts in the comments below.

@@ -1,0 +1,19 @@
+AMD and Nvidia don’t typically reference each other by name at public events, but at its RX 7000 and RDNA 3 launch, AMD just made some indirect nods to Nvidia’s recent problems with melting power adapters.
+
+“There’s no need to rebuild your desktop. No need to upgrade your case. And there’s no need for a new power adapter,” said Scott Herkelman, head of graphics at AMD, with a sly smile on his face. “We made it as easy as pulling out your old card and putting in a new one.”
+
+The comment was met by a smattering applause from the crowd, happy to praise AMD’s use of more conventional power adapters. The reference made by AMD is to Nvidia’s recent problems with its RTX 4090.
+
+Nvidia has been using the smaller 4×8-pin power connection since the RTX 30-series line, which requires an adapter to a standard 16-pin. The connection is awkward and ugly when installed in a case, but when it came to the RTX 4090, it’s produced some much more worrying effects, with reports of melting adapters spreading across the internet like wildfire.
+
+This happened despite the fact that prior to launch, Nvidia made confident statements about the 8-pin connector not having problems, despite the new 450-watt power draw of the new GPU.
+
+By contrast, AMD’s new RX 7900 XTX and 7900 XT both use a standard 16-pin connector, which avoids any potential overheating problems and doesn’t require an adapter to plug into your power supply.
+
+The comment about not needing a new case made by Herkelman is also a reference the size of the RTX 4090, which remains larger than some PC cases can support. Both the RX 7900 XTX and 7900 XT are a “2.5 slot size,” compared to the triple-slot design of the RTX 4090. By comparison, the 7900 XTX is 287mm long, while the RTX 4090 is 336mm long.
+
+AMD also directly called out “its competitor” when talking about ports. The RX 7900 XTX and 7900 XT both support DisplayPort 2.1, which allows for higher refresh rates at high resolutions, including up to 165Hz 8K. The RTX 4090, meanwhile, is stuck on DisplayPort 1.4a, which is capped at 60Hz for standard format 8K monitors.
+
+Of course, the most important direct comparisons between the RX 7900 XTX and the RTX 4090 weren’t mentioned. AMD did call its own GPU the “most powerful GPU under $1,000,” but that’s not saying much considering how expensive Nvidia’s latest cards are. We’ll have to wait until we get the new AMD GPUs in next month to see how the direct performance comparisons play out.
+
+Editors' Recommendations

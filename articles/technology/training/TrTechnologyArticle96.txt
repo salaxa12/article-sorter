@@ -1,0 +1,21 @@
+Update 11/05/2022 9:30 am PT
+
+Another GeForce RTX 4090 owner has fallen victim to the native 16-pin power connector meltdowns. But, according to Redditor (opens in new tab), he manipulated the cable carefully and didn't bend or twist it unnecessarily. Luckily, the user discovered the meltdown before it could do any damage to the power connector on his graphics card. His system consisted of MSI's GeForce RTX 4090 Gaming X Trio 24G graphics card and MPG A1000G power supply.
+
+The 16-pin power adapter debacle has a dedicated mega thread on Reddit (opens in new tab). At the time of writing, the number of casualties has ascended to 19, where two cases involve the native 16-pin power connector.
+
+Original Article
+
+By now, you may have read many horror stories about Nvidia's 16-pin power adapter melting on the GeForce RTX 4090. However, the terror doesn't stop there. A GeForce RTX 4090 owner (via Reddit (opens in new tab)) has reported the first alleged case of a 12VHPWR power connector meltdown from a native ATX 3.0 power supply.
+
+While a bit expensive, the GeForce RTX 4090 is one of the best graphics cards for gaming. It's a shame that the price tag may not be what's scaring off consumers but the fact that the included 16-pin power adapter is a potential fire hazard. There have been 18 "confirmed" cases on Reddit (opens in new tab) ranging from different graphics card vendors. Nvidia has promptly investigated the issue and instructed its partners to send melted GeForce RTX 4090 graphics cards back to the chipmaker's lab for analysis.
+
+According to the Facebook post (opens in new tab), the owner used an MSI GeForce RTX 4090 Gaming X Trio 24G graphics card and MEG Ai1300P power supply. Having read about the frightening user feedback with the 16-pin power adapter, the user opted for an ATX 3.0 power supply with a native 12VHPWR power connector. Unfortunately, the photographs showed that the power connector had started to melt. A couple of the ports already looked disfigured. Although he didn't share any pictures of his system, the Facebook user claimed he didn't bend the cable excessively. MSI has reached out to him to replace the graphics card and power supply.
+
+Image 1 of 3 12VHPWR Connector (Image credit: Ricky TO/Facebook ) 12VHPWR Connector (Image credit: Ricky TO/Facebook ) 12VHPWR Connector (Image credit: Ricky TO/Facebook )
+
+Nvidia hasn't shared the results of its investigation, suggesting that the company may still be exploring to find the root of the problem. Thus far, we've only seen the meltdowns with the 16-pin power adapter. However, this new user report does make us question whether the issue goes deeper than the design of Nvidia's 16-pin power adapter. Instead, the problem could lie with the 12VHPWR power connector, the quality of the components, the GeForce RTX 4090, or a combination of different factors. When the 12VHPWR power connector debuted on GeForce RTX 40-series graphics cards, there were concerns about the peril of pushing 600W through that small power connector. The GeForce RTX 4090 is a 450W graphics card, but when you start overclocking, running benchmarks, or torturing tests like FurMark, the power consumption will quickly go over the 500W to 550W mark easily.
+
+Initially, the 16-pin power adapter was the scapegoat for the fiasco. It would appear that a third-party adapter or a direct connection to the power supply could mitigate the meltdown. Apparently, the solution may not be that easy after all. ATX 3.0 power supplies are scarce right now, which could explain why we haven't seen many reports of a native 12VHPWR power connector melting. Alternatively, it could be a fluke. Then again, that's what many thought when the first case of the 16-pin adapter power melted, and now we're up to 18 incidents.
+
+GeForce RTX 4090 owners are probably in a tricky spot now, as neither the power adapter nor the power connector seems safe. So should we pull the plug and stick to integrated graphics while we wait for a solution? Or should we continue to play Russian roulette? Unfortunately, Nvidia has been silent since the start of the 16-pin power adapter meltdown disaster, which doesn't help either.

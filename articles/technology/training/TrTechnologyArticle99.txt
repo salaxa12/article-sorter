@@ -1,0 +1,69 @@
+Apple's next big software update includes an entirely new Apple app, a controversial change in the TV app, better Siri control, an improved Shortcuts app, interesting Safari upgrades, and more. Keep reading to see what iOS 16.2 has to offer your iPhone. The iOS 16.1 update appeared on Oct. 24 with over 20 big features and changes, and the first iOS 16.2 beta appeared just one day later, and there's no expected release date for the stable software version. It took 40 days of testing before iOS 16.1 hit everybody's devices, so we may be looking at a similar timeline for iOS 16.2. Bloomberg journalist Mark Gurman mentioned in his "Power On" newsletter that iOS 16.2 are expected to be released in mid-December, but it's not known if that comes from Apple or is just an educated guess. Forty days puts a possible release to the second week of December, so that's not far off track. While still in beta development, there are many new things to try out on iOS 16.2. While I'll be focusing on the new features from an iPhone perspective, most of the items listed below are also working on iPadOS 16.2 for iPad and macOS 13.1 Ventura for Mac, also in beta.
+
+1. The New Freeform App Apple's new Freeform app, available for iPhone, iPad, and Mac, is another productivity tool you can add to your arsenal. It's one big flexible canvas, like a digital whiteboard/corkboard hybrid, and you can add post-it notes, shapes, files, links, scans, photos and videos, audio, typed text, and markups like drawings and highlights to it. Freeform's biggest highlight is collaboration, so you can plan projects, brainstorm ideas, create inspiration boards, and more. You can see everything collaborators do on the canvas, from adding content to making edits, all in real time. Collaboration can be started via FaceTime, with updates from everyone visible in an associated Messages thread. You can show or hide the canvas grid from within each board, and the app's settings let you show or hide the center, edge, and spacing guides.
+
+2. Prefer Silent Responses for Siri On iOS 16.0–16.1, the only options you have for verbal Siri responses on your iPhone are between Automatic and Prefer Spoken Responses. Automatic uses on-device intelligence to determine when it should speak or not, while Prefer Spoken Responses commands Siri to almost always talk out loud, even with Silent Mode enabled. This is in contrast to previous iOS versions that always had a third option that gave you more control over keeping Siri quiet nearly all the time. The new iOS 16.2 update brings back the third option as Prefer Silent Responses. According to the fine print in Settings –> Siri & Search –> Siri Responses, Siri will respond silently with this option enabled, "except when you appear to be driving or using headphones with the screen off." Full Guide: Apple Just Fixed Siri's Voice Feedback Issue on iOS 16, Giving You Back More Control Over Audible Responses
+
+3. Start Live Activities from Spotlight Live Activities became available on iOS 16.1, but iOS 16.2 brings more functionality by letting you start them directly from Spotlight Search. For example, if you want live updates for a sports game, you can search for one of the teams, tap the score, then choose "Follow." Third-party apps can build this integration into their Live Activities, but you can start using it right now with Apple's partnership with the National Basketball Association and English Premier League (U.S. and Canada only), as well as Major League Baseball (U.S., Canada, Australia, U.K., Brazil, Mexico, Japan, and South Korea).
+
+4. City-Related News for Weather The Weather app is getting another upgrade to add to its already long list of new iOS 16 features. For select cities, you may see weather-related news articles below the 10-day forecast for the city or region. Tapping an article will open it in the News app. You'll still see these Apple News links if you've deleted the app, but the links will open in your web browser instead. The weather for Austin in iOS 16.1 (left) vs. iOS 16.2 (right).
+
+5. Weather Forecast Data by the Minute In the Weather app, you can open up a large modal sheet to view the daily summary with bar and line charts for most weather attributes on a particular day. Those bar and line charts are interactive, so you can drag your finger across them to see the data values at different times of the day. IOS 16.1 and earlier would only show you the measurement changes by the hour. That still applies to the Precipitation bar charts, but the rest of them — Temperature, UV Index, Wind, Feels Like, Humidity, Visibility, and Pressure — are all by the minute on iOS 16.2. So now there's no guessing what the weather will be like at any given moment between hours, at least for everything but rain. Data changes in Weather's charts on iOS 16.1 (left) vs. iOS 16.2 (right).
+
+6. Shortcut Actions for Lock Screen The Shortcuts app has been constantly tweaked on iOS 16, and the iOS 16.2 update is no different. This time, there are a few differences and new scripting actions available for wallpapers: Get Wallpaper (new): Gets all of your Lock Screen wallpapers, and returns them as output so you can use them with other actions. This action can not be run on Apple Watch, Mac, and iPad.
+
+Gets all of your Lock Screen wallpapers, and returns them as output so you can use them with other actions. This action can not be run on Apple Watch, Mac, and iPad. Switch Between Wallpapers (new): Switches the current Lock Screen wallpaper. If the wallpaper has a linked Focus, this action will set the Focus, too. This action can not be run on Apple Watch, Mac, and iPad.
+
+Switches the current Lock Screen wallpaper. If the wallpaper has a linked Focus, this action will set the Focus, too. This action can not be run on Apple Watch, Mac, and iPad. Set Wallpaper Photo (renamed): Sets the wallpaper to the specified image. This action can not be run on Apple Watch.
+
+7. More Shortcut Actions for Books In an early iOS 16.0 beta, Apple teased a bunch of new actions in Shortcuts for its Books app, but none of them materialized for the stable iOS 16.0 or 16.1 updates. Most of the teased actions are back on iOS 16.2, giving us more than just Add PDF to Books and Siri-suggested actions based on your activity. Add PDF to Books
+
+Change Book Appearance
+
+Change Page Navigation
+
+Change View
+
+Open Book or Audiobook
+
+Open Collection
+
+Play Audiobook
+
+Search in Books
+
+Turn Page Full Guide: Apple Finally Gave Us More Shortcut Actions for Books
+
+8. Sleep Widgets for Your Lock Screen We already had Sleep widgets for the Home Screen and Today View, but now there are some for the Lock Screen that can go beneath the time. The same two widgets are available, listed below, as well as a third option that is simply a shortcut to the Sleep section in the Health app. Data and Schedule: See how you slept and review your sleep schedule.
+
+See how you slept and review your sleep schedule. Sleep: View your most recent sleep session including sleep stages.
+
+9. Another Stocks Widget for Your Lock Screen Watchlist and Symbol widgets for Stocks are still available on your Lock Screen, but iOS 16.2 brings a third option for Symbol with Chart. It has the same description that Symbol has — "view price quotes and track performance of a symbol throughout the day" — but replaces the current price with a line chart of the present day's activity (or last known activity when trading hours are closed).
+
+10. Updated Game Center Widgets While there are still three Continue Playing widgets for Game Center on the Home Screen and Today View, the three Friends Are Playing widgets available on iOS 16.1 and earlier are now called Activity on iOS 16.2, and they work a bit differently. The game will still open if you tape its name or icon in the widget, but a few more things are going on in the new version. First, you can tap "Activity" to open up a new full-screen Game Center overlay window with more activity details. Second, you can tap a contact's name to open up their profile in the same overlay window. Closing either window takes you back to the widget.
+
+11. Turn Off Hide IP Address in Safari If you subscribe to iCloud+ and use iCloud Private Relay to hide your IP address in Safari from the websites you visit — not just known trackers that everyone can enable — you can now toggle the option off per website from the page settings. Right now, it appears to work per session, so you may have to turn it off again for a site if you refresh the page. A proper toggle switch under Website Settings may be coming in a future update, but nothing is there now or in the Settings app.
+
+12. Featured Auto-Playing Previews in the TV App The Apple TV app is getting a huge change on iOS 16.2, which also affects iPadOS 16.2, tvOS 16.2, and macOS Ventura 13.1, and it will likely spill over to smart TVs. At the top of the Watch Now tab, you'll see a large featured carousel that auto-plays trailers for the TV shows and movies it recommends. You can swipe through the list or let it move to each title itself after each title's trailer finishes. Some will enjoy this, but others will undoubtedly hate it because it forces the Up Next queue from the top to below the large featured block. Currently, there doesn't seem to be a way to stop the video previews from auto-playing. The Auto-Play Video Previews switch in Settings –> Accessibility –> Motion doesn't work for Apple TV, and there isn't a new switch in the TV app's settings like the App Store has to turn on or off Video Autoplay or use it for Wi-Fi only. Up Next at the top on iOS 16.1 (left) vs. below the new featured videos on iOS 16.2 (right).
+
+13. New Home Architecture Following iOS 16.1's new support for Matter accessories, an architecture upgrade for the Home app is available for iOS 16.2, iPadOS 16.2, macOS 13.1, and HomePod 16.2. According to Apple, the update will make smart home performance faster and more reliable, especially in homes with many connected accessories. You will see the option to install the Home update when you open the Home app. If not, you can update via Home –> My Home –> Home Settings –> Updates. All connected devices must run the latest software to view, access, and control a home updated to the newest architecture. If they aren't, you won't be able to use them.
+
+14. Provide Unintentional SOS Call Feedback In the beta, iOS 16.2 shows a notification when you trigger Emergency SOS on your iPhone. When you tap the notification, it opens the Feedback tool, asking for feedback on Unintentional SOS Calls. If you state that you unintentionally triggered Emergency SOS, you'll see more questions, including: How did you realize that Emergency SOS was triggered on your iPhone?
+
+Where was your iPhone when Emergency SOS was triggered?
+
+What were you doing at the time Emergency SOS was triggered?
+
+Do you know how Emergency SOS was triggered on your iPhone?
+
+Has Emergency SOS been unintentionally triggered on your iPhone in this way before? After you submit or cancel the report, you'll end up in your Emergency SOS settings to adjust preferences if needed. Apple likely added this to iOS 16.2 because of a long history of accidental emergency calls and more recent reports of Crash Detection on iPhone 14 series models going off on rollercoasters, when skydiving, and in other scenarios with extreme accelerations and decelerations up to 256 G-forces.
+
+15. Visual Change for Software Update In one of iOS 16.2's minor updates, the Software Update screen in Settings shows the currently installed iOS version using a big, bold font.
+
+16. CSS Gradient Interpolation Color Spaces in Safari While it was already available as an experimental Safari setting since iOS 15.4, iOS 16.2 finally enables the CSS Gradient Interpolation Color Spaces by default. Web app engineer Adam Argyle has a good demonstration of what it looks like on Codepen that you can try out. In the GIFs below, you can see that no gradient colorspaces appear on iOS 16.1 (left) but do on iOS 16.2 (right).
+
+17. CSS color-mix() in Safari Another experimental Safari setting now enabled by default on iOS 16.2 is CSS color-mix(), which takes two color values and mixes them in a colorspace by a given amount. You can test it out by visiting MDN Web Docs' page on the functional notation, which has an example near the bottom. Below, you can see that iOS 16.1 does not show mixed colors at all (left) but iOS 16.2 does (right).
+
+18. Expanded 120 Hz ProMotion Support Third-party apps that animate UI elements with SwiftUI instead of UIKit reported issues viewing the animations via the 120 Hz refresh rates on ProMotion displays. While it was never an issue for iPads, it's now fixed on iOS 16.2 for iPhones.
+
+iPadOS 16.2-Only Features Apple brought back the external display support for Stage Manager on M1 and M2 iPad models, which lets you use up to eight apps simultaneously instead of up to four.

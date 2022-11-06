@@ -1,0 +1,9 @@
+Cherry is releasing the MX Black Clear-Top (aka the "Nixie") a new version of a keyboard switch from the '80s prized for its typing feel and acoustics. It was manufactured for a German company called Nixdorf (hence the nickname) that mainly built keyboards for terminals, servers and mini computers. Because the Nixie was only built for a few years, used switches are rare and command high prices — a fact that no doubt inspired Cherry to start building an updated version.
+
+The original Nixie switch was a variant of Cherry's MX Black switch with very specific modifications. Namely, the actuating force was bumped slightly from 60 to 63.5 centinewtons, and a diode was integrated into the switch for n-key rollover (NKRO) which allows the keyboard to register every key press, even if done simultaneously.
+
+The new version carries the same specs and looks, including "the familiar milky top housing, black bottom housing, and a black stem," Cherry wrote in a press release. It has the same actuation force of 63.5 centinewtons, a pre-travel of 2 mm, and a total travel of 4 mm. The company also retained the same vintage design for the spring.
+
+Turn on browser notifications to receive breaking news alerts from Engadget You can disable notifications at any time in your settings menu. Not now Turned on Turn on
+
+At the same time, though, it's being built using the company's latest production systems so it's up to the quality of its latest MX switches. Cherry will offer the MX Black Clear-Top both with or without grease works, with the latter being for enthusiasts who want to do any lubrication themselves. The switches arrive at the beginning of 2023, but Cherry has yet to announce the price.

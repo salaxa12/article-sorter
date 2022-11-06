@@ -1,0 +1,17 @@
+What just happened? As AMD was packing up after its presentation in Las Vegas yesterday, PCWorld interviewed Frank Azor, Chief Architect of Gaming Solutions, about the Radeon 7000 series and FSR3. PCWorld was also taking questions from their live audience on YouTube, and one topic that seemed to be popping up a lot was why AMD hadn't compared its new cards against the RTX 4000 series in its presentation.
+
+"Why didn't we see Radeon 7000 up against Nvidia, what's up with that?" PCWorld asked. "Are you afraid? What's going on?" The logical answer that most commenters were suggesting turned out to be the right one: AMD doesn't have an RTX 4080 on hand to benchmark yet, and nor does it want to use Nvidia's propped-up numbers in its presentation.
+
+"Nvidia hasn't sent me a 4080 yet, so I'm kinda waiting for that to come in before I can have the comparisons," Azor laughed. "No, two things really: this card is designed to go against the 4080. And we don't have benchmark numbers on the 4080 yet. Plus, we're not in the business of giving them free marketing and advertising. They don't exactly put our benchmarks in their charts, so I'm not going to do them any favors there," he concluded.
+
+"With how we are performing right now, we're confident and we're comfortable that we're going to make them sweat."
+
+The Radeon RX 7900 XTX will cost $999 when it launches on December 13. The GeForce RTX 4080 (formerly the 16 GB model, now the only model) will cost $1,200 when it lands on store shelves November 16. Azor was quick to pit the two cards against each other and discourage the rivalry between the 7900 XTX and RTX 4090, which is already available for $1,600.
+
+"Let's be realistic, [the 7900 XTX] is a $999 card. It's not a 4090 competitor, which costs 60% more. This is a 4080 competitor. Let's be really clear about the class that we're talking about," he said.
+
+It doesn't sound like AMD has anything faster than the 7900 XTX in the works for now either. Leaked block diagrams show that the 7900 XTX uses all the shaders that are available in the Navi 31 GCD. It also can't be clocked much higher without abandoning the power budget according to recent reports that cite discussions with board partners.
+
+An AMD representative did tell PCWorld in an earlier interview that the GCD was designed to be clocked up to 3 GHz without power or temperature limitations, so maybe it could be pushed further with 4090-like power consumption and cooling -- but AMD seems understandably reluctant to go down that route.
+
+However, if you'd like to find the limits of the 7900 XTX yourself, EKWB has already announced its corresponding line of water blocks, beating most of AMD's usual board partners to the punch. Both the Plexi and Acetal models will cost $250 and start shipping in early December.

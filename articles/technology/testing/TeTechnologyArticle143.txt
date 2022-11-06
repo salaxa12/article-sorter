@@ -1,0 +1,25 @@
+ASUS is launching new DUAL series in white
+
+With the launch of the new RTX 3060 series from NVIDIA, ASUS is refreshing its portfolio with the first DUAL White graphics cards.
+
+ASUS RTX 3060 Ti/3060 Dual White Series, Source: ASUS
+
+Although Ampere architecture is already 2 years old, NVIDIA and their board partners are still making new RTX 30 cards. The company has just released its RTX 3060 8GB and RTX 3060 Ti GDDR6X models last month, which was a perfect opportunity for ASUS to show something new for a change.
+
+ASUS RTX 30 lineup did not have any white graphics cards except ROG Strix White and GUNDAM series, but those were all premium (RTX 3070+) SKUs. The company has now released four new DUAL WHITE cards as part of their new RTX 3060 launch.
+
+ASUS RTX 3060 Ti GDDR6X Dual White Series, Source: ASUS
+
+ASUS White models will be available with optional factory-overclocking:
+
+ASUS RTX 3060 Ti GDDR6X 8GB DUAL WHITE OC (DUAL-RTX3060TI-O8GD6X-WHITE) OC mode : 1710 MHz (Boost Clock) Default mode : 1680 MHz (Boost Clock) Dimensions: 230 x 120 x 42 mm Power: 2x 8-pin
+
+ASUS RTX 3060 8GB DUAL WHITE OC (DUAL-RTX3060-8G-WHITE) OC Mode: 1867 MHz (Boost Clock) Default Mode: 1837 MHz (Boost Clock) Dimensions: 200 x 123 x 38 mm Power: 1x 8-pin
+
+
+
+The RTX 3060 Ti features dual 8-pin power connectors, while the RTX 3060 8GB relies on one. Gamers can expect boost clocks up to 1867 MHz with the cheaper SKU and up to 1710 MHz boost with the Ti GDDR6X variant.
+
+ASUS RTX 3060 8GB Dual White Series, Source: ASUS
+
+The Ti model is 23 cm long and has the same design as newly launched DUAL series in black. Similarly, the 3060 8GB SKU is a repainted DUAL black SKU which is 20 cm long. We have not found any of the cards in stock yet, but these cards are new releases, so we should give it some time.

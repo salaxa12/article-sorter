@@ -1,0 +1,25 @@
+AMD RDNA3 architecture ‘to exceed 3 GHz’
+
+We received a picture showing the new Navi 31 GPU block diagram.
+
+AMD Navi 31 GPU is a chiplet design with one GCD (Graphics Compute Die) and six Memory Cache Dies (MCDs). The outer dies house dual 32-bit memory controllers each, combined with large L3 cache. These less critical memory and cache controllers were put on a cheaper TSMC 6nm node, while the main graphics die is using a TSMC 5nm node.
+
+AMD has thus far confirmed that full Navi 31 GPU features 96MB of L3 Cache (aka Infinity Cache), but the company has not yet confirmed the L0, L1 and L2 caches. Those are mentioned in the new slide:
+
+L0 – 3MB – 240% increase
+
+L1 – 3MB – 300% increase
+
+L2 – 6MB – 50% increase
+
+L3 (Infinity Cache) – 96MB (32MB smaller than Navi 21)
+
+AMD RDNA3 Navi 31 Block Diagram, Source: VideoCardz
+
+The diagram shows AMD Navi 31 six Shader Engine layout, each with 8 dual Compute Unit. AMD has doubled the compute throughput by adding dual-issue SIMD to their design, but the core count has not been doubled. This is why the Stream Processor count is 6144, but effective single-precision compute performance has increased to 61 TFLOPS.
+
+The slide also mentions that the RDNA3 architecture is to exceed 3 GHz. This might confirm the reports that the architecture is designed to scale up to 3.0 GHz, although the actual reference design is not going above 2.5 GHz boost.
+
+AMD Radeon RX 7900 series are now set to launch on December 13th. We are uncertain if there is a separate embargo on RDNA3 architecture details, but it is apparent that there are more slides that may still see the light sooner.
+
+Many thanks to Mr. Blonde for the photo!

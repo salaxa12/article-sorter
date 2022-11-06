@@ -1,0 +1,47 @@
+This is what Meta Quest Pro looks like from the inside
+
+Image: iFixit
+
+Der Artikel kann nur mit aktiviertem JavaScript dargestellt werden. Bitte aktiviere JavaScript in deinem Browser und lade die Seite neu.
+
+The iFixit teardown of the Meta Quest Pro reveals technical peculiarities of the device, a complex build, and poor repairability.
+
+The mixed reality headset has been available in stores since late October. Teardown technician Shahram Mokhtari disassembled the $1,500 Meta Quest Pro (info) into its individual parts – and destroyed the device in the process.
+
+The headset is apparently not designed for easy disassembly and repair. It contains a lot of glue, tamper-proof stickers, and inaccessible screws. The iFixit expert often had to use force to get to various components. Meta Quest Pro is “a fascinating, if largely unfixable device,” says the technician.
+
+Missing depth sensor and new chip cooling
+
+The iFixit teardown reveals interesting insights into the hardware’s inner workings. For one, there is the battery, which is housed in the rear part of the head mount for the purpose of comfort and weight balance and therefore has a curved shape. An unusual sight.
+
+After removing the head mount, the expert turns to the case. Uncovering the front is difficult because the front cover (made of plastic, not glass!) is firmly glued. After the successful removal, the headset reveals the sensors. A depression above the central RGB camera can be seen well, which is evidence of the depth sensor that was removed at the last minute.
+
+The technician next exposes the heart of the Meta Quest Pro: the motherboard. The Qualcomm Snapdragon XR2+ SOC (info) can be seen along with separated RAM blocks and a heatsink that extends to both sides. Due to the spatial separation of chip and RAM and the new heat sink, the SOC clocks 50% faster than a conventional Snapdragon XR2, installed in Meta Quest 2, among others.
+
+Meta Quest Pro: “Most difficult teardown in a long time”
+
+Following that, it is a matter of disassembling the optical block on the inside of the headset. There is a fan underneath each of the two panels.
+
+Because pancake lenses let in much less light than the Meta Quest 2’s Fresnel lenses, the displays have to shine many times brighter, which generates significantly more waste heat and required dedicated fans. The pancake lenses themselves appear to be plastic instead of glass, potentially making them lighter and cheaper.
+
+MIXED.de ohne Werbebanner
+
+MIXED.de ohne Werbebanner Zugriff auf mehr als 9.000 Artikel Kündigung jederzeit online möglich ab 2,80 € / Monat Jetzt unterstützen
+
+Please leave this field empty
+
+XR Briefing
+
+Get the most important XR news delivered to your email inbox once a week. VR, AR, AI & more
+
+VR, AR, AI & more free
+
+free cancel at any time E-Mail *
+
+In the last section of the teardown, the iFixit expert turns his attention to the new Touch Pro controllers (info), which Meta plans to sell separately soon since they are compatible with Meta Quest 2. The technician exposes the three haptic units of the controllers as well as the integrated battery.
+
+What is his conclusion about the Meta Quest Pro?
+
+“On the repairability front […], opening a device of this complexity will almost certainly eat up hours of time for anyone planning to do anyhting other than a battery replacement,” Mokhtari said. “The Meta Quest Pro is such a complex device that the assembly process no doubt contributed to the eye watering price tag. 146 screws, tons of cables, and what at times seemed like a counter-intuitive design made this teardown one of the hardest we’ve done in a long time.”
+
+Note: Links to online stores in articles can be so-called affiliate links. If you buy through this link, MIXED receives a commission from the provider. For you the price does not change.

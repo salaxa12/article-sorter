@@ -1,0 +1,15 @@
+The NVIDIA GeForce RTX 4090 is the newest graphics card from the company. Its physical size and power were said to be unmatched. However, since its release, the graphics card has been reported to overheat the connection, melting the connection port and the cable. A recent post on Reddit now shows that the native ATX 3.0 power supply using the 12VHPWR power connector is now having the same melting issues.
+
+NVIDIA GeForce RTX 4090 melting issues continue, this time with a native ATX 3.0 PSU
+
+Several cases have been confirmed online about the 16-pin power adapter becoming a fire hazard. NVIDIA is investigating the reports & is asking partners to send the defective cards to the company. This will allow the company to look at not only the primary graphics card but also the custom cards made by their partners to find out what is causing the problem and enforce an issue as fast as possible.
+
+The newest issue to pop up on Facebook paints a picture of the user utilizing the MSI GeForce RTX 4090 Gaming X Trio 24G GPU with a MEG AI1300P PSU (also made by MSI). While the user was aware of the known issues with the NVIDIA RTX 4090 series, they used an ATX 3.0 PSU to the native 12VHPWR connector to avoid the 16-pin adapter entirely but despite using a native 16-pin cable connector, it still ended up burning up.
+
+2 of 9
+
+The pictures show that the connector port not only looked like some melted connections were beginning, but the cable also showed immediate wear. The user did not bend the cable, which has been a known issue since the beginning of the first few cases. MSI has contacted the user to replace the GPU and PSU. It is unknown if the use of a third-party or partner component is the source of the overheating issue or if the problem lies within the design of the card, cable, and more.
+
+While the true source of the problem is unknown, the number of cases continues to rise without any complete fix for the problem. This will concern users even more since the most significant deterrent to new users purchasing the card for the first time or returning consumers looking to upgrade to the latest generation have to pay nearly $1,600 for the most recent NVIDIA graphics card.
+
+News Sources: Tom's Hardware, Facebook

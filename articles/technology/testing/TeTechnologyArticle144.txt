@@ -1,0 +1,27 @@
+ASUS launches new white RTX 3060 and RTX 3060 Ti GPUs
+
+ASUS has launched new RTX 3060 8GB and RTX 3060 Ti GDDR6X GPU models
+
+| Source: Videocardz Author: Mark Campbell
+
+ASUS' new RTX 3060 and RTX 3060 Ti Dual Models look great in white
+
+Thanks to Videocardz we have gotten a look at two new RTX 3060 and RTX 3060 Ti models from ASUS, both of which feature new white Dual designs and feature Nvidia's latest RTX 3060/3060 Ti specifications.
+
+For ASUS' new RTX 3060 Dual, ASUS has opted to give their graphics cards 8GB of GDDR6 memory. This is less than most RTX 3060 class graphics cards, which tend to feature 12GB of VRAM. This gives this RTX 3060 model less VRAM and less memory bandwidth than other models, though this reduced allotment of VRAM should also come with a decreased MSRP.
+
+For the RTX 3060 Ti model, ASUS has given their graphics card GDDR6X memory, giving this GPU model a significant increase in memory bandwidth when compared to older GDDR6 based RTX 3060 Ti models. This is great news for anyone with memory-limited workloads, though only a minority of games are expected to be memory limited with this graphics card.
+
+While ASUS' new RTX 3060 and RTX 3060 Ti Dual models feature the same all white heatsink design, both models actually feature different heatsink designs, with the RTX 3060 Ti model having a longer heatsink, which can be seen clearly based on the gap between the heatsink's dual fans. The RTX 3060 Ti model measures in at 23 cm long while the RTX 3060 model is 20 cm long.
+
+
+
+
+
+While Nvidia's RTX 3060 and RTX 3060 Ti are far from new, the new VRAM setups of these graphics cards and their new white heatsinks make them worthy of note. We don't expect Nvidia to reveal new RTX 4060 or RTX 4060 Ti series graphics cards anytime soon, which means that these new GPUs will be Nvidia's mid-range offerings for some time to come.
+
+You can join the discussion on ASUS' new RTX 3060 and RTX 3060 Ti White Dual models on the OC3D Forums.
+
+1 - ASUS has launched new RTX 3060 8GB and RTX 3060 Ti GDDR6X GPU models «Prev 1 Next»
+
+Most Recent Comments

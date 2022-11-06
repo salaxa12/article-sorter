@@ -1,0 +1,17 @@
+What you need to know
+
+The Meta Quest Pro has been having Wi-Fi issues with some networks since launch, including reduced connection speed and unreliable connections when compared to the Quest 2.
+
+Virtual Desktop developer Guy Godin identified the issue as a problem with DFS channels. Disabling DFS on your router can be used as a temporary fix.
+
+Meta says it's been working on a fix and will issue an update soon.
+
+If you're one of the folks who picked up a Meta Quest Pro headset when it came out a few weeks ago and have been having issues with Wi-Fi networks, it's not just you and your headset isn't broken. Turns out, the Quest Pro's Wi-Fi chip doesn't play nice with routers that have DFS — that's Dynamic Frequency Selection — enabled.
+
+DFS's job is to allow your 5GHz Wi-Fi network to operate alongside other devices that use the same spectrum, including any radar that might be running near your home or office — a particular problem if you live close to an airport. Ironically, the substantially cheaper Oculus Quest 2 (opens in new tab) doesn't seem to have ever had this problem.
+
+If you are having Wi-Fi performance issues with your Quest Pro, disable DFS channels in your router settings; it looks like the Pro doesn't handle them very well.Example of Quest 2 vs Quest Pro connected to same 5 GHz Wi-Fi running on channel 136 pic.twitter.com/OwB2mCFWSiOctober 27, 2022 See more
+
+Bruno Cendón, Sr. Director of Wireless Technologies at Meta's Reality Labs replied to Godin on Twitter saying that this is a known issue and that a patch is forthcoming. While reviewing the Meta Quest Pro (opens in new tab), I noticed that my Wi-Fi connection speed was lower than the Quest 2 on the same Wi-Fi network — 1200mbps on the Quest 2 and around 800mbps on the Quest Pro — but haven't had any substantial issues since this is still a fast wireless connection.
+
+Folks who are having problems with their Wi-Fi networks can disable DFS on their router as a temporary fix. See your router manufacturer's support page for how to do that. Once Meta has issued the patch, Cendón says the Quest Pro will connect at the same speed and reliability as the Quest 2.

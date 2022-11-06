@@ -1,0 +1,99 @@
+Ryan Haines / Android Authority
+
+One of the defining characteristics of large lenses on traditional cameras is the stunning bokeh effect they produce. The stylistic choice creates segmentation between the subject and the background and adds to the overall cinematic appeal of video footage. Now that some of the best camera-focused phones can achieve near-DSLR levels of portraiture, it’s no surprise that the next big challenge is to bring that same DSLR-like shallow depth of field to video. This year’s Pixel 7 series joins a relatively short list of phones, including the iPhone 14 Pro, to support a cinematic video feature. In fact, Google claims that the Tensor G2‘s machine learning smarts are key to enabling convincing bokeh blur. However, the proof is in the pudding. Related: Google Pixel 7 Pro vs Apple iPhone 14 Pro Android Authority pit the Pixel 7 Pro’s Cinematic Blur against the iPhone 14 Pro’s Cinematic Mode for a quick shootout. Here are the results.
+
+How does cinematic mode work?
+
+Dhruv Bhutani / Android Authority
+
+While you can refer to our deep dive for all the nitty gritty details about how the Google Pixel’s Cinematic Blur effect works, the premise is pretty simple. Similar to portrait mode photographs, cinematic video modes apply machine learning algorithms on every single frame of video content to give it an artificial bokeh effect.
+
+Cinematic mode applies portrait mode-like algorithms to video content.
+
+Predictably, the real-time processing requirement for enabling this is significantly higher than for shooting portrait photos. Traditionally, the results have not been quite as convincing as what you’d get with standard portrait photography. But with more powerful processors and ML-focused chipsets like the Tensor G2 SoC, there’s potential to improve the feature dramatically.
+
+Can Google’s and Apple’s best do a convincing job at it? Head on over to our Google Drive link for a closer look at full-resolution video clips.
+
+Tracking shot In videography parlance, a tracking shot is one where you’d follow a moving subject. It also tends to be one of the most popular shots in smartphone photography. Ever shot a video of you walking with a Starbucks beverage in your hand? That’s a tracking shot.
+
+I picked up a cup of tea to simulate that stylistic shot and walked down my front balcony. The Pixel 7 Pro’s video blur implementation looks fairly natural at first glance, but a closer look tells a different story.
+
+The Pixel 7 Pro struggles at maintaining the illusion of bokeh segmentation with objects in motion.
+
+You’ll observe very noticeable artifacts and a halo around my thumb as well as the outer wall of the cup. Notably, these are the areas where the phone is constantly trying to draw the bokeh fall-off. The halo is an artifact of the phone struggling with blurring out the constant movement around the edge of the in-focus region.
+
+The overall results are presentable, but between the brightened-up exposure levels and less-than-perfect bokeh separation, it’s not a flawless start for the Pixel 7 Pro.
+
+Switching over to the iPhone 14 Pro shows up some key differences. For one, Apple’s color processing is dramatically different. Compared to the Pixel 7 Pro, the footage here looks almost muted in comparison. However, what the footage loses in pop, it makes up in detail and color accuracy.
+
+The iPhone 14 Pro glitches in the space between the cup's handle, but generally does a much better job at creating a convincing depth of field effect.
+
+Circling back to the bokeh separation, the difference is night and day. There’s no haloing, and the iPhone never loses focus on the subject. The bokeh fall-off is also perfectly marked around the boundaries of my hand and the cup. Compared to the Pixel, the iPhone 14 Pro’s bokeh rendition tends to glitch in between the cup’s handle. However, by and large, the iPhone wins this round.
+
+Portrait shots For this second shot, it was time to flip the camera over. The combination of a tracking shot and a human subject is one of the tougher scenarios to get right, yet is one of the more common use cases of cinematic mode videography.
+
+Blowing up the Pixel 7 Pro’s footage shot on a big screen displays the same issues as with our first test. The camera struggles to draw the bokeh boundary along the far edge of my face and sunglasses. Not just that, the camera cannot gauge the gaps between my hair and opts for a much broader boundary line around my head. The Pixel 7 Pro’s wavering focus further takes away from the cinematic immersion.
+
+The iPhone 14 Pro offers cinematic mode on both the standard and telephoto lenses, and for this shot, we opted for the standard lens. It’s a much wider look compared to the Pixel 7 Pro’s cropped-in image. Like the first test, the iPhone 14 Pro opts for a more natural color rendition with much more detail across the board. This is most evident in my five o’clock shadow, which is much more pronounced in the footage.
+
+The iPhone 14 Pro's natural color processing and rock-solid focus make it a better bet despite glitches in bokeh separation.
+
+Looking closer, it is obvious that the iPhone 14 Pro’s artificial bokeh isn’t rock solid either. It is also possible to observe some shimmer at the far edge of the face. That said, it does a marginally better job with my hair. Moreover, it doesn’t have any of the focusing issues we observed with the Pixel, making it a clear winner.
+
+Panning Shot For our next test, we did a simple pan across a few garden accessories strung up from plants. The intention here was to test how well the camera picks focus amongst a complex array of leaves and floating objects set at varying distances.
+
+There are no two ways about it, the Pixel 7 Pro fails miserably at this one. The camera constantly wavers in and out of focus throughout the panned sequence. Edge detection is surprisingly poor even when it manages to lock focus on the primary object.
+
+The Pixel 7 Pro struggles at locking focus and bokeh separation with layered objects.
+
+You’ll also observe significant sections of foliage where the Pixel opts out of depth estimation altogether. Not a very good look for the Pixel 7 Pro.
+
+Results from the iPhone 14 Pro aren’t perfect either. Notably, the camera tends to blur out the corner edges of the garden accessory. However, this can be corrected to a degree by opting for a narrower f-stop before or even after you’ve finished shooting — something you can’t do on the Pixel. Elsewhere, the iPhone 14 Pro did a much better job at blurring out the leaves in the background. Another win for the iPhone.
+
+Pulling focus across multiple objects For our final test, we laid out an array of objects on a table to gauge how well the two phones can approximate pulling focus while in motion.
+
+There’s a place for dramatic transitions between subjects in a high-action shot, but the Pixel 7 Pro’s wavering focus clearly draws away attention from the slow-moving footage. Reiterating our observations from the previous test, the phone struggles at bokeh segregation when dealing with layered objects. The phone also failed to detect the candle stand accurately and completely bypassed it in its artificial bokeh generation.
+
+The iPhone 14 Pro generally fares better in its ability to generate bokeh fall-off as we moved along the table. Unlike the Pixel 7 Pro’s sharp jumps in and out of focus, the shift in focus is much more gradual here, simulating real-world cinematic-style focus pulling. While even the iPhone drops focus on the glass candle stand and misses the fine plant edges, the results are generally better all around.
+
+Pixel 7 Pro vs iPhone 14 Pro, which cinematic video implementation do you prefer? 26 votes The Google Pixel 7 Pro is good enough for me. 38 % The iPhone 14 Pro is definitely better. 62 %
+
+Few hits, many more misses
+
+Dhruv Bhutani / Android Authority
+
+While the Pixel 7 Pro’s cinematic blur mode is a welcome addition to the phone’s imaging suite, our tests indicate that we’re still at least a generation or two away from the Pixel catching up with the competition, let alone beating it. And that’s not just because of the iffy bokeh effect.
+
+The Pixel 7 Pro's bokeh fall-off isn't as convincing, and it misses out on basics like a 4K mode, as well as support for the front-facing camera.
+
+To start with, the iPhone 14 Pro’s cinematic mode implementation can record at up to 4K/30fps. That’s a marked improvement over the Full HD/24fps that the Pixel maxes out at. I’m not too fussed about the choice of 24fps as a stylistic choice, but the resolution gap is certainly noticeable. Similarly, the iPhone allows you the flexibility to shoot cinematic video with both the regular and telephoto lens. The Pixel’s cinematic option only works with the main lens.
+
+Finally, unlike the iPhone, the Pixel doesn’t support portrait-style video on the front camera at all — a situation that is likely to be a popular use case amongst social media and vlogging enthusiasts.
+
+Google Pixel 7 Pro vs iPhone 14 Pro cinematic mode: The verdict
+
+Ryan Haines / Android Authority
+
+There’s no competition between the Pixel 7 Pro and the iPhone 14 Pro for capturing cinematic video. The iPhone bests the Pixel in every test scenario, to varying degrees. Despite its computational photography and ML-infused implementation, the Pixel 7 Pro’s cinematic blur doesn’t step much further beyond the very basic video bokeh implementations we’ve seen on Samsung and Huawei phones.
+
+The Pixel 7 Pro's cinematic video is a first-gen product and it feels so.
+
+The constantly wavering focus puts the Pixel behind the iPhone’s rock-solid focus, and its iffy edge detection is often worse than Apple’s too. Add to that missing features like a 4K mode and cinematic blur on the front-facing camera, and the Pixel 7 Pro falls even further behind.
+
+While adding the feature is a decent start for the Pixel 7 series, it will take a lot more for the phone’s cinematic mode implementation to catch up to the competition.
+
+Apple iPhone 14 Pro Powerful A16 SoC
+
+Interesting Dynamic Island features
+
+Upgraded main camera
+
+$999.00 at Best Buy Google Pixel 7 Pro Best Google camera
+
+High-quality display
+
+Big battery
+
+$899.00 at Amazon
+
+Comments

@@ -1,0 +1,69 @@
+Four reasons to look forward to Meta Quest 3
+
+Image: Meta via SadlyitsBradley
+
+Der Artikel kann nur mit aktiviertem JavaScript dargestellt werden. Bitte aktiviere JavaScript in deinem Browser und lade die Seite neu.
+
+The successor to Meta Quest 2 will be released in 2023. Here are four reasons to look forward to its release.
+
+Mark Zuckerberg recently announced that the “next generation of our consumer Quest headset” will launch in 2023. By that, the Meta CEO likely means Meta Quest 3.
+
+The headset could be officially unveiled at Meta Connect 2023 in the fall and should go on sale shortly after. The same happened with Meta Quest 2 (2020) and Meta Quest Pro (2022).
+
+Zuckerberg also gave a preview of the device’s price range: Meta Quest 3 will cost between $300 and $500, which is the same price segment as Meta Quest 2. After the wickedly expensive Meta Quest Pro, Meta is finally taking aim at consumers again next year.
+
+Meta hasn’t confirmed anything more at the moment. However, there are already plenty of rumors about the device. For example, CAD drafts of a presumed prototype of the Meta Quest 3 have surfaced, providing information about the possible design and technology.
+
+This article is based on this and more information from VR analyst Brad Lynch, who leaked Meta Quest Pro early on and was correct on almost all points. Still, caution is advised until the official unveiling: The blueprints could show one of several prototypes and one or the other hardware feature could be changed by Meta.
+
+More power and nicer graphics
+
+Meta Quest 3 will have a next-gen VR chip installed: The Snapdragon XR 2 Gen 2. Meta Quest 2 uses the previous Snapdragon XR2 Gen 1, which is based on a 2020 smartphone SoC, so it is already quite outdated.
+
+According to initial information, the brand-new SoC manufactured in the 4 nm process, which Qualcomm developed together with Meta, will bring a decent graphics boost: The GPU alone could bring a 2.5 to 3-fold performance increase.
+
+The Snapdragon XR 2 Gen 2 will likely be a spin-off of the Snapdragon 8 Gen 2 smartphone SoC, optimized for virtual reality and augmented reality. According to rumors, both chips will be unveiled at the Snapdragon Summit on November 15, 2022. Then we should know how much more powerful the chip really is.
+
+High-quality VR games from in-house development
+
+A powerful chip isn’t much use if you don’t have VR apps to utilize it. Meta has acquired nine VR studios since the end of 2019. Eight of those are game studios that haven’t announced any new titles since the acquisition.
+
+In other words, Meta probably has quite a few VR games in the pipeline, and it would be a surprise if a few of them weren’t launch titles for Meta Quest 3.
+
+MIXED.de ohne Werbebanner
+
+MIXED.de ohne Werbebanner Zugriff auf mehr als 9.000 Artikel Kündigung jederzeit online möglich ab 2,80 € / Monat Jetzt unterstützen
+
+Please leave this field empty
+
+XR Briefing
+
+Get the most important XR news delivered to your email inbox once a week. VR, AR, AI & more
+
+VR, AR, AI & more free
+
+free cancel at any time E-Mail *
+
+With millions of Meta Quest 2s in circulation, these games are very likely to run on the older VR headset as well, but may benefit from optimizations and special features reserved for Meta Quest 3.
+
+In addition to its own productions, Meta also has a number of high-profile commissioned works in development, including GTA: San Andreas and Assassin’s Creed Nexus. The launch of the new headset would be the perfect time to release these VR games.
+
+New, slimmer form factor
+
+If Lynch’s leaked CAD blueprints do indeed show Meta Quest 3, then the device likely uses pancake lenses, making it slightly smaller, thinner, and lighter than Meta Quest 2. That’s a small but important step toward a VR headset that people will use more often and for longer at a time because it’s handy and comfortable to wear.
+
+Meta Quest Pro (reviews) was the first time Meta introduced pancake lenses. These allow for a slimmer design and improve image clarity to boot. If Meta Quest 3 really uses this type of lens, it would be a great bonus.
+
+However, the Quest 3 will not be quite as thin and comfortable as the Quest Pro: According to the blueprints, the battery is still installed in the headset casing, which makes the device more front-heavy than the Quest Pro.
+
+Mixed reality for the masses
+
+Meta Quest 3 is expected to be more than just an improved Meta Quest 2 and offer new hardware features. According to the CAD blueprints, Meta is going for better passthrough and mixed reality instead of face and eye tracking.
+
+There are good reasons for this. For one, a high-quality passthrough mode and mixed reality lower the hurdles of headset use, as the technology no longer isolates quite as much from the environment.
+
+Secondly, the new sensors should also improve hand tracking, making the headset even more suitable for everyday use. Meta Quest 3 could thus become the first mixed reality device for consumers.
+
+According to Lynch’s leaks, Meta Quest 3 will get more passthrough sensors than Meta Quest Pro with five cameras. A lot can change between now and mass production, however: In the case of the Quest Pro, Meta dropped the depth sensor shortly before manufacturing.
+
+Note: Links to online stores in articles can be so-called affiliate links. If you buy through this link, MIXED receives a commission from the provider. For you the price does not change.

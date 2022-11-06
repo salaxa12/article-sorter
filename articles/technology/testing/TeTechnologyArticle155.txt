@@ -1,0 +1,23 @@
+Today,is recognized as one of the most influential games in the indie sector. Alongsideand, it was part of a holy trinity of games that popularized the roguelite genre in the early '10s.
+
+But before it was a hit, FTL was just a humble idea shared by Matthew Davis and Justin Ma, two developers working at 2K’s Shanghai office. The studio wasn’t a bad place to work, by their accounts, but they just weren’t making the kinds of games they were interested in. So Davis and Ma departed the big-budget firm and started a hobby project to keep them busy while they were looking for new jobs.
+
+“The original intention, at least from my perspective, was that [FTL] was only intended as a hobby project or a prototype,” Davis tells Ars. “It was something in between jobs to build up a resume that we could use to get a job at a studio working on projects that we were more excited about. But we stumbled into something that became a lot bigger than what we set out to do.”
+
+Getting inspired
+
+In setting out to make a new kind of indie game, Ma and Davis say they were inspired by the strategic board games that filled their free time when they lived in Shanghai. “Games like the Battlestar Galactica board game, and there was this submarine game called Red November that did a lot of crew management and cooperative play which we really enjoyed,” Davis remembers.
+
+Before starting development in earnest, Davis and Ma jotted down some of the mechanics they wanted to draw from those kinds of games to include in their prototype. They also wrote down what kinds of feelings they were hoping to impart to the player, landing on an angle that was reasonably unique to video games at the time.
+
+Advertisement
+
+“We wanted to put the player in the captain's shoes rather than the pilot's shoes on a spaceship,” Davis explains. “Most games at that point were focused on fighter pilots and dogfighting in space. We wanted to give you more of that Picard feel of shifting power and protecting your shields and repairing damage and that kind of thing.”
+
+“We wanted them to struggle with managing the ship’s systems and feel the pain of losing a crew member from their bad decision-making,” Ma adds.
+
+In trying to engender those kinds of player feelings, Ma remembers being inspired by the randomized situations and permanent death of roguelike games. At the time, those kinds of design elements were expanding from traditional turn-based adventures into other types of gameplay.
+
+“I did play a ton of traditional roguelikes in the previous few years, but it was only Spelunky Classic that made me think about how the principles of roguelikes could apply to other genres,” Ma remembers.
+
+That being said, a lot of the decisions to incorporate similar mechanics were practical ones. “For example, we wanted you to be forced to live with the consequences of your decisions, so a run-based game with permadeath just made sense,” Ma said. “We wanted you to have the feeling of exploring an unknown world, so randomized text events with various outcomes sounded like the easiest way to create that. We were also a bit masochistic and enjoyed failing at the game, so it naturally became quite challenging.”

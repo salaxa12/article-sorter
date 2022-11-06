@@ -1,0 +1,55 @@
+Apple's iOS 16 came with a ton of new features when it released in September, including a way to unsend messages, further customize your lock screen and much more. Now, iOS 16.1 is here and brings another batch of new features, tweaks and fixes to compatible iPhones (and iPads with iPadOS 16).
+
+Here's what's new in iOS 16.1 and what each feature does. If you haven't downloaded the update yet, we show you how to do that here. Looking to take a deeper dive into your iPhone? Check out all the best hidden features and setting changes that'll optimize your device.
+
+iCloud Shared Photo Library
+
+Sharing photos with your friends after a night out can be a hassle. But with iCloud Shared Photo Library, you can easily share photos and videos with up to five other people.
+
+Anyone who has access to the Shared Photo Library can add, edit and delete content within the library. You can upload photos directly from your iPhone's camera to the library, and you can add photos to the library when you are physically with others who have access to the library.
+
+However, you can't participate in two shared libraries at once, and if you move photos from your personal library to the shared library, those photos aren't duplicated and can only be found in the shared library.
+
+Live Activities in Dynamic Island and Lock Screen
+
+The iPhone 14 Pro and Pro Max's Dynamic Island and lock screen get a boost with Live Activities. With Live Activities, your Dynamic Island and lock screen display notifications from third-party apps for things like sports games and flights.
+
+Apple Fitness Plus without an Apple Watch
+
+With iOS 16.1 you no longer need an Apple Watch to access Apple Fitness Plus. With an iPhone 8 or newer, you can track your fitness progress and goals right from your phone.
+
+Battery display updates
+
+iPhones from the XR up to the latest models now have the option to display the battery percentage in the battery meter icon. The font used for the battery icon has also slightly increased in size, making it easier to read.
+
+Wallpaper and lock screen updates
+
+Apple made it a bit easier to customize your wallpaper in iOS 16.1. From the Settings > Wallpaper menu, the option to add a new wallpaper is now more visually distinct, and you have the option to swipe through existing wallpapers. Also, when editing your wallpaper from the lock screen, you'll now have the option to customize either your lock screen or your home screen (instead of just the lock screen).
+
+Screenshot editing tools interface updated
+
+
+
+When you edit a screenshot using the editing menu, the delete, save and copy options are now displayed across the top of your screen in a smaller, less intrusive menu. Previously, these options were at the bottom of your iPhone's screen.
+
+Wallet app upgrades
+
+You can securely share car, hotel room and other Wallet app information with Messages and WhatsApp. Apple Card customers can also grow their Daily Cash by putting their savings into a high-yield savings account. You can also delete the Wallet app from your iPhone if you want.
+
+Smart home connectivity via Matter
+
+Matter, the new smart home connectivity standard, is now supported. That means you can control smart devices like Alexa and Google Assistant from your iPhone.
+
+Clean Energy Charging setting
+
+A new Clean Energy Charging toggle has been added to the Battery section in Settings. The setting could help reduce your carbon footprint when you charge your iPhone. With Clean Energy Charging on, your iPhone will selectively charge when lower carbon emission electricity is available. This setting seems to be toggled on by default, but you can turn it off if you want by going to Settings > Battery > Battery Health & Charging and tapping the toggle next to Clean Energy Charging.
+
+Apple Books interface upgrade
+
+If you read books on your iPhone, your reader controls will automatically be hidden when you open Apple Books.
+
+Bug fixes
+
+Apple also addressed a handful of bugs. These fixes address issues like deleted conversations appearing in Messages, some Dynamic Island content not appearing when using Reachability and CarPlay not connecting when using a VPN app.
+
+For more iOS news, check out the iOS 16 cheat sheet, how to download iOS 16.1 now and hidden iOS 16 features you should know about.

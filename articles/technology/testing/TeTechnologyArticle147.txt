@@ -1,0 +1,23 @@
+A drone that leverages a widespread security flaw to detect Wi-Fi networks from inside buildings has been developed by the University of Waterloo (UOW) in Canada, raising fears about similar devices being used to conduct criminal activity.
+
+In a press release, the university reported (opens in new tab) on developments first published in a paper (opens in new tab) by Dr. Ali Abedi, adjunct professor of computer science at UOW, and Deepak Vasisht, Assistant Professor in Computer Science at the University of Illinois Urbana-Champaign, titled “Non-cooperative wi-fi localization & its privacy implications”.
+
+The device, known as the Wi-Peep, is a modified consumer drone that sends messages to connected devices as it flies, and can track their location “within a meter” by leveraging a known vulnerability known as “polite WiFi”. Ignoring the cost of a drone, the device reportedly costs $20 in parts, making it easy to assemble for criminals such as thieves.
+
+Polite WiFi’s implications
+
+Polite WiFi means that smart devices will respond to connection requests even when they’re password protected and the connection is refused. The Wi-Peep is able to track devices so closely by continuously sending contact messages to all devices in range.
+
+In a statement, Abedi contextualized the threat similar devices pose to security in the home and beyond.
+
+““Using similar technology, one could track the movements of security guards inside a bank by following the location of their phones or smartwatches,” he said.
+
+“Likewise, a thief could identify the location and type of smart devices in a home, including security cameras, laptops, and smart TVs, to find a good candidate for a break-in.”
+
+“In addition, the device’s operation via drone means that it can be used quickly and remotely without much chance of the user being detected.”
+
+The Wi-Peep was assembled to test the theory that these kinds of attacks would be possible after the identification of the Polite Wi-Fi loophole. In his statement, Abedi advocated for an extensive fix, “so that our devices do not respond to strangers”.
+
+He also suggested that, until then, Wi-Fi chip manufacturers could introduce randomized response times so as to decrease the accuracy in device location reporting by devices such as the Wi-Peep.
+
+Before any fix is issued, businesses and homeowners ought to be concerned about the proliferation of Internet of Things (IoT) devices, and the growing accepted wisdom that any and all devices, from cars, to fridges, to barbecues, benefit from internet connectivity.

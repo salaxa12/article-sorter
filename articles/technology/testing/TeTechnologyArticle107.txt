@@ -1,0 +1,15 @@
+Crazy DIY: A Swedish musician/engineer created a working accordion using two Commodore 64 computers and a bunch of floppy disks. Dubbed the Commodordion, it plays mechanically, just like its regular counterpart, but the output is reminiscent of 1980s area 8-bit arcade music.
+
+The instrument is simple in concept and operation. Two C-64s are connected via bellows made from dozens of 5.25-inch floppy disks. The bellows control the "airflow" (volume) of the notes played. The keys on each computer act as they would on a standard accordion, with the right one producing the melody and the left outputting chords.
+
+Constructing the Commodordion was far from being as straightforward as its operation. Inventor and YouTuber Linus 흆esson started by making the bellows. Each fold required three floppies cut in two different patterns and held together with tape. The folds were then interlocked with the previous one and held tight with more tape. There are at least 16 folds, so 48 or more 5.25 floppies met their demise for this project.
+
+흆esson said, "No good disks were harmed in the making of this video."
+
+As previously mentioned, an accordion's bellows control the volume of played notes. The harder it is forced, the louder the sounds produced. The Commodordion bellows are airtight except for a hole in the back that blows on a microphone. This mic feeds into an envelope follower, translating the mic hiss into volume. That, in turn, feeds into a digital-to-analog converter that outputs the sounds.
+
+Each C-64 was also heavily modified, but you wouldn't know it until you see them from behind (above). Two power supplies are wired directly to the motherboards rather than through the adapter port. Other motherboard modifications include a hardwired Commodore Tape Drive emulator and the output module. All in all, the device has three custom circuit boards wired directly to the C-64 PCBs.
+
+Lastly is a custom program stored on that emulated tape drive. This software translates the keypresses on each computer into accordion notes. As you can see in the video, 흆esson is a skilled musician and can play the device in real-time just as he would the standard instrument. The music produced would fit perfectly into any 1980s-era video game.
+
+흆esson included even more details on his blog for those interested.

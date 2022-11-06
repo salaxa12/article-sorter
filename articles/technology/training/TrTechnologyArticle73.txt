@@ -1,0 +1,85 @@
+Iron Man VR is the perfect example of how a game port should be. It's the same great game with better controls and crisper visuals, which is great considering how darn good the game actually is. If you're even remotely a fan of Iron Man's character from any Marvel movie, you owe it to yourself to pick this game up.
+
+Why you can trust Android Central Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test .
+
+Few games help players embody a character as successfully as Iron Man VR. While many VR games just try to envelop you into a believable virtual world, Iron Man VR literally puts you in the shoes of Tony Stark and asks you to solve situations like only Stark himself would. It's incredibly cool, to say the least.
+
+Iron Man VR isn't a new game, per se. It's actually a port of a PlayStation VR game that I reviewed last March (opens in new tab) and felt like an incredible send-off for the aging PSVR headset. The game embodied every intelligent VR mechanic I could think of, including a unique locomotion method that felt tailor-fit to the Iron Man character: blasting around using Iron Man's palm-mounted rocket thrusters.
+
+But developer Camouflaj was able to take those controls a step further mainly thanks to the fact that the Oculus Quest 2 and Meta Quest Pro don't have the severe tracking limitations of the PSVR. It also somehow seems to have improved the overall visual look of the game despite the relative underpowered nature of the Quest hardware versus the PS4 that powers the PSVR experience. It's absolutely one of the best Quest 2 games (opens in new tab) you can buy right now.
+
+Disclaimer: This review was made possible by a review code provided by Meta. The company did not see the contents of the review before publishing.
+
+Price and availability
+
+Iron Man VR is available on the Oculus Quest 2 and Meta Quest Pro for $39.99. You can also still buy it on the PSVR headset even though the developer is now a first-party Oculus Studios developer.
+
+Iron Man VR will take players between 8 and 10 hours to complete their first playthrough, and additional content is unlocked once the story has been finished.
+
+(opens in new tab) Become Tony Stark and solve the riddle of the Ghost, a sinister character from Tony's past who is hellbent on destroying Tony and his legacy. Get it on Oculus (opens in new tab) | PlayStation (opens in new tab)
+
+The basics
+
+(Image credit: Camouflaj)
+
+In Iron Man VR, you'll be playing both as Tony Stark and Iron Man. The game starts off with you walking on stage as Tony Stark to deliver a speech about what happens during the events of the game. After most missions, you'll return to this stage to reflect on your actions which, at times, can actually tug on the emotions of the player behind the visor.
+
+Other times during the game, you'll walk around Tony's Malibu elaborate mansion. It's actually this mansion that acts like a hub of sorts between missions, as you'll earn points and currency to spend on upgrades for the Iron Man suit. The suit itself can also be swapped out for something cosmetically different, not altogether dissimilar from the excellent Spider-Man games on PlayStation consoles and PC.
+
+During missions, you'll always play as Iron Man in the suit, flying around locations that are generally free roam. Each mission has a different style to it, and while you might be saving a crashing plane and flying through empty skies in one mission, other missions take you to the city streets of busy cities to get up close and personal with skyscrapers.
+
+Iron Man VR's controls and comfort settings can be customized much in the same way that you might expect. Players who suffer from motion sickness can play the entirety of the game seated. If you prefer to stand and still suffer from motion sickness, blinders can be enabled to keep the feeling at bay. Smooth turning and snap turning are also available. Smooth joystick movement and teleport are also available for segments where you'll be playing as Tony Stark.
+
+Iron Man's controls are more unique, as you'll be using the palm-mounted rocket thrusters to fly around environments. The game provides a friendly tutorial and lots of practice time before it throws you into the action, so you can begin a real mission any time you feel comfortable.
+
+How a port should be done
+
+Few games nail the feeling of making you feel like a badass as Iron Man VR can.
+
+Given that I was impressed with the original release's visuals, I was not at all convinced that the Quest hardware was going to be able to pull Iron Man VR off. Thankfully, I was very wrong. If anything, I think the game looks better on the Quest platform for two reasons: resolution and lenses.
+
+The original PSVR has a relatively low-resolution display when compared to more modern headsets like the Quest 2. Not only that, but the Quest 2's lenses are far better looking than the PSVR's — which is even more true for the Quest Pro with its pancake lenses.
+
+Because it's powered by a mobile chipset, the Quest can't pull the same texture resolution or level of environmental detail that the PS4 can but, in most circumstances, you'll never notice this. Camouflaj did a great job of making sure that important textures remained high-resolution. Things like the threading on Tony's suit, objects littered around Tony's house, and screens and other displays that you need to read all look great compared to other Quest games.
+
+Above, I put together a little comparison between the PSVR and Quest versions of the game showcasing the Malibu area. Since this is a pretty wide-open and generally beautiful area, I felt like this was the best spot to showcase the differences between the game.
+
+For note, the Quest records footage at a lower frame rate than the game actually runs at, so please do ignore the difference in "smoothness" between the two versions in the video. Otherwise, you can see the notable texture resolution, object detail, and overall environmental differences between the two. There were actually quite a few surprising changes in the environment that I didn't expect before I compared them both.
+
+Still, there wasn't a single time in my playthrough that I thought "gee, this really could look better." I think Quest players, especially ones who have gotten used to the PS3-era level visuals of the Quest 2, will find this to be a gorgeous game overall.
+
+There were a few performance issues here and there but normally only during the slower story portions of the game. While flying around, fighting enemies, and actually playing the game, I can't recall any major hiccups that made me stop to think about what was happening with the game.
+
+(Image credit: Camouflaj)
+
+The single-biggest upgrade over the PSVR version is the load time between missions, which could take minutes on the PS4 and only takes 5-10 seconds on the Quest 2.
+
+In fact, the single biggest upgrade over the PSVR version of the game is the load time between missions. While the original title was overall quite excellent, the load times were incredibly painful. We're talking PS1-era load times of one to two minutes a pop, and that can get really, really annoying when you're standing there staring at a percentage circle slowly filling in.
+
+While the PSVR version of the game took minutes to load sometimes, the Quest version literally takes seconds. And I'm not talking 45 seconds or something like that either. I mean 5 seconds or less for most areas. It's a stellar improvement, to say the least.
+
+Likewise, the controls feel better than ever thanks to the fact that the Quest's tracking abilities are superior to the PSVR's in every single way. You won't have to fumble around with virtual movement anymore since you can just turn your body and the Quest can track you without any problem.
+
+There are some funny remnants of the PSVR's forward-tracking limitations from time to time — like arrows in menus telling you to turn around to see the menu — but, if anything, these help players find menus and such if they somehow got turned around. And, since you'll be doing a lot of turning around in this game, it's probably for the best.
+
+(Image credit: Camouflaj)
+
+Moving around as Iron Man feels as sublime as ever.
+
+Moving around as Iron Man feels as sublime as ever. Pointing your palms down or backward and pulling the trigger emits a rocket thruster out of said palm. Each hand thruster can be independently fired, so you can pull off some sick moves during combat once you get the hang of it.
+
+Shooting is done by holding your palm forward or making a fist, which will allow you to execute one of three moves: repulsor lasers, auxiliary weapons, or a rocket punch. Each of these moves feels incredibly satisfying to pull off and emits the most amazing feeling when you execute them properly.
+
+Few games leave you feeling like a total badass when you quit. Iron Man VR is absolutely one of those games that completely nails the factor.
+
+Is it worth playing?
+
+(Image credit: Camouflaj)
+
+Iron Man VR was whole-heartedly my VR game of the year when it launched on the PSVR, and that's saying a lot in a year that gave us gems like Demeo. It's one of those rare games that makes you feel amazing the entire time you play. It successfully transports you into the shoes of a character and makes you feel like you're embodying them 100% of the time.
+
+Best yet, Iron Man VR can be played comfortably while seated, even if you'll need to use the right stick to virtually turn around quite often. It's a tad more awkward than standing up but it's still better than the PSVR version since you won't need to line up that PlayStation Eye camera to see you while seated.
+
+There's no multiplayer in Iron Man VR but the game has lots of leaderboards and time trials, plus plenty of unlockables and upgrades to get along the way. It's a heck of a lot of fun to upgrade the Iron Man suit and get different styles of suits just for doing missions faster or more efficiently. If you enjoy single-player games with excellent stories and movie-quality voice acting, this one is definitely worth playing.
+
+If you want to read more of the nitty-gritty details about Iron Man VR (and not just how good of a port it is on Quest), check out my original Iron Man VR review (opens in new tab) where I go in-depth on the game's mechanics in a spoiler-free way.

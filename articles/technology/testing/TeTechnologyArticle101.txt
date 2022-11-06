@@ -1,0 +1,13 @@
+Apple is reportedly ready to integrate Apple News stories into the Weather app on iPhones, iPads, and Macs. It's already started with the latest iOS 16.2 beta and betas for iPadOS 16.2 and macOS Ventura 13.1.
+
+While it only appears to work in some parts of the United States, that could be a limitation of the beta status with which the updates are currently working. We're told that Alabama and Mississippi weather shows news from Fox Weather, for example, but there's nothing presently appearing for New York.
+
+News in your weather
+
+This being the Weather app, the news being surfaced is specifically tailored to what the world is doing outside the window at any given moment. Examples reported by 9to5Mac include information about tornado touchdowns over the weekend, but we can also imagine seeing news stories about cold snaps and heatwaves.
+
+Tapping a new article within the Weather app opens the News app as you'd expect, with those who don't have it installed instead directed to the story in Safari. Unfortunately, there are currently no settings to be had at all, and the option to disable the integration between News and Weather isn't present. It's unclear whether it will work in the future, too.
+
+Apple's software updates are all currently in beta form and are expected to be released to the public in the middle of December. This integration may be removed before then, but it seems more likely to be fleshed out ahead of that public release next month.
+
+While the Weather app might not be the best iPhone app for checking the forecast, according to many, it's the one that comes pre-installed on every device Apple sells and has a huge installed user base. So it stands to reason that Apple would want to try and push News via such an app.

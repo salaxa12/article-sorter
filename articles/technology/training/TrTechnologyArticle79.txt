@@ -1,0 +1,29 @@
+We've been talking a lot about text-to-image AI art generators in recent months. The tech's both been hailed as unlocking untold creativity and condemned for cheapening art and riding roughshod over copyright. And now the controversial creative tech is already moving into the mainstream.
+
+Despite DALL-E 2 opening access to all, text-to-image AI has remained a niche interest among developers and creatives and hardly something used as an everyday tool by the general public. Until now. A new generation of more accessible apps is taking the text-to-image concept from art to selfies, which means we could now see it everywhere (to learn more about how it works, see our piece on how to use DALL-E 2.
+
+Before an after images on Drawanyone (Image credit: Drawanyone)
+
+Selfies used to be pretty 'real'. Phones haven't tended to focus on their front cameras as much as the back ones, and even today, the quality of selfies tends to be lower than anything taken with a phone's main camera. That weakness has been made up for with all manner of filters and skin-smoothing and slimming tools offering digital cosmetic surgery that can leave people unrecognisable.
+
+Now a new generation of tools promises to help us take our selfie game into a whole new territory by applying the kind of text-to-image tech that we've seen in tools like DALL-E 2. YOUniverse from Facetune and the web app Drawanyone allow people to upload images of themselves (or anyone else for that matter) and turn them into portraits in practically any artistic style.
+
+Upload your selfies and type in a prompt like "me as The Mad Hatter in Alice in Wonderland” to see if you could do a better job than Johnny Depp. Or try "me as a gorgeous princess, professionally retouched, muted colors, soft lighting, realistic, smooth face, fully body shot, torso, dress, perfect eyes, sharp focus on eyes, 8k, high definition, insanely detailed, intricate, elegant, art by J. Scott Campbell and Artgerm.” That's actually a suggestion from Facetune, and we wonder how the living artists Campbell and Artgerm will feel about their work having been "scraped" to allow such a prompt.
+
+Both Facetune's YOUniverse and Drawanyone use the open-source AI model Stable Diffusion. Facetune vice president Alon David has promised that more capabilities will be added. As for concerns about abuse and inappropriate use, he insists that Facetune monitors prompts for "certain cultural sensitivities". That's in addition to Stable Diffusion's existing safeguards (which have come in for some criticism for being rather lax).
+
+YOUniverse is available on the existing Facetune app (opens in new tab). Meanwhile, Drawanyone (opens in new tab), is available in-browser. The latter allows you to upload five pictures of anyone and choose from preset styles ('occult, 'soldier,' 'royal,' and 'Studio Ghibli') or type your own prompt. Be prepared to wait for around an hour for an image to be generated – and pay if you want to generate more than a few.
+
+People have been trying the tools out and sharing the results on Twitter and other social media. The results can range from impressive to hilarious to an uncanny feeling of artificiality and that 'something's not quite right'.
+
+.@facetune’s AI selfie app is wild… pic.twitter.com/IVZ0TALbt4October 29, 2022 See more
+
+Pues esto me ha dado el drawanyone pic.twitter.com/8fpww27Y2NOctober 28, 2022 See more
+
+Générer gratuitement une image ou portrait via #IA sur https://t.co/ciAfW1pFZLEnsuite on peut générer l'Alt de l'image avec https://t.co/uScFrgSTTKExemple :man wearing a sweatshirt smiling for the cameraan old fashioned army officer is looking down at something... pic.twitter.com/T2YVHs1RHBOctober 30, 2022 See more
+
+The results, at least for now, are clearly not photorealism but they are remarkably clean. Rather than selfies as such, they turn images into 'artistic' portraits almost like a filter. Considering how people have lapped up animal face stickers and unrealistic cosmetic adjustments for selfies on social media, we can see this being a hit.
+
+These new tools show just how fast AI-generator tools are evolving. However, big questions remain about the copyright of the original material, especially when Stable Diffusion has been trained on the work of living artists. To learn more about AI art, see the best AI art generators compared. You might also prefer to create art the traditional way with the best digital art software.
+
+Read more:

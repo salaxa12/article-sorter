@@ -1,0 +1,31 @@
+An alleged AMD RDNA 3 "Navi 31" GPU block diagram has leaked out, giving us a good look at the world's first chiplet gaming GPU that powers the Radeon RX 7900 XTX & RX 7900 XT graphics cards.
+
+AMD RDNA 3 "Navi 31" GPU Block Diagram Dissected, 1st Chiplet Gaming GPU For Radeon RX 7900 XTX & 7900 XT Graphics Cards
+
+The AMD RDNA 3 marks the beginning of the chiplet era in the gaming GPU segment. AMD has been the pioneer of the chiplet revolution with its Ryzen & EPYC CPUs. The red team was also the first to launch its chiplet GPU in the form of the Instinct series but now, it's time for consumers to get some of the good chiplet action on their brand-new GPUs. According to AMD, the chiplet GPU design offers a disruptive architectural approach versus a standard Monolithic design.
+
+AMD's flagship RDNA 3, Navi 31 GPU, block diagram has been leaked. (Image Credits: Videocardz)
+
+AMD RDNA 3 - Navi 31 Is The Worlds First True Chiplet Gaming GPU
+
+The AMD Navi 31 GPU with RDNA 3 architecture will offer a single GCD with 48 WGPs, 96 Compute Units with 6 Shader Engines and each Shader Engine featuring 8 dual compute units. This will give out a total of 12,288 SPs or stream processors. This is an increase of 2.4x in cores compared to the 5120 SPs featured on the Navi 21 GPU. AMD is using a dual issue SIMD unit design which can do FP, INT & AI operations with twice the instruction issue rate. The GPU also packs 2 AI accelerators per CU which deliver a 2.7x performance improvement. There's also BF16 support.
+
+2 of 9
+
+The GPU or the Navi 31 GCD is said to measure 300mm2 & will come packaged on TSMC's 5nm process node. AMD's latest RDNA 3 GPU packs a total of 58 Billion transistors and the top die can deliver up to 61 TFLOPs of Compute performance. As per AMD, the Navi 31 GPU packs 165% more transistors per mm2 versus the 7nm RDNA 2 "Navi 21" GPU. The company says that it went past its goal of a 50% performance per watt improvement and achieved a 45% improvement gen-to-gen.
+
+RDNA 3 Gets Bigger Caches Across The Board
+
+Coming to the cache system, AMD has a total of four different cache hierarchies for its RDNA 3 "Navi 31" GPU. We first have the Infinity Cache LLC which is 96 MB in 6 MCD pools that are inter-connected via a 5.2 TB/s Infinity Fabric link. There's 6 MB of L2 cache (50% increase), 3 MB of L1 cache (300% increase), and 3 MB of L0 cache (240% increase). The 96 MB Infinity Cache matches the full AD102 L3 cache. As per AMD, the effective bandwidth for the GPU is 3.5 TB/s. This means that the Infinity Cache is rated at around 2.5 TB/s while the rest of the 960 GB/s comes from the GDDR6 interface.
+
+Ray Tracing Gets Even Better
+
+AMD's 2nd Generation ray tracing implementation comes with a larger RT accelerator that offers 50% more performance per CU. Some of the features include 50% more rays in flight, dedicated instructions, and new ray box sorting and traversal. With the help of larger caches (helping within Complex RT workloads), AMD is expecting up to 80% ray tracing performance gains (at 2.5 GHz).
+
+Geometry and Pixels Collide
+
+Moving over to the Geometry and Pixel pipelines, AMD highlights the use of MDIA (Multi-Draw Indirect Accelerator), a 12 Primitive/CLK (50% increase), and twice the hardware Prim/Vert Cull Rates. In Pixel, AMD touts a 6 Prims Rasterized/Clk (50% increase), 192 Pixels/Clk (50% increase), Random Order Opaque exports, and Pixel Wait Sync. The rest of the stuff is pretty much what we know from the unveiling.
+
+The revolutionary new AMD RDNA 3 "Navi 31" GPUs will be headed to consumers next month on December the 13th so stay tuned for more info.
+
+News Source: Videocardz

@@ -1,0 +1,37 @@
+Apple's iOS 16 brought new features to video chat app FaceTime, like being able to seamlessly move calls between iPhone, iPad and Mac, but one of the most fun features arrived in 2021: the ability for users to blur their backgrounds, add filters to video calls and more.
+
+While similar features can be found in other video chat apps, like Zoom and Microsoft Teams, those are generally used in professional settings. You wouldn't replace your head with a cow's when having an important meeting with your manager, but you might when talking to friends and family.
+
+Here's how to turn on these FaceTime features to make your video calls more fun.
+
+Turn on Portrait Mode in your FaceTime calls
+
+Portrait Mode on FaceTime calls is similar to blurring your background in a Zoom call. You'll still be in focus, but everything behind you will be out of focus. Here's how to turn it on.
+
+1. Start a FaceTime call.
+
+2. Tap the box where your video appears. This will enlarge and center your video box.
+
+3. Tap the portrait icon in the top left corner of the screen and Portrait Mode will activate. You should see your background blur immediately.
+
+4. Tap the space around your video box to minimize your video and rejoin the call.
+
+Follow these same steps to turn Portrait Mode off.
+
+Add filters, text and more to your FaceTime calls
+
+Besides Portrait Mode, you can apply other filters and features to your video in FaceTime calls. Here's how.
+
+1. Start a FaceTime call.
+
+2. Tap the box where your video appears. This will enlarge and center your video box.
+
+3. Tap the star icon in the bottom left corner of your screen, and a new menu will appear along the bottom of your screen.
+
+4. In the new menu you will see options to add your Memoji, filters, text and more to your FaceTime call. Tap into each option to explore and get your video to look the way you want.
+
+5. Tap the video around your video box to exit the menu. Your filters and effects will be applied.
+
+To remove the filters and effects, follow the first three steps above. Once you hit the star icon, the filters and effects will be disabled.
+
+For more Apple news, check out everything you need to know about Apple's iPhone 14 line and iOS 16.

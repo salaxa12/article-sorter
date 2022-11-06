@@ -1,0 +1,29 @@
+It’s called Imagen and it’s Google’s answer to the wave of text-to-image models whose creations have flooded the internet this year. But unlike those released by Meta, Microsoft, and OpenAI, the internet giant is taking a cautious approach by offering users a limited taste inside its AI Test Kitchen.
+
+As with DALL-E, Make-A-Scene, and Stable Diffusion, Imagen uses A.I. imaging technologies to turn short text descriptions into unique photorealistic images. Google, however, ranks its model as best-in-class, stating in a paper released in May that “human raters strongly prefer Imagen over other methods.”
+
+The version available inside AI Test Kitchen, an app Google released in August to receive reactions to its A.I. projects, will have two functions for users to play with, City Dreamer and Wobble. The app, which requires a short application and waitlist for access, has a user base that is active, opinionated, and somewhat self-selecting, which the company claims has offered invaluable feedback.
+
+In City Dreamer, users come up with a theme, and the model then conjures buildings and urban plots. For Wobble, users choose a material and items of clothing, and the model then generates a mini monster (one that dances if poked).
+
+It’s extremely limited compared to the broad creative freedom offered by other models. Intentionally so: Google wants more user feedback and to better understand how it breaks before launching a full release.
+
+The company is also trying to mitigate problems other A.I. models have run into, namely around the social biases baked into the text from which such systems are built. “There is a risk that Imagen has encoded harmful stereotypes and representations,” Google Research’s Brain Team said earlier this year, “which guides our decision to not release Imagen for public use without further safeguards.”
+
+The rapid emergence of A.I. images has also led to concerns about artistic copyright. Text-to-image models typically scrape publicly available images without crediting or compensating the original creators. In September, Getty Images banned such images from its platform, though last month, Shutterstock partnered with OpenAI to integrate an image synthesis product into its service.
+
+Google seems reluctant to wade into such controversial waters—and for good reasons. But by the time it deems Imagen safe and culturally sensitive enough, Meta and the Elon Musk-backed OpenAI may already have a hold on the market.
+
+More Trending Stories:
+
+In a ‘Once-in-a-Lifetime’ Discovery, Swedish Archaeologists Have Unearthed a Cache of Viking Silver That Still Looks Brand New
+
+Sarah Biffin, the Celebrated Victorian Miniaturist Born Without Hands, Is Now Receiving Her First Major Show in 100 Years
+
+A Painting the National Gallery Determined Was Not by Vermeer Will Be Displayed In the Rijksmuseum’s Vermeer Mega-Show Anyway
+
+It Took Eight Years, an Army of Engineers, and 1,600 Pounds of Chains to Bring Artist Charles Gaines’s Profound Meditation on America to Life. Now, It’s Here
+
+‘I’ll Have Terrific Shows Posthumously,’ Hedda Sterne Said. She Was Right—and Now the Late Artist Is Getting the Recognition She Deserved
+
+Follow Artnet News on Facebook:

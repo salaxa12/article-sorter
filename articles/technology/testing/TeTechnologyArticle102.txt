@@ -1,0 +1,15 @@
+Developers who want to start writing apps for Windows 11 or just regular users curious to see Microsoft's latest operating system can download official virtual machines provided by Microsoft for free. The company has once again updated its VMs full of developer tools, giving users access to Windows 11 2022 Update, Visual Studio 2022, WSL, and other utilities.
+
+It is worth mentioning that Microsoft's Windows 11-based virtual machines are not entirely free. You can use those VMs at no cost until January 10, 2023. After that date, Microsoft will ask you to activate Windows just like any other virtual machine or local installation (you can activate it with a genuine key and continue using it). Still, two months should be enough for developers to get acquainted with the following:
+
+Windows 11 Enterprise SKU (Evaluation)
+
+Visual Studio 2022 Community Edition with UWP, .NET Desktop, Azure, and Windows App SDK for C# workloads
+
+Windows Subsystem for Linux 2 with Ubuntu pre-installed
+
+Windows Terminal
+
+Developer Mode
+
+The official Windows 11 virtual machines are available in four variants for different virtualization software: VMWare, Hyper-V, VirtualBox (which recently received full support for Windows 11), and Parallels. You need at least 20GB of free disk space to get started with one of those virtual machines. You can find all the details and links for download on the official website.

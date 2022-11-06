@@ -1,0 +1,37 @@
+OK, I admit it: I’m an idiot. Over the years my house has become infested with HDMI cables. Seriously, it looks like there’s been an explosion in an HDMI cable factory here. So, after amassing thousands (slight exaggeration) of HDMI cables, I thought I’d never have to buy one again. Oh, dear reader, how wrong I was.
+
+The problem is, I’ve been stuck in the mid-2000 mindset that an HDMI cable is an HDMI cable, and a cheap one will work just as well as an expensive one – and that expensive HDMI cables were essentially snake oil sold by unscrupulous retailers to consumers who didn’t know better. Either the HDMI cable worked or it didn’t.
+
+Back then, that was largely true. Plugging in an HDMI cable that cost $5 into your Xbox 360 and an HD-ready TV would give you the same experience as if you paid $20 for a gold-plated cable.
+
+This was the advice I’d loudly drill into everyone I knew, and it was advice I also lived by. So, my house slowly filled with cheap HDMI cables. They did the trick, after all… until one day they didn’t.
+
+(Image credit: favomo / bomg / Shutterstock)
+
+HDMI woes
+
+Back when I was extolling the virtues of cheap HDMI cables and telling anyone who cared (surprisingly few people did) to shun expensive versions, HDMI devices were relatively unambitious. HDMI was used to carry video signals, usually 720p, but sometimes 1080p at a push, plus audio.
+
+Since then, however, we’ve been demanding more from our humble HDMI cables. Video resolutions we expect them to carry have jumped to 4K and even 8K, and audio is often multi-channel and uncompressed for cinematic surround sound. With ARC (audio return channel) and eARC, that audio goes in both directions as well, and HDMI is carrying more data as well, be it information about HDR or even network data.
+
+All of that puts a big strain on the bandwidth of the cables (how much data they can transfer at once), and if you’re like me, you may find an increasing number of older, cheaper, HDMI cables in your home are no longer up to the task.
+
+(Image credit: Alexander_P / Shutterstock)
+
+Check your cables before Black Friday
+
+Black Friday 2022 is coming up fast (it lands on November 25), and as usual, I expect there to be a load of great Black Friday TV deals. If you’re planning on getting a new TV on Black Friday, then you’ll want to make sure you have the right cables as well.
+
+I didn’t. I treated myself to a new TV recently (yeah, yeah, I should have waited for Black Friday, but I saw a deal I just couldn’t miss), and what really appealed to me was the fact that it was a 4K set that offered excellent HDR options, and supported G-Sync and FreeSync, so I could plug in my gaming PC and play PC games at 4K and 120Hz for a fast and responsive experience.
+
+The only problem was that I assumed the many HDMI cables in my house could allow me to hook up the TV to the PC. That proved to be a foolish thought. On plugging it in, the screen would flicker black for a few seconds. Turning on HDR in Windows 11 (always a recipe for a bad time) made the flickering worse.
+
+‘No worries,’ I thought, ‘I’ll try another HDMI cable.’ I did and had the same problem. Then another, and another. One cable made the flickering less frequent, but still, after three or four minutes, the screen would go black for a second. Not ideal in virtual life-or-death situations.
+
+It became pretty apparent that the HDMI cables were to blame. The other device I plugged into the TV didn’t have the issue, so I figured the admittedly old HDMI cables just couldn’t handle the extra workload from my RTX 3080 Ti GPU (which is HDMI 2.1, as is the TV).
+
+While I still had a box full of HDMI cables to try, some of which may have fixed the issue, I couldn’t be bothered to test them all. Many of the cheap cables had no clear way of telling what kind of HDMI they were.
+
+So, I went against all my previous advice and went on Amazon and put in an order for a high-speed HDMI cable, one which promised up to 8K resolution. While it wasn’t hugely expensive, it was more than I’d usually spend on a cable, especially when I have so many already. But I wanted to be sure. The next day it arrived, and I tested it out. Sure enough, it worked perfectly, and now I can game on my PC and TV at 4K and 120Hz with G-Sync on, and HDR enabled as well.
+
+The moral of this story is that if you are going to buy a new TV on Black Friday (or even a new monitor or device to plug it in, for example, if you find a gaming laptop Black Friday deal), make sure you have the right cables to connect it all up.

@@ -1,0 +1,24 @@
+If someone were planning on burglarizing a building, it would help if they knew in advance where valuable gadgets such as smart TVs and laptops were located. A new study suggests that a drone equipped with a cheap "Wi-Peep" device could allow them to do so, by seeing through the building's walls.
+
+The potential security problem was discovered by a team of scientists at Canada's University of Waterloo, led by Dr. Ali Abedi.
+
+It exploits an existing technological weakness that the researchers call "polite Wi-Fi." This monicker refers to the fact that even within password-protected Wi-Fi networks, Wi-Fi-enabled devices still respond to contact attempts made by any other device within range.
+
+That's where the Wi-Peep comes into play.
+
+Created by the scientists from just $20 worth of off-the-shelf electronics, the 10-gram (0.4-oz) device is mounted on an ordinary consumer drone, which is then flown around the outside of a building. As the drone does so, the Wi-Peep transmits Wi-Fi signals – these travel through the walls and into the building, where they're detected by any Wi-Fi-connected devices present.
+
+Those devices reply with a signal of their own, which is picked up by the Wi-Peep. By measuring how much time passes between the initial signal being sent and the response being received, it's possible to ascertain the location of devices inside the building, to within a range of 1 meter (3.3 ft).
+
+Along with being used to scope out buildings for possible burglaries, the technology could conceivably also be utilized to see where guards are located in businesses such as banks, by tracking the locations of their smartphones or smart watches.
+
+It should be noted that there are already experimental systems that use Wi-Fi to spot and track people through walls, by emitting signals and then tracking the reflections of those signals off the people's bodies. Such setups are still fairly complex and cumbersome, though, so they would be much less stealthy than a small remotely controlled, Wi-Peep-equipped drone.
+
+"On a fundamental level, we need to fix the polite Wi-Fi loophole so that our devices do not respond to strangers," said Abedi. "We hope our work will inform the design of next-generation protocols."
+
+One of his suggested short-term solutions involves introducing an artificial, randomized variation in device response times, which would mask their location relative to a Wi-Peep-like apparatus.
+
+A paper on the research was recently presented at the 28th Annual International Conference on Mobile Computing and Networking.
+
+Source: University of Waterloo
+
