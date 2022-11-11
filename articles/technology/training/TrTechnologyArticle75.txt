@@ -1,49 +1,37 @@
-The current weapon banner in Genshin Impact is a goldmine for Travelers who are searching for a great Catalyst to use with supporting characters and a Bow for DPS units. This time around, the featured 5-star weapons are A Thousand Floating Dreams and Thundering Pulse.
+Call of Duty Warzone 2.0 is all set to launch on November 16, 2022, bringing a brand-new battle royale experience alongside the much-anticipated DMZ mode.
 
-Not only are both of these weapons extremely good with their signature characters, they are also suitable for many other units in-game. This article will list down all the characters that can effectively use the two featured weapons in the current weapon banner of Genshin Impact.
+On November 9, 2022, Activision and Infinity Ward collaborated with several notable content creators to present the first look at DMZ gameplay for fans.
 
-This article reflects the personal views of the author.
+Infinity Ward @InfinityWard This is it! Catch the debut of DMZ gameplay from one of the many creators streaming here from our studio today on Twitch and YouTube. This is it! Catch the debut of DMZ gameplay from one of the many creators streaming here from our studio today on Twitch and YouTube. https://t.co/PfXUwEoiQO
 
-Best characters for A Thousand Floating Dreams in Genshin Impact
+Warzone 2.0 will launch alongside Modern Warfare 2's first season through a significant update, the pre-load times for which will begin on November 14, 2022.
 
-alteryuppy @alteryuppy Nahida with a thousand floating dreams!!!!!!!!! Im shaking!!!!!!! Nahida with a thousand floating dreams!!!!!!!!! Im shaking!!!!!!! https://t.co/JiNmBzvFWO
+The traditional battle royale experience will be Warzone 2.0's focus. However, the DMZ mode has garnered massive attention from the fandom ever since information regarding the same was leaked. Players can expect the mode to be a major feature of interest at the game's launch.
 
-A Thousand Floating Dreams is a brand new 5-star Catalyst in Genshin Impact that was designed specifically for the Dendro Archon, Nahida. Given below is the basic weapon information at Level 90:
+Wondering what the DMZ mode is and how it will work? This article elaborates on the basics of this new Escape From Tarkov-style experience in the upcoming Warzone sequel.
 
-Base ATK: 542
+Activision describes DMZ as an "open-world, narrative-focused extraction mode" in Call of Duty Warzone 2.0
 
-542 Secondary Stat: 265 Elemental Mastery
+The DMZ mode will be a free-to-play addition and will be an entirely separate experience from Warzone 2.0 and Modern Warfare 2. Here's how Activision describes it:
 
-265 Elemental Mastery Passive Skill: The wielder will gain buffs based on other party members' elemental type. If their elemental type is the same as the wielder, Elemental Mastery is increased by 32. If not, the wielder's Elemental Damage Bonus is increased by 10%. Each effect can stack by a maximum of 3. In addition, all nearby party members will also gain an additional 40 Elemental Mastery.
+"DMZ is an open-world, narrative-focused extraction mode where Operator squads have free rein to complete faction-based missions, take on additional side objectives, engage with enemy Operators or AI combatants, and search for valuable items, all while fighting to survive toward exfiltration."
 
-This Catalyst provides a hefty Elemental Mastery buff with just its secondary stats alone. With the addition of its passive skill, the wielder will either gain even more EM or bonus Elemental Damage. Furthermore, the Catalyst also provides the entire team with additional Elemental Mastery, making it a solid weapon option.
+The primary attraction of the DMZ mode is the open-world feature, which will give players access to the vast Al Mazrah map.
 
-Nahida with A Thousand Floating Dreams (Image via HoYoverse)
+Upon entering a match, one can choose to battle AI combatants or engage against real players for loot. Players can also collect floor loot, search for extra valuable items, and choose to complete side objectives.
 
-A Thousand Floating Dreams is perfect for characters capable of triggering Elemental Reactions in a team composition.
+The ultimate goal is to reach an extraction point for exfiltration while avoiding extinction. Upon death, a player will lose all the loot they collected, which is definitely not favorable.
 
-Nahida Yae Miko Mona Lisa Sucrose
+The AI combatants in the DMZ mode are no less of a threat. Players will be required to engage with them as a team to avoid getting killed and losing all loot. AI combatants will pose intense competition but will not engage in fights unless provoked.
 
-Each of the Genshin Impact characters listed above is an excellent support unit that can provide off-field applications to enemies. For those who are unaware, higher Elemental Mastery stats increase the damage of reactions. In other words, the more EM these characters have, the higher the damage they deal for elemental reactions.
+When looting and reloading, one should be aware of enemy players who are not going to be passive like the AI combatants.
 
-Best characters for Thundering Pulse in Genshin Impact
+When details regarding Warzone 2.0's DMZ mode first leaked, fans expected it to heavily contest the hardcore and realistic Escape From Tarkov's majorly popular extraction gameplay.
 
-Another featured weapon in the current weapon banner is Thundering Pulse. It is a great weapon for any DPS archer in the game, especially those who rely on their Normal Attack.
+However, creator opinions from yesterday's first DMZ gameplay event revealed that the mode is just Activision's personal take on Battlestate Games' successful FPS title.
 
-Base ATK: 608
+Warzone 2.0's DMZ mode is definitely an enjoyable experience, but it is not as challenging as Escape From Tarkov's extraction-style meta. Instead, Activision has tried preserving the battle royale experience's original idea while creating an open-world, exfiltration-based mode, which will sport very familiar mechanics for Warzone veterans to ease in.
 
-608 Secondary Stats: 66.2% Crit Damage
-
-66.2% Crit Damage Passive Skill: Increases wielder's ATK by 20% and grants the might of the Thunder Emblem. At stack level 1/2/3, the Thunder Emblem increases Normal Attack DMG by 12/24/40%. The wielder will obtain 1 stack of Thunder Emblem by triggering the following scenarios: Normal Attack deals damage to enemies (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.
-
-Yoimiya with Thundering Pulse (Image via HoYoverse)
-
-Thundering Pulse boasts heavy Crit Damage, so much so that players only have to worry about Crit Rate when it comes to artifacts. There are quite a few Genshin Impact characters that can use this weapon well:
-
-Yoimiya Tartaglia Yelan Tighnari Ganyu Fischl
-
-While support units can also take advantage of this bow, players are recommended to equip this weapon with DPS characters to take full advantage of its damage-oriented passive skill. The Normal Attack damage bonus is far too high to be wasted with off-field characters.
-
-Both weapons in the current Genshin Impact banner are especially great for players who have any of the characters mentioned on these lists. Travelers who have spare Primogems may want to use a few wishes in the banner to stand a chance at obtaining one of these featured 5-star weapons.
+More tactical details regarding the DMZ mode will be revealed next week before the launch, according to the official press release.
 
 Poll : 0 votes

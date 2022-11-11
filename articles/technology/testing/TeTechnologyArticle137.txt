@@ -1,17 +1,13 @@
-What you need to know
+MediaTek used to focus on inexpensive, entry-level chips, but it has slowly crept up on Qualcomm in the flagship space over the past few years. Now MediaTek has announced the Dimensity 9200, which doesn’t compromise on power or connectivity. It debuts a new GPU, a new ARM core, and even a new Wi-Fi standard — Wi-Fi 7 to be precise. You probably won’t come across any Wi-Fi 7 networks for a while, but the Dimensity 9200 is ready for the future.
 
-The Meta Quest Pro has been having Wi-Fi issues with some networks since launch, including reduced connection speed and unreliable connections when compared to the Quest 2.
+While the Dimensity 9200 does have a lot of new technology, there’s nothing revolutionary about the basic design. This is a 4nm octa-core ARM system-on-a-chip (SoC) with three CPU islands. There’s a group of four low-power Cortex-A510 cores clocked at 1.8GHz, along with a set of three high-power Cortex-A715 cores at 2.85GHz. The final piece is a single Cortex-X3 CPU, which is faster than all the other CPU cores and clocked at 3GHz. The Dimensity 920 is the first chip to have the X3, which is the latest Cortex-X Custom design from Arm Holdings.
 
-Virtual Desktop developer Guy Godin identified the issue as a problem with DFS channels. Disabling DFS on your router can be used as a temporary fix.
+This chip is also the first to have Arm’s Immortalis-G715 GPU. This component supports numerous high-end gaming features that have been rare on mobile chipsets, including variable rate shading, ray tracing, and 5K resolution output. In fact, the Dimensity 9200 can handle two 5K displays, although the refresh rate is limited to 60Hz. At 1440p, you can get up to 144Hz, and 1080p devices will be able to refresh at 240Hz. Arm says the new GPU has an improved execution engine that is 15 percent faster than its last, making the Immortalis Arm’s fastest reference GPU ever.
 
-Meta says it's been working on a fix and will issue an update soon.
+AI processing is all the rage these days, and the Dimensity 9200 has you covered here, too. This SoC has MediaTek’s sixth-generation APU 690 with a 25 percent uplift in the ETHZ5.0 AI benchmark. The 9200 also has an Imagiq 890 ISP with support for RGBW camera sensors and 30 percent lower power usage compared to the last-gen chip.
 
-If you're one of the folks who picked up a Meta Quest Pro headset when it came out a few weeks ago and have been having issues with Wi-Fi networks, it's not just you and your headset isn't broken. Turns out, the Quest Pro's Wi-Fi chip doesn't play nice with routers that have DFS — that's Dynamic Frequency Selection — enabled.
+MediaTek has been slow to adopt some of the more advanced connectivity features that US carriers demand, but the Dimensity hits all the high points. As previously mentioned, it has Wi-Fi 7 support — the first mobile chipset to offer that. When Wi-Fi 7 networks actually start to appear, devices with the Dimensity 9200 will be able to transfer data at up to 6.5Gbps. It also has both sub-6 and millimeter wave 5G, the latter of which can reach gigabit speeds if you’re close to the transmitter — not even last year’s Dimensity 9000 had that. This spectrum is only common in the US right now, but carriers like Verizon often require manufacturers to support it.
 
-DFS's job is to allow your 5GHz Wi-Fi network to operate alongside other devices that use the same spectrum, including any radar that might be running near your home or office — a particular problem if you live close to an airport. Ironically, the substantially cheaper Oculus Quest 2 (opens in new tab) doesn't seem to have ever had this problem.
+The MediaTek Dimensity 9200 is already available to OEMs to build phones around. We should see the first Dimensity 9200-based devices launch at the tail end of 2022.
 
-If you are having Wi-Fi performance issues with your Quest Pro, disable DFS channels in your router settings; it looks like the Pro doesn't handle them very well.Example of Quest 2 vs Quest Pro connected to same 5 GHz Wi-Fi running on channel 136 pic.twitter.com/OwB2mCFWSiOctober 27, 2022 See more
-
-Bruno Cendón, Sr. Director of Wireless Technologies at Meta's Reality Labs replied to Godin on Twitter saying that this is a known issue and that a patch is forthcoming. While reviewing the Meta Quest Pro (opens in new tab), I noticed that my Wi-Fi connection speed was lower than the Quest 2 on the same Wi-Fi network — 1200mbps on the Quest 2 and around 800mbps on the Quest Pro — but haven't had any substantial issues since this is still a fast wireless connection.
-
-Folks who are having problems with their Wi-Fi networks can disable DFS on their router as a temporary fix. See your router manufacturer's support page for how to do that. Once Meta has issued the patch, Cendón says the Quest Pro will connect at the same speed and reliability as the Quest 2.
+Now read:

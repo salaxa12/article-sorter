@@ -1,21 +1,27 @@
-Overwatch 2's latest hero, Ramattra, will go live on 6th December, 2022.
+More than two dozen Lenovo notebook models are vulnerable to malicious hacks that disable the UEFI secure boot process and then run unsigned UEFI apps or load bootloaders that permanently backdoor a device, researchers warned on Wednesday.
 
-Launching alongside Season 2, the new hero - a tank from the same brotherhood of monks as Zenyatta - is reportedly designed to hold off other tanks in a bid to improve the free-to-play shooter's combat balance.
+At the same time that researchers from security firm ESET disclosed the vulnerabilities, the notebook maker released security updates for 25 models, including ThinkPads, Yoga Slims, and IdeaPads. Vulnerabilities that undermine the UEFI secure boot can be serious because they make it possible for attackers to install malicious firmware that survives multiple operating system reinstallations.
 
-Watch on YouTube Ramattra Origin Story | Overwatch 2.
+Not common, even rare
 
-Ramattra has two forms; the defensive Omnic form, and Nemesis, which is just as aggressive as it sounds.
+Short for Unified Extensible Firmware Interface, UEFI is the software that bridges a computer’s device firmware with its operating system. As the first piece of code to run when virtually any modern machine is turned on, it’s the first link in the security chain. Because the UEFI resides in a flash chip on the motherboard, infections are difficult to detect and remove. Typical measures such as wiping the hard drive and reinstalling the OS have no meaningful impact because the UEFI infection will simply reinfect the computer afterward.
 
-"The leader of Null Sector is on a mission to create a better world for Omnics… no matter what it takes," is all the video's description tells us, along with revealing Ramattra's arrival date.
+ESET said the vulnerabilities—tracked as CVE-2022-3430, CVE-2022-3431, and CVE-2022-3432—“allow disabling UEFI Secure Boot or restoring factory default Secure Boot databases (incl. dbx): all simply from an OS.” Secure boot uses databases to allow and deny mechanisms. The DBX database, in particular, stores cryptographic hashes of denied keys. Disabling or restoring default values in the databases makes it possible for an attacker to remove restrictions that would normally be in place.
 
-"I really enjoy how Ramattra runs that balance of a character with a barrier who can protect his team, but also someone who can be ruthless and charge," narrative designer Gavin Jurgens-Fyhrie told GamesRadar+.
+Advertisement
 
-"There's this fun strategy where you're trying to figure out, how safe are you? How far can you go? Can you push the team with you? Can you lead from the front and pull them with you? It's very Ramattra, because he is a battlefield commander. He's someone who inspires people around him. Pulling people together and charging with them is both his personality and a strategy that I like to use."
+“Changing things in firmware from the OS is not common, even rare,” a researcher specializing in firmware security, who preferred not to be named, said in an interview. “Most folks mean that to change settings in firmware or in BIOS you need to have physical access to smash the DEL button at boot to enter the setup and do things there. When you can do some of the things from the OS, that's kind of a big deal.”
 
-ICYMI, Overwatch 2's character Mei has been temporarily disabled by Blizzard due to a game-breaking exploit - and won't return for two weeks.
+Disabling the UEFI Secure Boot frees attackers to execute malicious UEFI apps, something that’s normally not possible because secure boot requires UEFI apps to be cryptographically signed. Restoring the factory-default DBX, meanwhile, allows attackers to load vulnerable bootloaders. In August, researchers from security firm Eclypsium identified three prominent software drivers that could be used to bypass secure boot when an attacker has elevated privileges, meaning administrator on Windows or root on Linux.
 
-Mei, one of the game's damage characters, has an ability called Ice Wall, which projects a huge wall of ice in front of her. Ice Wall is a useful ability which can block the opposing team's path and line of sight. And players found a novel way to use it, albeit not without some bugs.
+The vulnerabilities can be exploited by tampering with variables in NVRAM, the non-volatile RAM that stores various boot options. The vulnerabilities are the result of Lenovo mistakenly shipping Notebooks with drivers that had been intended for use only during the manufacturing process. The vulnerabilities are:
 
-Blizzard insists it's "working to improve" moderation in Overwatch 2 following a backlash against a "sexual harassment simulator" custom game. The free-to-play multiplayer game includes custom game modes that can be freely named, but some words seemingly aren't prevented by Blizzard's word filters.
+CVE-2022-3430: A potential vulnerability in the WMI Setup driver on some consumer Lenovo Notebook devices may allow an attacker with elevated privileges to modify secure boot settings by changing an NVRAM variable.
 
-Overwatch 2 has been plagued by problems since launch, from controversial SMS verification, to DDoS attacks, and an auto-purchase bug. Consequently, Blizzard recently polled Overwatch 2 players to get their views on the game's Battle Pass and in-game store.
+CVE-2022-3431: A potential vulnerability in a driver used during the manufacturing process on some consumer Lenovo Notebook devices that was mistakenly not deactivated may allow an attacker with elevated privileges to modify secure boot setting by altering an NVRAM variable.
+
+CVE-2022-3432: A potential vulnerability in a driver used during manufacturing process on the Ideapad Y700-14ISK that was mistakenly not deactivated may allow an attacker with elevated privileges to modify secure boot setting by adjusting an NVRAM variable.
+
+Lenovo is patching only the first two. CVE-2022-3432 will not be patched because the company no longer supports the Ideapad Y700-14ISK, the end-of-life notebook model that’s affected. People using any of the other vulnerable models should install patches as soon as practical.
+
+Go to discussion...

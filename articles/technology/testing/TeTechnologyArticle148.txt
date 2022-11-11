@@ -1,49 +1,15 @@
-WATERLOO — After attaching a tiny Wi-Fi module to a small drone, Ali Abedi can hover it over a building and quickly see the locations of all Wi-Fi connected devices inside.
+Black Friday is almost upon us, and with it comes a plethora of deals on computer monitor. While Amazon already has some great monitors on sale, we suggest also checking out Walmart and Best Buy. And don’t forget about HP and Lenovo, because their online retail stores sell more than just PCs.
 
-As a University of Waterloo computer scientist, Abedi found design flaws in Wi-Fi chips that raise concerns about privacy and security threats from a little known corner of the digital world.
+Searching for the right monitor can be a daunting task, but rest assured, we’re highlighting only deals that offer great tech at legitimate discounts. We’ve also included an FAQ section, which addresses the best times to shop on Black Friday and Cyber Monday, plus some advice on what to look for in a good monitor.
 
-Simply put — the Wi-Fi connected devices inside a home or office can be easily located and tracked by a hacker’s drone.
+Early Black Friday gaming monitor deals
 
-After identifying the chip-design flaws, Abedi published articles in 2020 and was invited to make presentations to some of the world’s biggest makers and users of Wi-Fi chips, including Google.
+When it comes to fast-paced PC gaming, every second counts. That’s why you should consider getting a proper gaming monitor, as they’re designed to make your game look as smooth as possible when the action is furiously fast. We can highly recommend the deals below.
 
-Now, Abedi is going public with his call for design changes in the chips themselves to eliminate the threats.
+The Lenovo Legion Y25g-30 deserves a special callout because of its ridiculously high 360Hz refresh rate. The refresh rate is how fast a monitor can draw up a new image. 360Hz is incredibly fast, so visuals on this monitor should look quite smooth.
 
-“When I found this loophole I realized it could cause some serious problems, mostly related to privacy,” said Abedi.
+Early Black Friday 4K workstation monitor deals
 
-He made a Wi-Fi nodule that weighs only 10 grams and attached it to a small drone. That nodule forces all of the Wi-Fi connected devices inside the target building — smartphones, laptops, tablets, desktops, CCTV cameras, thermostats, doorbells, refrigerators, speakers — to continually send location data to the nodule above.
+4K monitors are great for content creation thanks to their high resolutions and larger screens. Although they’re a good choice for editors who need to see the finer details of their work, there’s really nothing like watching an epic movie on a 4K display too. So, whether you’re a video editor or a movie buff, we’ve got quite a few options below.
 
-“We can actually force a device that has Wi-Fi connectivity, such as a phone, laptop, whatever has Wi-Fi, to send us some data,” said Abedi.
-
-He can hover the drone at 10 or 20 metres above the target building, and soon know where every Wi-Fi connected device is located inside the building.
-
-“So, you wouldn’t even hear the drone,” said Abedi.
-
-The nodule and drone are so small they can be folded up and carried inside a pocket. A nodule is basically a very, very small computer with Wi-Fi chips. Abedi programmed the chips, put them on a drone and ran some experiments.
-
-“It is a very basic loophole in the Wi-Fi protocol and maybe they didn’t even imagine what consequences it might have,” said Abdi.
-
-Everything from phones, fitness trackers, televisions, personal assistants, refrigerators and smartwatches to exercise bikes, bathroom scales and speakers are part of growing web of Wi-Fi enabled devices.
-
-“So, when somebody finds your phone they find you, so they can track you inside, it can be anything — an office building or it can be your home,” said Abedi.
-
-The technology could be used by bad guys looking for the location of security cameras and guards or police tactical teams trying to save hostages.
-
-“All sorts of information leaks out, for example, someone can see: ‘Oh, everybody is in the basement, nobody is on the second floor,’” said Abedi. “They can find the location of expensive smart TVs and expensive laptops.”
-
-Someone outside the building can find the location of security cameras inside the building. Police would find it very useful too, he said.
-
-“They can quickly find out, for example — ‘they have gathered all the people in that room,’” said Abedi. “Or where the attackers are, potentially, if they have Wi-Fi connected devices on them.”
-
-He made presentations to the makers of Wi-Fi chip sets about the design flaw.
-
-“Unfortunately, it is not an easy fix, that’s why most of the devices will not be able to be patched with software because the loophole is actually related to something in the physical layer, the chip set of these devices, and in many cases you can not change that using software,” said Abedi.
-
-Abedi now works as a researcher at Stanford University, part of a large project involving many American universities. He is researching wireless networking, but maintains adjunct-professor status at University of Waterloo.
-
-“The solution that we came up with will help future generations of Wi-Fi devices, we don’t have so much hope for existing devices,” said Abedi.
-
-Describing himself as a neutral scientist, Abedi said the chip designs that enable exploitation of the Wi-Fi loophole should be closed as soon as possible.
-
-“We believe that because the loophole exists in Wi-Fi devices, sooner or later a bad person could start using this against people,” said Abedi.
-
-SHARE:
+The Samsung UJ59 is a solid deal thanks to its large screen size. You’re getting 32-inches of screen, which is awesome for either productivity or entertainment.

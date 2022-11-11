@@ -1,21 +1,11 @@
-One Of The Biggest Game Studios Has Shut Down
+Google has decided that you will use the new integrated Gmail experience that includes Meet and Chat. There is no out going forward, the company announced this week, so you better get figure out a way to like it.
 
-Once known as Square Enix Montreal, Onoma is being shut down after being acquired by The Embracer Group.
+Earlier in 2022, Google announced this new integrated Gmail, where they added tabs for Meet and Chat, to let you use those two services without ever having to leave Gmail or open a new tab. You could control meetings and message colleagues (or friends) while drafting up an email proposal, all from the same screen. It’s actually kind of nice, assuming you use Meet and/or Chat regularly.
 
-By Jason Collins |
+Up until this point, Google hasn’t forced anyone to use this. For those who weren’t fans, Google was still including an option in settings that let you “Go back to the original view.” Starting this month for Workspace customers, the option (below) will go away and you’ll have to use the “new Gmail view” going forward.
 
-The Embracer Group, a Swedish video game and media holding company is apparently shutting down Onoma just months after its acquisition. Onoma, formerly known as Square Enix Montreal, was previously acquired along with the entirety of Square Enix’s former western holdings back in August this year. The studio subsequently changed its name to Onoma, but it would seem that Embracer had other plans for the studio.
+Google hasn’t said when regular Gmail users will be forced to use the new Gmail view, but I’d guess it’ll be soon. And also, you can still very much customize the new Gmail to not include those Chat and Meet tabs if you’d like that space back on the left side of the Gmail screen.
 
-According to IGN, the move is likely a cost-cutting measure, and the company has informed employees that some of the staff would be transferred to a sister studio, Eidos Montreal, which was acquired alongside Onoma, and San Francisco-based Crystal Dynamics. Prior to their acquisition, the trio was known for releasing some of the best hits in gaming history, including some franchises that are completely unknown to younger generations of gamers but represent fond memories for the older gaming population.
+To edit the screen and remove Chat and Meet, you tap on the Gmail settings button, find the “Apps in Gmail” section and click Customize. A pop-up will show that lets you uncheck Chat and Meet. If you remove both options, you’ll get a big chunk of the left side of the screen back, as removing both hides that tabbed bar menu.
 
-Onoma’s shutdown is somewhat unusual due to its timing. The company has previously announced its rebranding and an entirely new game in development, which is now either canceled or transferred to Eidos Montreal along with some of Onoma’s employees. The studio was best known for its work on the well-regarded Gomobile gaming series, which included Hitman Go, Lara Croft Go, and Deus Ex Go — which were originally developed by Square Enix, Crystal Dynamics, and Eidos Interactive, respectively, for other gaming platforms.
-
-From Lara Croft Go
-
-Additionally, the cost-cutting measures aren’t only limited to the reported Onoma shutdown. Eidos Montreal is reportedly reducing the scope of one of its in-development projects and entirely canceling another while also reportedly helping Microsoft develop an installment in the acclaimed Fable franchise. Will it be a part of the gaming giant’s plan to revolutionize the gaming industry? We don’t know, but it would appear that a similar fate has befallen Crystal Dynamics.
-
-The latter is known for developing Lara Croft and Legacy of Kain series, the latter of which is done in collaboration with Amy Hennig, one of the greatest female writers in gaming — she’s currently working with Marvel on their recently announced game. In fact, it would seem that Embracer has great plans for Eidos Montreal and Crystal Dynamics, mostly focusing on growth opportunities centered around their respective franchises and AAA games. In fact, Crystal Dynamics recently teased a Legacy of Kain with a survey about the game’s revival — we strongly encourage you to take the survey.
-
-Other than the aforementioned Onoma shutdown, Embracer also closed their publishing QA division, and the entire move affected more roughly 200 people — only some of which will be transferred to Eidos Montreal on PC and console projects. It would seem that Embracer has no plans to tackle the mobile market, at least not with Onoma’s offering, which is admittedly lacking compared to other mobile releases in the current mobile gaming market.
-
-Embracer Group’s acquisition of the aforementioned studios revealed some interesting details pertaining to Square Enix’s business. It’s still unknown why the company sold Tomb Raider, a franchise with over 88 million lifetime sales, for peanuts, but it seems eager to shed some of its IPs and receive a cash boost in the process.
+After flipping back to the original view to see how much different it is than the new Gmail, I can happily report that they aren’t that much different if you turn off Chat and Meet. In fact, the only real difference is in overall styling because the new Gmail has a refreshed Material You vibe that looks quite nice with blue tones. To see what I mean, in case you are still on original Gmail, check out this post.

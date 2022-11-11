@@ -1,13 +1,39 @@
-Incoming Overwatch 2 tank Ramattra can get real big. The Blizzard FPS game’s thirty-sixth hero was unveiled during the Overwatch League grand finals, which saw the Dallas Fuel bring home their first championship title in a seven-match thriller against two-time champions the San Francisco Shock that marked the close to the esports league’s debut Overwatch 2 season. Now several members of the multiplayer game’s development team have talked about Ramattra’s design ahead of his release alongside Overwatch 2 season two on December 6.
+Lenovo fixed two high-severity flaws impacting various laptop models that could allow an attacker to deactivate UEFI Secure Boot.
 
-GamerBraves spoke with Overwatch 2 lead hero designer Alec Dawson, art director Dion Rogers, and lead narrative designer Gavin Jurgens-Fyhrie about what decisions went into making the Omnic juggernaut. Ramattra transitions between two forms – his standard Omnic form, where he fights with a staff that shoots a stream of projectiles and a barrier, and a Nemesis form. Rogers explains that the Nemesis form was created by Ramattra himself, and describes it as him getting “pretty hulked out.”
+Lenovo has released security updates to address a couple of high-severity vulnerabilities impacting various ThinkBook, IdeaPad, and Yoga laptop models. An attacker can exploit the flaws to disable UEFI Secure Boot.
 
-With an enlarged frame and a twist to his voice in Nemesis mode, Ramattra looks to close down his opponents using punches that will pierce through barriers. Dawson notes that “While in Omnic form, he’s not too large, he looks pretty normal-sized like a tank would. But when he transforms, you’re really going to see that visual change and his growth there – his whole silhouette just takes a different shape.” Rogers adds that “in his Nemesis form, there’s such a great change – it’s probably one of the biggest models we’ve made and there’s a distance we cannot go beyond because of the world.”
+Secure Boot is a security feature of the latest Unified Extensible Firmware Interface (UEFI) 2.3.1 designed to detect tampering with boot loaders, key operating system files, and unauthorized option ROMs by validating their digital signatures. “Detections are blocked from running before they can attack or infect the system specification.”
 
-The team also talks about how this double silhouette factors into designing Ramattra skins, as it’s important to be able to recognise his current form at a glance. “It’s a really fun challenge to dig into and I think we’ve come up with some really fun and thematic skins that fit,” says Rogers. “He still needs to remain as Ramattra, even in that Nemesis form. We cannot lose his identity when we visually try to build that next skin for him.”
+An attacker that is able to bypass the Secure Boot could bypass any security measure running on the machine and achieve persistence even in case the OS is reinstalled.
 
-As mentioned, Ramattra is an engineer himself, and was responsible for the creation of his Nemesis form. Jurgens-Fyhrie expands on this: “It always strikes me as interesting because he was created to fight humanity and he decided he wasn’t deadly enough.” As the leader of Null Sector, Ramattra justifies “any means necessary to defend his fellow Omnics.” Rogers said during the hero reveal that Ramattra is “the beginning of us moving the overall lore of Overwatch forward,” explaining how Omnics are finite and more can’t be made.
+The root cause of the flaws is the use of a vulnerable driver during the manufacturing process for some Lenovo devices that was mistakenly not deactivated.
 
-It certainly seems like Ramattra is set to bring plenty of impact to the world of Overwatch – both on the battlefield and off it. You can read the full interview with Blizzard’s Alec Dawson, Dion Rogers, and Gavin Jurgens-Fyhrie over at GamerBraves.
+Below are the vulnerabilities that were reported in Lenovo Notebook BIOS.
 
-We’ll be watching closely to see where Ramattra slots into our Overwatch 2 tier list, and whether he’ll end up slotting in as one of the best Overwatch 2 tanks. While you wait for season two and its corresponding Overwatch 2 battle pass to arrive, take a look at how to customise the best Overwatch 2 crosshair settings for perfect aiming, and how to set up the best Overwatch 2 settings to ensure your game runs optimally.
+CVE-2022-3430: A potential vulnerability in the WMI Setup driver on some consumer Lenovo Notebook devices may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable.
+
+A potential vulnerability in the WMI Setup driver on some consumer Lenovo Notebook devices may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable. CVE-2022-3431: A potential vulnerability in a driver used during manufacturing process on some consumer Lenovo Notebook devices that was mistakenly not deactivated may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable.
+
+A potential vulnerability in a driver used during manufacturing process on some consumer Lenovo Notebook devices that was mistakenly not deactivated may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable. CVE-2022-3432: A potential vulnerability in a driver used during manufacturing process on the Ideapad Y700-14ISK that was mistakenly not deactivated may allow an attacker with elevated privileges to modify secure boot setting by modifying an NVRAM variable.
+
+The vulnerabilities were reported to the vendor by Martin Smolár from ESET.
+
+#ESETResearch discovered and reported to the manufacturer 3 vulnerabilities in the #UEFI firmware of several Lenovo Notebooks. The vulnerabilities allow disabling UEFI Secure Boot or restoring factory default Secure Boot databases (incl. dbx): all simply from an OS. @smolar_m 1/9 — ESET research (@ESETresearch) November 9, 2022
+
+“While disabling UEFI Secure Boot allows direct execution of unsigned UEFI apps, restoring factory default dbx enables the use of known vulnerable bootloaders (e.g., #CVE-2022-34301 found by @eclypsium) to bypass Secure Boot, while keeping it enabled.” reads one of the tweets published by ESET.
+
+The experts pointed out that an attacker can trigger the flaws by simply creating special NVRAM variables. The researcher Nikolaj Schlej recently posted a nice explanation of why and how firmware developers should avoid storing security-sensitive components in NVRAM variables:
+
+Lastly, #CVE-2022-3432 relates to the BdsDxe DXE driver. This driver retrieves the value of the “L05SecBootSmm” NVRAM variable and if the value is 0, it disables UEFI Secure Boot. If the value is 1, it enables Secure Boot and restores factory keys/databases. 8/9 pic.twitter.com/kvmwwZ0dHn — ESET research (@ESETresearch) November 9, 2022
+
+Owners of the affected devices are highly recommended to update to the latest firmware version. Visiting Lenovo advisory it is possible to determine if a device is affected by these vulnerabilities and receive firmware update instructions.
+
+The firmware versions that fix the vulnerabilities are mentioned under the CVE IDs, so make sure to upgrade to that version or later.
+
+For official Lenovo software, check out this online support portal or run the update tool pre-installed on your computer.
+
+Follow me on Twitter: @securityaffairs and Facebook
+
+Pierluigi Paganini
+
+(SecurityAffairs – hacking, Secure Boot)

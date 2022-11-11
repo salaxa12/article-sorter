@@ -1,27 +1,80 @@
-After a confusing situation, Activision has decided to give all current and future owners of the Vault Edition of Call of Duty: Modern Warfare 2 10 hours of Double XP tokens and 10 hours of Double Weapon XP tokens.
+Yesterday’s Halo Infinite Winter Update proves one thing: This game still needs more updates, and specifically updates like this, and on a regular basis. With two new maps, a unique game mode, expansions to the campaign sandbox, the forge beta, and yet more besides, the Winter Update proves that Halo Infinite is more than capable of delivering that classic arena shooter magic in 2022; it just needs to get this whole live-service thing sorted out and squash several annoying bugs. And maybe, just maybe, it can.
 
-The news was shared by Call of Duty's Twitter, and the team acknowledged the complaints by many online who thought they would be getting these 20 hours of XP tokens if they purchased the Vault Edition.
+To say Halo Infinite has struggled as a modern live-service title is a bit of an understatement. Though it differentiates itself from many other live-service shooters by offering battle passes that don’t expire, it has struggled to deliver the steady stream of content and activities that many expect from a game like this. Halo Infinite also shipped without a variety of series-standard features, such as co-op, forge, and common game modes like Infection or Grifball. Much of that is changing with today’s update. Network campaign co-op is in, forge is playable via beta, and—while there are many other game modes that I’m sure the community would’ve preferred—the new asymmetrical Covert One-Flag mode reveals that Halo Infinite is more than a one-trick pony.
 
-Loading Play
+If you’ve been fence-sitting since the game’s launch, there’s now more content to enjoy. And if you’ve been taking a break, you should definitely download the update and take it for a spin. The positives of this update are very strong, though more can and should still be done.
 
-Originally, those tokens were meant only for players who purchased the Vault Edition from the in-game store of another Call of Duty game like Vanguard, Black Ops Cold War, Warzone, or Modern Warfare. However, there were many who assumed all Vault Edition owners would be getting these bonuses. Now, Activision has decided to clear up any confusion and gift all Vault Edition owners - current and future - the XP tokens.
+Advertisement
 
-"We understand there has been some confusion about an in-game-store exclusive reward for the Vault Edition," Call of Duty's Twitter wrote. "Therefore, we've decided to reward all players that currently own or purchase any version of the MWII Vault Edition with 10 hours of Double XP Tokens and 10 hours of Double Weapon XP Tokens. Current owners who have not already received the tokens should expect to see them in their account over the next 48 hours."
+Multiplayer updates: maps, modes, and a new battle pass
 
-All Progression Rewards in Call of Duty: Modern Warfare 2 31 Images
 
-In addition to the XP tokens, the Vault Edition also includes the cross-gen bundle of Call of Duty: Modern Warfare 2, the Red Team 141 Operator Pack which includes Ghost, Soap, Farah, and Price Operators, the FJX Cinder (first-ever weapon vault), one Battle Pass season, and 50 tier skips.
 
-If you already own Modern Warfare 2 and wish to upgrade to the Vault Edition, you can do so for $30.
+Let’s start with the maps, because I think these showcase Halo infinite’s current strengths and are reason enough to jump back in. The new update introduces two new “Arena” (4v4) maps, bringing the total of Arena maps to 10. While there isn’t yet a new Midship, The Pit, or even a Haven among them, these are excellent additions to the game. Argyle in particular, I think, stands out as my favorite of the two, rife with intense vertical gun battles that I want more of. Great stuff for sure.
 
-In our review of Call of Duty: Modern Warfare 2's multiplayer, we said that it "moves the formula forward with bigger maps and more customization without sacrificing its bulletproof mechanics."
+G/O Media may get a commission 95% off Dollar Flight Club Premium Plus+ Plan Lifetime Subscription (2-Pack) 95% off your travel dreams.
 
-In our review of Call of Duty: Modern Warfare 2's campaign, we said that it is a "lackluster follow-up to its refined predecessor, saved by its best-in-class shooting."
+Leave those dreamy “what if” plans behind, and start checking out deal alerts for domestic and international flights leaving from your four favorite departure airports. Buy for $150 at StackSocial Advertisement
 
-Loading Play
+Both of these new maps were created with the new forge tools, yet look way more polished than previous “official forge” creations. The wonky, plastic appearance of Halo 5 forge maps (despite the genuinely impressive nature of that game’s forge implementation) are a thing of the past, though there are still some rough edges. That said, I also hope the developers will continue to create new maps from scratch in the future.
 
-For more on Modern Warfare 2, check out the news that Call of Duty will remain on PlayStation "as long as there's a PlayStation to ship to," and that it had the biggest opening weekend in franchise history.
+CC Off
 
-Have a tip for us? Want to discuss a possible story? Please send an email to newstips@ign.com.
+English Halo Infinite Winter Update’s New Multiplayer Maps
 
-Adam Bankhurst is a news writer for IGN. You can follow him on Twitter @AdamBankhurst and on Twitch.
+Argyle and Detachment are arena-shooter maps through and through. They allow for a great deal of verticality, with plenty of deviations in elevation that give way to fun pocket-sized skirmishes where the Halo dance is on full display. They accommodate standard floaty Halo jumps and clever ‘nade throws while still making room for expanded equipment like the grappleshot. Detachment’s personnel cannons (no, I won’t call them what everyone else does) work really well with a grappling hook, allowing for creative movement that doesn’t replace Halo’s original feel, but instead complements it.
+
+Advertisement
+
+Unfortunately, Argyle has been taken out of rotation in matchmaking due to technical problems.
+
+Advertisement
+
+Argyle’s issues aren’t singular. The game still has a number of disappointing, frustrating, and confusing technical problems. Not only have I been met with server issues while connecting to matchmaking, forge, and even custom games (as have others), but the “desync” issues remain. Also, custom games are aggravatingly wonky. Bots, in particular, aren’t always guaranteed to be in your custom match, even if you select them. This is particularly annoying given that Bot Bootcamp was removed from matchmaking entirely. I shouldn’t have to log in and out of half a dozen custom matches, constantly turning various settings on or off, just to check out the new maps or warm up with some bots.
+
+Advertisement
+
+The game still feels like it’s held together with duct tape far too often. On PC, the Game Pass version of the game constantly begs me to sign in again every time I return to the main menu. Then it tells me I can’t play due to some issue yet I can somehow spam through that with rapid clicks and button presses. Maybe saying “duct tape” is being generous.
+
+But when it’s working well and you’re finally in a game, Halo Infinite’s strengths stand out, particularly when compared to Halo 4 and 5. It doesn’t feel like 343 is messing with Halo’s core to appeal to modern standards. This is classic Halo with some modern comforts as opposed to a modern shooter injected with classic Halo aesthetics for nostalgia points (re: Halo 4 and 5). The new maps demonstrate this very well.
+
+Advertisement
+
+The problem, of course, is that Infinite’s a more classic game wrapped in a modern package, i.e. the-live service format. While it sometimes feels that no game gets live-service models right (someone’s always complaining about something somewhere), logging into Halo Infinite has felt like visiting a museum before it’s fully opened, while everything else feels like a packed theme park.
+
+The new update has fixed some of that, but only some. The new progression system feels way more lively and responsive to your performance. This pairs nicely with the new free battle pass that offers up a variety of new cosmetics to earn. That said, if you’re not aiming for those weapon-specific challenges (like Kill Enemy Spartans with Banished Weapons), it still feels a bit slow to move through the pass. But maybe that’s how it should be?
+
+Advertisement
+
+Also, the new game mode, Covert One-Flag, is pretty interesting so far. It’s available under the “Joint Ops” playlist—a great name, as Halo’s jumps aren’t the only things that are high when I play.
+
+An inherently asymmetrical game mode, Covert One-Flag gives defenders motion sensors, swords, and Commando rifles, while the other side gets invisibility, Pulse Carbines, and Sidekicks. This leads to some interesting, more reliably tactical plays since the loadouts are perpetual; No one’s going to be grabbing a random sniper rifle or rocket launcher to turn the tide. Here, it’s strictly about playing well with the set of tools your side has and you always know who has what (mostly; grenades can still be wild cards). I hope Covert One-Flag sticks around and that 343 tries more experimental modes like this. They won’t always be winners, but it proves the multiplayer sandbox is highly malleable.
+
+Advertisement
+
+Halo Infinite also changed up some weapon balancing. Some guns got nerfs, some got buffs. You can find the gritty details on this here. I’m sure the differences will become more obvious as time goes on, but I don’t feel like I’m playing a wildly different game compared to last weekend. Weapons behave as I expect them to, even if the math is a bit different. The Pulse Carbine, as one example, has been improved a bit, but it clearly still requires a bit of skill to wield. That said, I have noticed the frag grenades’ increased detonation timer. The game feels a touch less frantic with this adjustment. I imagine at the highest levels of competitive games the new changes will be felt the most, but the multiplayer sandbox still feels like Halo Infinite, which always felt solid at its core.
+
+Forge, though currently in beta, is also remarkably impressive and filled with potential. I’ve barely even scratched the surface of what it can do myself, but it’s certainly been the talk of the town for Halo fans based on a number of leaked creations from those who’ve found clever ways to sneak into forge mode before its official launch. I believe there’s going to be a lot more to say about forge in this game moving forward and folks are already having a blast with it.
+
+Advertisement
+
+Campaign co-op and mission replay
+
+Halo Infinite’s campaign also got some love. Not only can you now jump around Zeta Halo with three other friends (I’ve yet to rally together a group for some co-op, but you know I will be looking to load up four Razorbacks with every marine getting the augmented Sentinel Beam for some absurdly hilarious destruction), but missions are also finally replayable.
+
+Advertisement
+
+Since its launch, Halo Infinite’s campaign has felt more like a movie than a video game. Despite the open-world sandbox to romp around in, not being able to revisit campaign missions has made the game feel more linear than it should be. Now, you can replay every major campaign mission with your choice of difficulty, and you can also restart assaults on enemy bases (though not FOBs) and captured marine encounters, as well as the mini “HVT” boss fights.
+
+This moves Halo’s single-player from just “the campaign” to something closer to a more dedicated PvE mode, and it’s nice to jump back into early missions with a full set of equipment for a change.
+
+Advertisement
+
+Disappointingly, you’re still unable to reload to a checkpoint; you must restart a mission if you wish to reset something. This might be a small thing to complain about, but it does make it not as replayable and open as previous Halo campaigns have been.
+
+Halo Infinite certainly has its work cut out for itself, and with Modern Warfare II out there smashing records, it’s got some tough competition. This update proves that, more than anything else, Halo Infinite has the potential to be stellar. It just needs the right execution.
+
+Advertisement
+
+
+

@@ -1,17 +1,9 @@
-AMD's Frank Azor confirmed to PCWorld that the new RDNA 3-based Radeon RX 7900 XTX is an RTX 4080 competitor and does not aim to take on the RTX 4090, which is 60% more expensive. Azor also touched upon FSR 3 and said that AMD aims to make the next generation upscaling technology available to all architectures.
+A handful of buyers of the God of War Ragnarok Collector's Edition are reporting their copies have arrived without the digital PS5, PS4 download code they were promised. Instead, they've been sent two lots of the bonus DLC content for the game that gives you snow armour for Kratos and Atreus. Since the Collector's Edition doesn't include a physical disc, purchasers have been left with one of the most expensive versions of the title, but are unable to actually play it.
 
-4 Reviews
+Purchasers of the Jotnar Edition are also reporting issues surrounding a missing steelbook, with problems documented on a Twitter account named GOW Collector’s Edition Mishap. Two reports state they both pre-ordered the game from Target and are missing the all-important download code.
 
-AMD's recent RDNA 3 launch event evoked more questions than answers, primarily due to the manner in which the company did the performance comparisons. While some preliminary data extrapolation based on AMD's arbitrary figures showed that the RX 7900 XTX may not be very far behind the RTX 4090, the company itself did not showcase any comparison with the competition during the RDNA 3 keynote. However, it looks like AMD is actually aiming for the RTX 4080 and not the RTX 4090 with RDNA 3 cards.
+Twitter user @Kabuuku posted: "Received my collectors edition of #GodofWarRagnarok a little early. Only digital voucher code was for snow tunic armor. Nothing else. Was ordered through Target, but they do not make the different editions themselves." A separate Reddit thread has also been created reporting the issue of receiving two DLC codes instead of the game.
 
-Speaking to PCWorld, AMD's Frank Azor clarified that the Radeon RX 7900 XTX indeed targets the RTX 4080 and not Nvidia's BFGPU. He said that the reason AMD didn't have any performance comparisons is because the RTX 4080 is not launched yet.
+This isn't the first time fans of Sony titles have been let down by its collector's editions. When The Last of Us: Part I's Firely Edition was shipped to customers, it was packaged lightly and thus a lot of copies arrived damaged.
 
-[RX 7900 XTX] is designed to go against 4080 and we don’t have benchmarks numbers on 4080. That’s the primary reason why you didnt see any NVIDIA compares... $999 card is not a 4090 competitor, which costs 60% more, this is a 4080 competitor."
-
-Azor also confirmed that FSR 3 will be coming to non-RDNA 3 architectures as well. This is unlike Nvidia's DLSS 3, whose frame generation features explicitly require an RTX 40 series GPU. AMD's Chief Architect of Gaming Solutions also said that FSR 3 isn't a knee-jerk reaction to DLSS 3.
-
-[FSR 3] is not a reaction or a quick thing [to DLSS 3], it is absolutely something we have been working on for a while. Why is it taking a little bit longer for it come out, that you’d probably hoped for? The key thing to remember about FSR is the FSR philosophy and FSR until now did not just work on RDNA 2 or RDNA 1 they work on other generations of AMD graphics cards. They also work on competitors' graphics cards. It is exponentially harder than if we just made it work on RDNA 3. […] We really do want to work on more than just RDNA 3."
-
-While that can be construed as AMD's intent, FSR 3 is still in development. We will have to see how the upscaler's features such as frame interpolation contribute to overall latency. DLSS 3's frame generation increases latency significantly, which is why Nvidia requires RTX Reflex to be turned on to mitigate some of the latency side effects.
-
-Buy the MSI Radeon RX 6800 XT Gaming Z Trio on Amazon
+The Collector's Edition sells for £179.99/$199.99 while the Jotnar Edition goes for £229.99/$259.99. Representing a significant price increase over the base PS5, PS4 versions, it's easy to see why customers have been left disappointed by the lack of the actual game inside the version they've been shipped. Have you encountered this problem too? Let us know in the comments below.

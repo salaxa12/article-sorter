@@ -1,28 +1,25 @@
-Sonic Frontiers is going for the open zone concept, which at first glance may seem like more of a challenge to run well on Switch, especially compared to prior entries in the series. However, Sonic Team boss Takashi Iizuka has indicated that the Hedgehog Engine is up for the task.
+Philip is a Staff Writer at Dexerto based in Louisiana, with expertise in Pokemon, Apex Legends, and general gaming industry news. His first job in the games industry was as a reviewer with NintendoEverything.com while attending college. After graduating with a Bachelor of Arts in Communication focusing on Multimedia Journalism, he worked with GameRant.com for nearly two years before joining Dexerto. When he's not writing he's usually tearing through some 80+ hour JRPG. You can contact him at [email protected]
 
-Speaking with Gamereactor, Iizuka spoke about the challenges of making a game that’s releasing across a variety of platforms and different generations of hardware. When it comes to Switch, though it won’t have the same “high-end assets” (and it’ll have a lower resolution and frame rate), Iizuka believes the game looks “very comparable” on Nintendo’s console.
+Pokemon Go fans have called for Niantic to expand the game’s stat display options similar to those found in the mainline game series.
 
-Iizuka stated:
+Many Pokemon Go players have become accustomed to the simplified aspects of Pokemon Go compared to the mainline Pokemon video games.
 
-“It is extremely challenging to develop on this incredibly wide spectrum of hardware. But the good thing is we are using the Hedgehog Engine. The Hedgehog Engine is an internally developed engine we have been using since Sonic Generations, and we have been updating it since 2010 when the game was in development, to really make sure that multiplatform development is as easy as it can be. And we have been working on polishing all of those multiplatform abilities and capabilities of the engine. And as we saw with Sonic Forces, yes, we were able to deliver a game across not only the very low-end spec machines, but also the high-end spec machines.” “Our artists are making tons of content at very high levels, and if you got this great and amazing high-spec PC, that’s great. But we also want to make sure, that people who are playing on the Nintendo Switch have the same experience. So, we are not necessarily using the same high-end assets, but the Hedgehog Engine is able to reduce it to a size were it’s going to look very comparable on a Nintendo Switch, as it is to a high-end PC.”
+For example, when it comes to Pokemon stats, Pokemon Go simplifies the breakdown to one number called CP, also known as Combat Power.
 
-Sonic Frontiers will be available for Switch on November 8, 2022.
+However, some have called for Niantic to give trainers the option to see each Pokemon’s full stat breakdown as modern games as the upcoming Pokemon Scarlet & Violet do.
 
-Share this: Twitter
+Pokemon Go players want major stat display change
 
-Facebook
+A post on the Pokemon Go subreddit gained traction after calling out Niantic for allegedly hiding Pokemon stats from users.
 
-Reddit
+The caption of the post claimed there is “no way to tell which Pokemon deals more damage” aside from user third-party apps and outside resources. “The numbers are there, why can’t they just show them to players?”
 
-Tumblr
+The original poster isn’t wrong, as Pokemon Go actually has hidden values for specific Pokemon stats like Attack and Defense. However, Niantic essentially uses a formula to convert those stats into an easily digestible number in the form of CP.
 
-Pinterest
+While CP is helpful at a glance, those who play Pokemon Go competitively apparently want to see more in-depth numbers.
 
-More
+A user named Uunikana gave an example of the downsides of this and said “IVs mean pretty much nothing when you don’t know the base values of stats. 100IV Caterpie will always be inferior to 0IV Rayquaza.”
 
-Print
+Other trainers sounded off in the post’s replies and noted they’ve wanted this change for years. “I don’t think people realize how Pokémon stats actually work. A level 50 perfect attack IV Weedle is still weaker than a level 37 Rampardos with 50% attack IV. There is an actual attack number just like the main series games that is hidden from us.”
 
-Pocket
-
-
-
+While it’s understandable that Niantic may not want trainers to get up in obsessing over numbers, it seems many still want the option to see them — especially since they’re already in the game.

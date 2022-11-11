@@ -1,33 +1,9 @@
-Throughout the Quest 2's lifetime, we've been regularly blown away at what the hardware can pull off. It's powered by the Snapdragon XR2 which was based on the chipset that powered early-2020 smartphones — that should have severely limited the kinds of games we saw released on the platform.
+Call of Duty: Warzone’s sequel is almost here, but the questions about what will happen to the original game still linger for a lot of players. Thankfully, Activision answered them today as part of a larger blog post on Call of Duty: Warzone 2.0. The sequel’s arrival won’t mean that the original game is shutting down. Instead, Call of Duty: Warzone will become Call of Duty: Warzone Caldera and continue to be playable, after a brief intermission in service.
 
-But, because the Oculus Quest 2 (opens in new tab) has sold so darn well, developers — to completely misquote Dr. Ian Malcolm from Jurassic Park — have found a way. The latest in impressive ports is certainly Iron Man VR (opens in new tab), which pushes the graphical limits of the Quest 2 hardware just as we've seen games like Red Matter 2 (opens in new tab), The Walking Dead: Saints & Sinners, and Resident Evil 4 VR before it.
+According to Activision, the launch plan for Warzone 2.0 also includes a relaunch plan for the original game. Warzone will go offline at around 11 a.m. EST on Nov. 16 as the game’s fifth Call of Duty: Vanguard season ends. Shortly after, at 1 p.m. EST, Warzone 2.0 will come online and be available for all players to jump into for free.
 
-But, no matter how hard developers push the Quest 2 hardware, it'll never look as good as the original PSVR which launched all the way back in 2016. So imagine just how far the gap will be when developers are allowed to target the powerful PS5 hardware when the PS VR2 (opens in new tab) releases early next year. It's absolutely going to blow the Quest away and it won't even be close.
+Warzone 2.0 will then become the focus of developer Raven Software, as the team attempts to ensure a smooth launch and makes sure the game’s “free-to-play ecosystem is running effectively.” After a short break for the Thanksgiving holiday, the original Warzone will be brought back online under its new title. Its launch is planned for Nov. 28.
 
-What a wire can do
+The idea of Warzone disappearing forever was a concern for many players, especially considering that cosmetic items from the original game aren’t going to transfer to the sequel — though veteran Warzone players will get a special reward in Warzone 2.0. But all of their cosmetics will remain available in Warzone Caldera, which will continue to have progress tied to all previous Warzone-related Call of Duty games. Progress for Warzone 2.0 will only be tied to Modern Warfare 2, at least for now.
 
-(Image credit: Nick Sutrich / Android Central)
-
-Sony's requirement to use a cable means we're going to get the highest-quality VR experience possible.
-
-Aside from the astronomical price (opens in new tab), the PS VR2's biggest weakness is the cable you have to connect to the USB Type-C port right on the front of the PS5. There are really no mincing words here. Tethered VR sucks and I'm not looking forward to going back to it at all. Having a cable strapped to the headset feels like going back to watching a black & white TV.
-
-But, with those reservations in mind, Sony's requirement to use a cable means we're going to get the highest-quality VR experience possible. That's not just because a cable will provide (effectively) uncompressed video and audio quality to the PS VR2 headset but because it means you have to have PS5-level hardware connected to the headset just to play.
-
-To back things up momentarily, let's take a look at a quick graphics comparison between the original PSVR version of Iron Man VR and the new Quest version of the game.
-
-There's really just no way to have a mobile headset compete with a console that's as big and powerful as a PS5.
-
-From the moment the game starts you can see just how much higher quality the assets on the PSVR version of the game are. The lighting is better. The textures are higher resolution. The environment has far more detail, including little bits of foliage and rocks littered all over the rocky Malibu landscape. Even effects like the flames coming out of Iron Man's palm-mounted rocket thrusters look completely different and far better on PSVR.
-
-Now, the one thing that doesn't look better on PSVR is the resolution. The Quest 2 and Quest Pro both feature far higher resolution displays than the PSVR headset and, as such, the PSVR version looks soft and muddy compared to those systems. But, other than that, the PSVR version is a better-looking product on a technical level.
-
-With that in mind, consider the fact that all PSVR games are built to run on PS4 hardware, a console that was released in November 2013. Effectively, that means the Quest 2 is still more than a generation behind in graphics as it can render PS3-era visuals in most cases.
-
-(Image credit: PlayStation)
-
-While the Quest 3 (opens in new tab) is scheduled to come out sometime near the end of next year and is rumored to be twice as powerful as the Quest 2, that will still only put the headset at PS4-era visuals in the best circumstances.
-
-Meanwhile, PS VR2 launch games like Horizon: Call of the Mountain look like what you see above and will always blow even Quest 3 games out of the water visually. There's really just no way to have a mobile chipset compete with a console that's as big and powerful as a PS5 — because of thermal and power limitations — and that's great news for anyone considering buying a PS VR2 when it releases next year.
-
-I have no doubt that developers will continue to target Quest hardware because of its popularity — after all, 9 of the 11 new PS VR2 games (opens in new tab) announced yesterday are already on Quest or also being released for it — but all of these developers are including substantial graphical enhancements for each game and, in some cases, are also expanding gameplay to fit the PS5's more powerful hardware.
+Warzone fans may have been particularly concerned due to Blizzard’s handling of Overwatch 2. While that game was only sort of a sequel, it entirely replaced the original version, taking Overwatch offline completely. The good news for Overwatch players: At least their cosmetics transferred to the new game, so they weren’t gone for good. But it seems Activision isn’t taking a similar route in either direction for Warzone 2.0.

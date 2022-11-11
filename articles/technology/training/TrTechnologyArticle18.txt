@@ -1,25 +1,11 @@
-AMD RDNA3 architecture ‘to exceed 3 GHz’
+Image credit: Microsoft
 
-We received a picture showing the new Navi 31 GPU block diagram.
+AppleInsider may earn an affiliate commission on purchases made through links on our site.
 
-AMD Navi 31 GPU is a chiplet design with one GCD (Graphics Compute Die) and six Memory Cache Dies (MCDs). The outer dies house dual 32-bit memory controllers each, combined with large L3 cache. These less critical memory and cache controllers were put on a cheaper TSMC 6nm node, while the main graphics die is using a TSMC 5nm node.
+Microsoft has begun rolling out iCloud Photos integration in Windows 11, with the feature available to all users by the end of November.
 
-AMD has thus far confirmed that full Navi 31 GPU features 96MB of L3 Cache (aka Infinity Cache), but the company has not yet confirmed the L0, L1 and L2 caches. Those are mentioned in the new slide:
+Microsoft announced that Apple would be integrating more of its services with Windows 11, including Apple Music and Apple TV. On Wednesday, users began getting updates that enable iCloud Photos to sync with the Windows 11 Photos app.
 
-L0 – 3MB – 240% increase
+According to a report from The Verge, an update to the Photos app in Windows 11 is being is being rolled out, and will be available to all users by the end of November. Users will still need the Apple iCloud app from the Windows store to perform account linking.
 
-L1 – 3MB – 300% increase
-
-L2 – 6MB – 50% increase
-
-L3 (Infinity Cache) – 96MB (32MB smaller than Navi 21)
-
-AMD RDNA3 Navi 31 Block Diagram, Source: VideoCardz
-
-The diagram shows AMD Navi 31 six Shader Engine layout, each with 8 dual Compute Unit. AMD has doubled the compute throughput by adding dual-issue SIMD to their design, but the core count has not been doubled. This is why the Stream Processor count is 6144, but effective single-precision compute performance has increased to 61 TFLOPS.
-
-The slide also mentions that the RDNA3 architecture is to exceed 3 GHz. This might confirm the reports that the architecture is designed to scale up to 3.0 GHz, although the actual reference design is not going above 2.5 GHz boost.
-
-AMD Radeon RX 7900 series are now set to launch on December 13th. We are uncertain if there is a separate embargo on RDNA3 architecture details, but it is apparent that there are more slides that may still see the light sooner.
-
-Many thanks to Mr. Blonde for the photo!
+"We know that many Windows customers have photo and video collections on their iPhones that they would like to be able to view on their PC," says Dave Grochocki, principal product manager lead for Microsoft's Windows inbox apps. "This iCloud Photos integration will make it easier for those with an iPhone to have direct access to all their cherished memories in one organized place and is another step in our continued efforts to make experiences on Windows 11 seamless."

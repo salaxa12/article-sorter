@@ -1,17 +1,21 @@
-Overwatch 2‘s next hero, Ramattra, will be released next month.
+Apple has released iOS 16.1.1 and iPadOS 16.1.1 for iPhone and iPad. Download now with bug fixes and enhancements.
 
-The character, who has been part of the Overwatch lore for over three years since he first appeared during the Storm Rising event, will be a tank-class hero.
+You Can Now Download iOS 16.1.1 and iPadOS 16.1.1 with Wi-Fi and Advertiser Related Fixes
 
-Revealed during the Overwatch League Grand Finals, Ramattra will join the roster on December 6. The game’s second season of content will also begin on this date.
+As promised, Apple has just released iOS 16.1.1 and iPadOS 16.1.1 with important fixes for iPhone and iPad users around the world. This update seems to fix Wi-Fi related issues which iPhone and iPad users were facing. If you're all up for Wi-Fi that works all the time on your phone or tablet, then this update is a must-have for you.
 
-Notice: To display this embed please allow the use of Functional Cookies in Cookie Preferences.
+This update includes bug fixes and security updates and is recommended for all users.
 
-“Originally a war machine, Ramattra shed his munitions for a shield to protect his people by promoting peace and tranquility,” reads Ramattra’s character description. “His ideals weren’t far removed from his fellow Shambli monk, Zenyatta. However, Ramattra’s story is one of hardships, trauma, and a magnified view of humanity’s harsh realities.
+For information on the security content of Apple software updates, please visit this website:
 
-“Harmony was replaced by dissonance, and Ramattra began to approach his convictions from a more pragmatic angle—justifying any means necessary to defend his fellow omnics. As the leader of Null Sector, Ramattra boasts incredible support from his people, and he is primed to impose his philosophies on our world.”
+https://support.apple.com/kb/HT201222
 
-It’s currently unclear if players will have to unlock the ability to play as Ramattra in competitive play, as was the case with the new hero introduced in season 1, Kiriko.
+In order to download the update right away, launch the Settings app on your iPhone or iPad. Once done, scroll down a little and then tap on General. Now tap on Software Update and wait for the update to show up. Once iOS 16.1.1 or iPadOS 16.1.1 becomes available, tap on Download and Install at the bottom.
 
-More than 25 million players played Overwatch 2 during its first ten days of availability, Blizzard claimed .
+If you want to download the iOS 16.1.1 and iPadOS 16.1.1 IPSW files for clean installation using Finder or iTunes, you have that option as well. But quite frankly, you can skip the IPSWs completely and simply download the latest update straight from Apple's servers by clicking on the Restore iPhone or Restore iPad button in Finder and iTunes. Rest is up to you.
 
-Overwatch 2’s huge engagement numbers are in spite of the numerous issues it’s experienced since launch.
+Download iPadOS 16.1.1 IPSW Files
+
+Download iOS 16.1.1 IPSW Files
+
+It is extremely important that you go ahead and download the update right away. It is under 500 megabytes in size and will take no more than 15 minutes to install. It's absolutely worth it if you want your iPhone and iPad to function at its best all the time.,

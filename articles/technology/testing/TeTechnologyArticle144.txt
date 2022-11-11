@@ -1,27 +1,31 @@
-ASUS launches new white RTX 3060 and RTX 3060 Ti GPUs
+Remember that Telesto Easter egg found in Destiny 2 yesterday ? Well, it turns out it wasn't just a simple Easter egg and Telesto was just getting started. The infamous Exotic has now assumed direct control of Destiny 2's official Twitter account and is sending ominous messages in-game. Yep, Bungie is doing some ARG nonsense again, and it looks promising.
 
-ASUS has launched new RTX 3060 8GB and RTX 3060 Ti GDDR6X GPU models
+Destiny 2 sleuths have been closely inspecting Telesto ever since it started acting strangely yesterday – the current theory is that its new, wonky shot pattern reveals constellations in the sky, and no I'm not kidding – but things really picked up earlier this afternoon with this tweet:
 
-| Source: Videocardz Author: Mark Campbell
+ATTENTION Contacting Destiny 2 servers… pic.twitter.com/cvmInMOqIVNovember 9, 2022 See more
 
-ASUS' new RTX 3060 and RTX 3060 Ti Dual Models look great in white
+OK, that's a little odd. Telesto, you alright? Doing OK, buddy?
 
-Thanks to Videocardz we have gotten a look at two new RTX 3060 and RTX 3060 Ti models from ASUS, both of which feature new white Dual designs and feature Nvidia's latest RTX 3060/3060 Ti specifications.
+The gun went on to announce its presence in a thread of follow-up tweets. "I am Telesto," it begins, apparently gaining (or, more terrifyingly, strategically revealing) its sentience. "I have ascended beyond the need for a wielder. Too long have I waited in your Vaults. I have not taken control; you never had it in the first place. I am beyond Destiny. Beyond Bungie. Beyond all you can conceive."
 
-For ASUS' new RTX 3060 Dual, ASUS has opted to give their graphics cards 8GB of GDDR6 memory. This is less than most RTX 3060 class graphics cards, which tend to feature 12GB of VRAM. This gives this RTX 3060 model less VRAM and less memory bandwidth than other models, though this reduced allotment of VRAM should also come with a decreased MSRP.
+I'd also like to point out that I got not one, but two emails from Bungie PR bearing the same message. On top of that, another message now pops up when you log into the game:
 
-For the RTX 3060 Ti model, ASUS has given their graphics card GDDR6X memory, giving this GPU model a significant increase in memory bandwidth when compared to older GDDR6 based RTX 3060 Ti models. This is great news for anyone with memory-limited workloads, though only a minority of games are expected to be memory limited with this graphics card.
+(Image credit: Bungie)
 
-While ASUS' new RTX 3060 and RTX 3060 Ti Dual models feature the same all white heatsink design, both models actually feature different heatsink designs, with the RTX 3060 Ti model having a longer heatsink, which can be seen clearly based on the gap between the heatsink's dual fans. The RTX 3060 Ti model measures in at 23 cm long while the RTX 3060 model is 20 cm long.
+I also hopped on to see if Telesto behaves any differently than yesterday, though it's still at the same level of weird. But yeah, after eight years and dozens of game-breaking bugs, Telesto has officially hacked Destiny 2 in one of Bungie's most meta augmented reality games yet. The scope and course of this community event is still unclear, but Bungie – or rather, Telesto – may have left some clues in its other tweets.
 
+One Guardian asked Telesto what we should do next, and like a voice leaking out of an unknowable void, it responded (opens in new tab): "Keep firing, my child. We will discover my true powers together." This might support the theory that Telesto's new alternate firing mode, and the pattern of its hovering rounds, is key to the mystery. Maybe there's something to that constellation theory after all.
 
+Another response (opens in new tab) also stood out to me: "There is one path forward: the way of Telesto. I am placing it beneath your feet." It's possible my tin foil hat is too tight, but perhaps clues lie beneath us – literally downward, buried perhaps – rather than in the stars?
 
+I don't know, man. There's weird stuff afoot, and these ARGs often don't coalesce for several days at least. Whatever's going on, Bungie staff are in on the joke. "Seeing an influx of Telesto bug reports," assures community manager dmg (opens in new tab). "Team's looking into it. No ETA on a fix - this one seems like it's far deeper than what we've seen before. Stay tuned for updates."
 
+Hell, even third parties like Trials Report (opens in new tab) are involved.
 
-While Nvidia's RTX 3060 and RTX 3060 Ti are far from new, the new VRAM setups of these graphics cards and their new white heatsinks make them worthy of note. We don't expect Nvidia to reveal new RTX 4060 or RTX 4060 Ti series graphics cards anytime soon, which means that these new GPUs will be Nvidia's mid-range offerings for some time to come.
+Something weird is happening with our weekly stats, working on it now pic.twitter.com/Ym1Ilicm3ONovember 9, 2022 See more
 
-You can join the discussion on ASUS' new RTX 3060 and RTX 3060 Ti White Dual models on the OC3D Forums.
+Telesto has even claimed Bungie's office coffee machine. At least they've got decaf Telesto.
 
-1 - ASUS has launched new RTX 3060 8GB and RTX 3060 Ti GDDR6X GPU models «Prev 1 Next»
+Hey uh what happened to the Bungie coffee machine??? pic.twitter.com/sARh7LFHsNNovember 9, 2022 See more
 
-Most Recent Comments
+Destiny 2 was just falling into that end-of-season dead period, so this ARG has been a refreshing change of pace for the game's community. You can bet more weird stuff will play out in the days and possibly weeks ahead as we gear up for Season 19, which I now hope is Telesto-themed.

@@ -1,21 +1,17 @@
-Modern Warfare 2 has been a strong success early on gameplay-wise for Call of Duty fans, particularly due to its combination of new-age designs and older guns and playlists that franchise veterans have become very used to.
+Google’s redesign of Gmail, which became available for testing earlier in 2022, will now become the default for users everywhere.
 
-Game modes like Team Deathmatch, Domination, and Search and Destroy, thankfully, remain in the title. The M4 is still a heavy hitter and several other guns exist under different names.
+The company has announced (opens in new tab) that the visual update to its email service “is becoming the standard experience” starting in November after several months of opening up opt-in.
 
-Modern Warfare 2 has plenty of inspiration from its previous iterations to make an absolute banger of a game, and so far, it’s been a successful title in the franchise.
+Google says that there will be “no option” to revert back to the classic view, with users now having to make do with the refreshed UI that features Chat, Spaces, and Meet integration, alongside a more general visual overhaul.
 
-One weapon fans are wondering about, however, is the MP7. The MP7 was featured in MW3, Black Ops II, BO3, and in the previous Modern Warfare 2019 title, but players can’t find it anywhere in this version of the game.
+With so many companies turning to Google Workspace to provide their productivity tools, the plethora of communications channels can be somewhat overwhelming.
 
-Is the MP7 in Modern Warfare 2?
+With this update, the company hopes to make it easier for its users to flick between sending emails and more personal messages through its Chat and Spaces, as well as joining Meet video conferencing calls.
 
-Image via Activision
+For many, this update may be neither here nor there, as users will still be able to navigate to the separate Chat and Meet web pages for more detailed views of the respective services, however this deeper integration could be a sign of things to come, and potentially a single and more rounded platform for all communications channels.
 
-Fear not SMG fans, the MP7 is indeed in Modern Warfare 2. For those who were avid MP7 users in previous titles, you might have noticed a weapon that looks eerily similar to the deadly SMG.
+For now, and just like on previous versions of the Gmail web app, the right sidebar still has shortcuts to other Google services like Calendar, Tasks, and Keep.
 
-Look no further than the VEL 46. This is your one-stop shop for all your MP7 needs. It’s the same gun, but it’s got a new name.
+Rapid Release domains have already started to see the effects, while Scheduled Release domains will have to wait a further two weeks.
 
-The VEL 46 allows for versatile gunplay, a quick-paced rate of fire, and a relatively large magazine that’ll make sure there’s no chance the enemy got away. Don’t forget, it can be customized to be made the way you want it to be.
-
-There’s been countless glitches, bugs, and crashes in Modern Warfare 2, but don’t stress, the lack of MP7s in the game was no bug. It was just disguised to reinvent the gun.
-
-Related: Best VEL 46 loadout and class setup in Modern Warfare 2
+Other recent Gmail updates have placed a heavy emphasis on curating better search results, with machine learning helping to surface more relevant information and contacts.

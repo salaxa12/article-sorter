@@ -1,189 +1,161 @@
-The rebirth of the Pixel series in 2021 was rife with problems, so much so that you might be wondering if the Pixel 7 Pro can resolve some lingering Pixel 6 Pro issues. Here’s everything you need to know.
+Nintendo wrapped up its Indie World Showcase today, highlighting a ton of upcoming and just-launched games for the Switch. There’s a little bit of everything here, from a cute puzzler with a mischievous cat to a Fox and the Hound-like adventure game. This indie presentation was pretty big, so let’s get into everything that was shown:
 
-Before we get into the nitty-gritty and intense details, it’s worth noting that, ordinarily, we would not suggest switching from a device after just one year of regular usage. However, some of the more prominent Pixel 6 issues, such as the in-display fingerprint scanner and somewhat poor mobile data reception, appear to have been focus points with the release of the Pixel 7 series.
+Venba
 
-If you’re coming from an older Pixel or any older device, we’re sure that you’ll be content and, on a day-to-day basis, will not see a major difference from any other Android flagship smartphone — at least if you are not a hard-core gamer.
+Nintendo
 
-Video — Google Pixel 6 Pro vs. Pixel 7 Pro: Bug fixer!
+A wholesome narrative cooking game about an Indian mother who recently immigrated to Canada, developer Visai Games’ Venba sounds like it’ll tug on all the heart strings. Telling a story of reconnecting with one’s heritage, you’ll whip up a variety of saliva-inducing South Indian dishes while using branching conversations to uncover this tale of love and loss. Venba hits Nintendo Switch sometime this spring.
 
-Subscribe to 9to5Google on YouTube for more videos
 
-Hardware
 
-Just looking at the specifications of the Pixel 6 Pro and Pixel 7 Pro side by side, and there is little to separate the duo. It’s true that many of the changes are subtle rather than full-blown overhauls.
+Goodbye World
 
-Google has stuck with the design language that helped the Pixel 6 series stand out when released. While the “Camera bar” has been a defining design trait, the glass panel has been ditched in favor of a metal fusion with the midframe. You can tell that the Pixel 6 Pro and Pixel 7 Pro share a lineage but with differences that help separate the two devices.
+Nintendo
 
-Google Pixel 6 Pro Google Pixel 7 Pro Size 6.71 inches 6.71 inches Display 120Hz / LTPO / QHD+ / Gorilla Glass Victus / 3,120 x 1,440 pixels / 512ppi 120Hz / LTPO / QHD+ / Gorilla Glass Victus / 3,120 x 1,440 pixels / 512ppi Chipset Google Tensor Google Tensor G2 RAM 12GB DDR5 12GB DDR5 Storage 128 / 256 / 512GB UFS 3.1 128 / 256 / 512GB UFS 3.1 Battery 5,003mAh 5,003mAh Rear camera 50MP wide / 12MP ultrawide / 48MP 4x telephoto 50MP wide / 12MP ultrawide / 48MP 5x telephoto Front-facing camera 11.1MP 11.1MP Biometrics In-display fingerprint scanner Pixel Imprint fingerprint scanner Colors Cloudy White / Sorta Sunny / Stormy Black Obsidian / Snow / Hazel
+Goodbye World, developed by YO FUJII, is another one of those games about games. Specifically, this pixelated narrative adventure is about two friends looking for the perfect idea for their next game. So you’ll play through various puzzle-platforming levels as the protagonists fine-tune their ideas and face the strain game development can put on a friendship. Evocative stuff. Goodbye World lands on Switch this month.
 
-Most of the recipe remains the same. Both smartphones come with 6.71-inch QHD+ 120Hz LTPO AMOLED displays. The curve is less pronounced on the 7 Pro, but the experience is relatively identical. What has improved is the in-display fingerprint scanner.
 
-While many have had no issues, Google still made the wise choice to switch out the optical scanner to ensure that the Pixel 7 Pro offers even more reliable biometric unlocking. This is paired with a software-based Face Unlock for added security.
 
-Leaning back into glossy finishes may come as a disappointment – if you prefer to use your phone without a case, dirt and grime can amass. It’s also worth noting that the metal camera bar is great for deflecting smudges from the camera lenses but can scuff easily if not protected. There is also a change to the mmWave bar, which is now smaller, harder to damage, and doesn’t stand out as prominently along the top bezel.
+Advertisement
 
-Colors are familiar, but the two-tone design has been ditched on the Pixel 7 Pro this time. There’s no room for a Champagne gold option this time around. Instead, a Hazel color option is offered instead, which retains a gold metal frame.
+Have A Nice Death
 
-Software
+Nintendo
 
-In day-to-day usage, you’ll notice no great difference between the Pro Pixel duo. Android 13 is running on both devices. Some changes have been made to the new model, with the Face Unlock functionality being a prime difference. Performance gains with Tensor G2 also seem to be minimal, with slick performance on both handsets. This is a big improvement over the buggy rollout and release of Android 12 — which shipped with the Pixel 6 series.
+Developer Magic Design Studios’ Have A Nice Death has been out for six months now, and the 2D action roguelike is finally making its way to Nintendo Switch. You play as Death Inc. CEO Death as he reaps his way through the corporate underworld to “restore work-death balance” with 70 different weapons and spells at your disposal. And, of course, you’re Death! You can’t die, so you can use what you’ve earned and learned to get better with each run. Have A Nice Death drops on March 22, 2023.
 
-Material You and Dynamic Color are tuned with more refinements and problem areas addressed. What’s also interesting is that you can scale the UI between 1080p and 1440p on the Pixel 7 Pro, but not the Pixel 6 Pro. This can help with battery life but not noticeably so in our experience.
 
-Gaming still isn’t a strong suit for Tensor, with heat and frame drops quite common. You’ll be able to play most games, but the experience is certainly a few steps behind devices with the Qualcomm Snapdragon 8 Gen 1 and 8+ Gen 1.
 
-While there were rumors ahead of the launch, the 6 Pro did not offer software-based Face Unlock. It’s present on the Pixel 7 Pro in tandem with the in-display scanner. This helps alleviate any frustrations that people might have.
+G/O Media may get a commission 95% off Dollar Flight Club Premium Plus+ Plan Lifetime Subscription (2-Pack) 95% off your travel dreams.
 
-Google Pixel 6 Pro Google Pixel 7 Pro Software Shipped with Android 12 Shipped with Android 13 Support window October 2026 October 2027 Features In-display fingerprint scanner
+Leave those dreamy “what if” plans behind, and start checking out deal alerts for domestic and international flights leaving from your four favorite departure airports. Buy for $150 at StackSocial Advertisement
 
-Magic Eraser
+Aka
 
-Face Unblur
+Nintendo
 
-Motion modes
+Aka by developer Cosmo Gatto is a lowkey “small open-world game” with a singular goal: Help the retired warrior Aka find inner peace on an isolated island paradise. You’ll explore hand-crafted environments, like tropical forests and steamy hot springs, while performing tasks such as building shelters and feeding adorable baby dragons. It kinda gives me A Short Hike vibes. Aka lands on Nintendo Switch on December 15.
 
-On-device Live translation In-display fingerprint scanner
 
-Face Unlock
 
-Photo Unblur
+Advertisement
 
-Cinematic Blur
+Pepper Grinder
 
-Google One VPN
+Nintendo
 
-Cough and snore detection
+A fast-paced 2D action-adventure game, developer Ahr Ech’s Pepper Grinder puts you in the treasure hunting shoes of Pepper, who’s been shipwrecked and robbed. Now, with your trusty drill in tow, you must reclaim what was stolen from you by digging through the terrain, solving tricky puzzles, and grinding bosses to a pulp. There’s no definitive launch date yet, but Pepper Grinder is slated for a 2023 release.
 
-Pixel 7 owners will also get access to the Google One VPN for the life span of the device. This is a big component in the security arsenal and one that usually comes with a $9.99 per month fee as part of the 2TB Google One storage tier.
 
-Photo Unblur is bundled in with the 2022 flagship. This tool found in Google Photos lets you apply a machine-learning filter that will enhance blurry shots. It’s not limited to photos taken with your Pixel 7 Pro and can breathe new life into older photos.
 
-The other notable addition to the Pixel 7 Pro that you won’t find on the 6 Pro is a new Digital Wellbeing option that allows you to track snoring and coughing while sleeping. When a Bedtime schedule is set, your phone is able to identify coughing or snoring when your phone is charging at your bedside.
+Advertisement
 
-Because the Pixel 6 Pro launched with Android 12 and updated to Android 13, it’ll get two further major OS builds up to and including Android 15. The full support window for the Pixel 6 and 7 series remains at 5 years but with security patches in the final years. Support will cease for the Pixel 6 Pro in October 2026 while the Pixel 7 Pro will be supported up to October 2027. It’ll get Android 16 within this time period.
+Coffee Talk Episode 2: Hibiscus & Butterfly
 
-Battery
+Nintendo
 
-When it comes to the battery and charging of the latest “Pro” Pixel, absolutely nothing has changed. Internal cell size is still capped at approximately 5,000mAh (or 5,003mAh to be precise), and the maximum charging speeds remain identical.
+Toge Productions is back with the sequel to one of my fave narrative barista games, Coffee Talk Episode 2: Hibiscus & Butterfly. With an expanded drink menu and an even more robust cast of characters, this looks to be a relaxing visual novel with a vibin’ lofi soundtrack. Coffee Talk Episode 2: Hibiscus & Butterfly arrives this spring.
 
-Daily life spans for the Pixel 6 Pro and Pixel 7 Pro are comparable, even despite the supposed 20% power efficiency gains. All-day longevity is par for the course with all of the power-saving modes, helping you to achieve an even greater life span if you are willing to forgo selected functions and features.
 
-Google Pixel 6 Pro Google Pixel 7 Pro Battery size 5,003mAh 5,003mAh Charging speed 30W wired (23W peak)
 
-21W Qi wireless w/ Pixel Stand 2
+Advertisement
 
-5W reverse wireless 30W wired (23W peak)
+Oni: Road To Be The Mightiest Oni
 
-21W Qi wireless w/ Pixel Stand 2
+Nintendo
 
-5W reverse wireless
+Coming from tag-team developers Kenei Design and Shueisha Games, Oni: Road To Be The Mightiest Oni is about a demon warrior who, after getting his ass whooped by a Japanese folktale hero, joins forces with a spirit to become stronger than before. You control both the demon warrior Kuuta and the spirit Kazemaru simultaneously, using Kuuta’s club to bludgeon enemies so that Kazemaru can suck up their souls for power. Oni: Road To Be The Mightiest Oni launches on March 9, 2023 for Nintendo Switch.
 
-The wired charging speeds are still capped at 23W, despite Google’s protestations that a 30W power brick is required. That is partnered with 21W Qi wireless speeds courtesy of the second-generation Pixel Stand. Reverse wireless charging for accessories like the Pixel Buds and Pixel Buds Pro — no support for Pixel Buds A-series or Pixel Watch though — is also capped at 5W.
 
-Cameras
 
-On paper, not a great deal has altered when it comes to the Pixel 6 Pro and the Pixel 7 Pro. What’s important here is that these two devices represent the best camera systems on Google smartphones to date. The improvements come in the software department, although the impressive telephoto lens has been switched out to garner a greater zoom range on the newer model.
+Advertisement
 
-The core triple camera system is familiar as the 50-megapixel Samsung ISOCELL GN1 makes another appearance. The 12-megapixel Sony IMX386 ultrawide is also used once again, but an improved Samsung GM1 5x optical telephoto zoom lens gives the Pixel 7 Pro an edge over the Pixel 6 Pro’s Sony IMX586 sensor with its 4x optical zoom capabilities.
+Desta: The Memories Between
 
-Because of this change and some software tuning improvements for Super Res Zoom, the Pixel 7 Pro has the ability to punch in all the way up to 30x. That is a substantial increase over the 20x zoom cap you’ll find on the Pixel 6 Pro.
+Nintendo
 
-Google Pixel 6 Pro Google Pixel 7 Pro Main sensor Samsung GN1
+Alba: A Wildlife Adventure and Monument Valley creators ustwo games is back with another character-driven narrative adventure that has some roguelite elements to it in Desta: The Memories Between. You play as the eponymous character who enters a mysterious dream world filled with scattered memories every time they fall asleep. These memories, of forgotten spots and old faces, also contain orbs for Desta to play a surreal turn-based ball game as you perform perfect throws and trick shots while changing the course of character interactions. Desta: The Memories Between sounds like an amalgam of Dodgeball Academia and Pyre, and drops in early 2023.
 
-50MP
 
-f1.9 aperture Samsung GN1
 
-50MP
+Advertisement
 
-f1.9 aperture Secondary sensor Sony IMX 386
+A Space For The Unbound
 
-12MP ultra-wide-angle
+Nintendo
 
-f2.2 aperture
+A Space For The Unbound, developed by Mojiken, is a slice-of-life adventure set in late ‘90s rural Indonesia. Following high school sweethearts Atma and Raya, the game shows the two navigating their way through feelings of anxiety and depression while using newly discovered supernatural powers to prevent the end of the world. Very cute, very cataclysmic. A Space For The Unbound lands on January 19, 2023.
 
-114° FOV Sony IMX 386
 
-12MP ultra-wide-angle
 
-f2.2 aperture
+Advertisement
 
-126° FOV Tertiary sensor Sony IMX 586
+Dordogne
 
-48MP telephoto
+Nintendo
 
-f3.5 Samsung GM1
+Dordogne by collaborating studios Un Je Ne Sais Quoi and Umanimation is an adventure game about Mimi, a young woman searching for her mysteriously forgotten childhood memories. You play Mimi in the past and present to reconnect her to herself, as she returns to her grandma’s home only to find a series of letters constructing a facsimile of Mimi’s past. It sounds incredibly touching as the story seeks to establish the bond between grandmother and granddaughter, something I feel rather acutely as someone who lost their grandmother early this year. Dordogne comes out this spring.
 
-48MP telephoto
 
-f3.5 Front-facing sensor Sony IMX 663
 
-11.1MP
+Advertisement
 
-f2.2 Sony IMX 663
+Botany Manor
 
-11.1MP
+Nintendo
 
-f/2.2 Camera hardware features OIS
+If you’ve ever wanted to be a master gardener, developer Balloon Studios has you covered with Botany Manor. An exploration adventure-puzzler, Botany Manor puts you in control of Arabella Greene, a retired botanist with a massive estate all to herself. As the name suggests, this game is all about taking care of a huge garden, tending to the leaves, propagating seedlings, solving plant-based puzzles—that sorta thing. Though there’s no release date yet, Botany Manor does hit Nintendo Switch next year.
 
-EIS
 
-PDAF OIS
 
-EIS
+Advertisement
 
-PDAF Camera software features 20x zoom
+Once Upon a Jester
 
-Night Sight Portrait
+Nintendo
 
-Portrait Light
+From developers Bonte Avond, Once Upon a Jester is a casual adventure game about improvising a theater show to get invited to the Royal Theatrical Spectacle in the Royal Palace. But of course, protagonists Sok and Jester have a mischievous ulterior motive: Steal the Royal Diamond, which is in the company of the King. So, to get close enough to the diamond, you must put on the best theatrical plays and sock-puppet shows the kingdom has ever seen by using your exceptional—or terrible—improv skills to get that coveted invitation. Once Upon a Jester will be available later today.
 
-4K UHD 60fps
 
-Live HDR+ Video
 
-Cinematic Pan
+Advertisement
 
-Locked Focus
+Rogue Legacy 2
 
-Active mode 30x zoom
+Nintendo
 
-Macro Mode
+Launching on Steam earlier this year, developer Cellar Door Games’ Rogue Legacy 2 is a roguelike Metroidvania where every run is different from the last. While you could be a dwarf with vertigo one minute or a giant who can’t jump the next, the goal is always the same: collect riches, fortify your castle, and establish your legacy, with all your upgrades transferring between runs. Rogue Legacy 2 will also be available later today, and the Nintendo Switch release comes with tons of new items and subclasses.
 
-Guided Frame
 
-4K UHD 60fps (all lenses)
 
-10-bit HDR10 Video
+Advertisement
 
-Real Tone 2.0
+Blanc
 
-Cinematic Blur
+Nintendo
 
-It’s almost unfair to compare the Pixel 6 Pro camera suite against the Pixel 7 Pro, given that many exclusive features exist on the newer device. You get a number of key functionality that comes courtesy of the Tensor G2 processor too.
+A monochromatic adventure game about a wolf cub and a fawn, Casus Ludi’s Blanc tells the story of the two animals who must rely on each other to navigate a vast, snowy wilderness. You’ll follow both creatures’ family tracks, solving environmental puzzles along the way, all in an attempt to lead them back home. Blanc, with its Fox and the Hound vibes, launches on February 14, 2023 as a Nintendo Switch exclusive.
 
-The most notable being the 30x zoom and Macro Modes. Both of these new modes rely on some hardware changes, with the improved zoom abilities provided by the improved 5x lens. However, the macro shooting mode utilizes the ultrawide lens increased 114- to 126-degree field of view to allow for close-up shots without the need for extra on-device hardware.
 
-It’s not clear if these will come to the Pixel 6 Pro, but Guided Frame is set to be made available soon. Although not confirmed, Real Tone improvements could also come with a future Feature Drop, but this is simply fine-tuning for the impressive skin tone tech.
 
-Video modes are where the Pixel 7 Pro has truly leveled up. 4K UHD video at 60fps is available on all of the cameras, including the selfie camera, for the first time. That’s not all, as you can switch between the rear cameras at this framerate too — something many other Android phones and even iPhones do not currently offer. 10-bit HDR10 video can be recorded at up to 4K 30fps too. A new Cinematic Blur mode provides fake bokeh effects at up to 1080p 24fps.
+Advertisement
 
-All of the Pixel 6 Pro’s existing modes such as Locked Focus, Cinematic Pan, Night Sight Portrait, and more are also included. In our experience, the actual image and video processing times appear to be substantially faster on the Pixel 7 series this year. Most images are ready instantly, while on Pixel 6 Pro it can sometimes take a second for processing to be completed.
+A Little to the Left
 
-Pixel 6 Pro vs. Pixel 7 Pro: Truly worth the upgrade?
+Nintendo
 
-About upgrading: 9to5Google often gives specific product recommendations. Sometimes, we may suggest not upgrading, due to various reasons including, but not limited to: increased device cost, negligible performance gains, or environmental impact. Whether to upgrade is always your call, but our aim is to help you make as informed a decision as possible.
+A cute and cozy puzzler, Max Inferno Games’ A Little to the Left is about finding satisfying puzzles hidden among household objects. If you can imagine Marie Kondo making a game, this would be it as you tidy up around various disparate environments, organizing things just so. A Little to the Left also has a mischievous, pettable cat that’ll mess up your perfect arrangements when it drops later today.
 
-As noted at the top of this post, in normal circumstances, at no point would we suggest switching from a year-old smartphone. Due to the persistent frustration and issues that have tarnished the Pixel 6 Pro for many people, the Pixel 7 Pro offers a viable upgrade path with many important and notable improvements. You may have opted to look elsewhere by this point in time, which is understandable.
+Advertisement
 
-That said, while the Pixel 7 Pro is not the perfect smartphone, it’s the closest that Google has come to crafting a “perfect” Pixel device. That’s a big deal given the teething problems that have pained previous models so extensively.
+Sports Story
 
-To simplify, if you want a more reliable, almost flawless fingerprint scanner and a device that has strong signal/connectivity in more places, then trade in your Pixel 6 Pro and pick up the Pixel 7 Pro. Otherwise, if you’re issue-free, you’re not missing out on too many changes.
+Nintendo
 
-Where can I get the best deal on the Pixel 7 Pro?
+Closing the Nindies Showcase was an update for Sidebar Games’ Sports Story, an adventure RPG about…sports. Now, instead of just golf and soccer and other expected sports, there are newly-added activities including BMX and cricket. You can quest, kickback at the mall, and explore dungeons in a narrative that’s about more than just sports—though sports are the focal point here. Sports Story comes out next month.
 
-If you want what could be Google’s best flagship to date, then the Pixel 7 Pro is priced at $899 and available at stores, including Google, Amazon, Best Buy, Verizon, Target, and AT&T, plus many more.
 
-FTC: We use income earning auto affiliate links. More.
 
-Check out 9to5Google on YouTube for more news:
+Advertisement
+
+Everything Else

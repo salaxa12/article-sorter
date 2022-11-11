@@ -1,17 +1,27 @@
-Black Friday TV deals are popping up here, there, and everywhere, but if you still haven't found your perfect set yet, this great deal may be the one to convince you.
+Apple today released iOS 16.1.1 for all users. While the release notes for the update say nothing about new features or major changes, there’s a significant one coming for users in China. There, Apple is changing how the “Everyone” option in AirDrop works, which will no longer be enabled for more than 10 minutes.
 
-The new LG 65-inch QNED 4K Smart TV is $999 at Best Buy (opens in new tab) right now, a huge $700 off its usual asking price. This is an awesome discount on a 2022 TV, making it worth a close look.
+AirDrop now has a time limit in China
 
-(opens in new tab) LG 65" 83-Series QNED 4K TV: $1,699 $999 @ Best Buy (opens in new tab)
+As noted by 9to5Mac readers, today’s update adds a time limit when the user chooses to enable AirDrop for everyone, not just contacts. With this change, people in China can no longer keep AirDrop turned on for everyone, including unknown users, for an unlimited time.
 
-The LG 83 series offers excellent brightness and stunning picture quality, support for Dolby Vision IQ and Dolby Atmos and access to the excellent WebOS 6.0 operating system. It also has a refresh rate of 120Hz and HDMI 2.1 support, making it a good TV for gamers.
+The change in how AirDrop works has been included in both iOS 16.1.1 and iOS 16.2 beta 2, both released today for users and developers. Also noted by our readers, this restriction is based on hardware rather than software. This means that only iPhone models purchased in Mainland China are affected by the update.
 
-TVs with big screens get pricey quickly, especially if you want an OLED set. OLED TVs provide incredible picture quality and contrast, as each pixel on screen can be lit individually or turned off entirely.
+This is not the first time Apple has implemented an iOS restriction based on hardware model. For instance, the Taiwanese flag emoji is not available on iPhones sold in China. Apple also uses the same method to limit the volume level of its devices in European Union countries, as required by law.
 
-LED TVs are less expensive than OLED sets, but haven't managed to reach the same heights in picture quality just yet. This is where QNED comes in. This technology closes the gap in quality between LED and OLED, offering higher levels of detail and contrast than LED TVs normally allow.
+However, when it comes to AirDrop, it’s unclear why Apple decided to limit the “Everyone” option to 10 minutes. Some people speculate that the Chinese regulator required Apple to update iOS as an attempt to prevent anonymous people from spreading harmful content and anti-government material.
 
-This 2022 LG QNED TV has been discounted by a whopping $700, making it cheaper than most OLED TVs of its size. OLED sets tend to sacrifice brightness for their level of contrast and detail, which is a problem if you want to use your TV in a brightly lit room where glare could be an issue. If that's the case, you're better off with a LED set, and the LG 83 Series QNED is an excellent choice.
+Update: As some of our readers pointed out, the changes to AirDrop in China are due to the fact that protesters in the country had been using the feature to spread posters opposing Xi Jinping and the Chinese government.
 
-As well as what we've mentioned above, this TV comes with Dolby Vision IQ, HDR and Dolby Atmos support. The WebOS platform the TV runs on is excellent and will get you access to streaming apps like HBO Max, Netflix, Prime Video, Disney+ and more. Plus, with 4 HDMI ports (two of which support HDMI 2.1) and a refresh rate of 120Hz, this TV can easily keep up with next-gen gaming too.
+According to Bloomberg, Apple has plans to make the new AirDrop option available globally next year.
 
-The deals don't stop, so keep an eye on our Black Friday deals coverage this month.
+9to5Mac’s Take
+
+Whatever the reason is, the new option sounds quite clever. Personally, I’d really like to have it on my iPhone. Sometimes I have to share something via AirDrop with a person who’s not in my contact list. However, I often forget to limit AirDrop to my contacts after that. As a result, other people can send undesired content to my device.
+
+What do you think about this? Would you like to see this new option available for everyone? Let us know in the comments section below.
+
+H/T: @abstractech
+
+FTC: We use income earning auto affiliate links. More.
+
+Check out 9to5Mac on YouTube for more Apple news:

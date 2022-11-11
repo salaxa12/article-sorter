@@ -1,9 +1,21 @@
-A pair of new reports have surfaced online and if they are accurate we now know what month Diablo 4 is releasing via PC, PS4, PS5, Xbox One, Xbox Series S, and Xbox Series X. The reports claim that the game's "sizeable" marketing campaign is starting at The Game Awards 2022 in December where Blizzard will reveal that the game will release sometime in April. With a release month out in the wild, it's claimed pre-orders will open during the show and reveal various premium editions of the game and a pre-order bonus that allows those that pay early access to an open beta in February 2023.
+The European Commission today said its preliminary investigation of Microsoft's proposed $69 billion purchase of Activision Blizzard "may significantly reduce competition on the markets for the distribution of console and PC video games." As such, the government group is now opening what it calls an "in-depth investigation" of the proposed merger, which it says will be completed by March 23, 2023.
 
-Where does all of this information come from? Well, it comes from two separate sources. One of these sources is the Xbox Era podcast while the other is Windows Central. Both of these sources have proven reliable in the past, especially when it comes to Xbox, but both have also been off the mark with their reporting in the past as well. In other words, remember to take everything here with a grain of salt
+"We must ensure that opportunities remain for future and existing distributors of PC and console video games, as well as for rival suppliers of PC operating systems," European Union Competition Commissioner Margrethe Vestager said in a statement. "The point is to ensure that the gaming ecosystem remains vibrant to the benefit of users in a sector that is evolving at a fast pace. Our in-depth investigation will assess how the deal affects the gaming supply chain."
 
-At the moment of publishing, none of the implicated parties have comment on either of these reports nor the speculation they have created. If this changes, we will be sure to update the story accordingly. And of course, if any information about a specific day in April emerges, we will also be sure to update the story.
+Specific concerns
 
-Diablo 4 is in development for PC, PS4, PS5, Xbox One, Xbox Series S, and Xbox Series X. Officially, it's slated for release sometime in 2023, which is to say sometime between January 1, 2023 and December 31, 2023. Unofficially, it's releasing sometime in April, if this new report is accurate, and if things don't change, which they do all the time in game development.
+In announcing the new investigation, the Commission says that it is worried "in particular" that the merger will "foreclose access" to "high-profile and highly successful games... such as Call of Duty" on non-Microsoft platforms. In response to such concerns, Microsoft recently promised that it would ensure Call of Duty remained on PlayStation platforms "as long as there is a PlayStation."
 
-"The endless battle between the High Heavens and the Burning Hells rages on as chaos threatens to consume Sanctuary," reads the only description of the game released so far. "With ceaseless demons to slaughter, countless abilities to master, nightmarish Dungeons, and Legendary loot, this vast world brings the promise of adventure and devastation."
+The Commission's announcement also highlights concerns that the merger may cut off access to Activision Blizzard games on competing "multi-game subscription services and/or cloud game streaming services." Such a move could be to "the detriment of its rival distributors of console and PC video games" by making competing subscription services such as PlayStation Plus less appealing.
+
+Advertisement
+
+There might be something to that argument—in September, a Microsoft blog post highlighted how the company intends to make Activision Blizzard franchises like Overwatch, Diablo, and Call of Duty a core part of Game Pass subscriptions post-acquisition. But Microsoft argues that this move would actually "bring more games to more players, not fewer" because of cloud-streaming technology that allows for Game Pass titles to be played on mobile platforms (but probably not, say, on the Nintendo Switch ).
+
+Finally, the Commission says it worries that Microsoft's control of Activision Blizzard's games catalog could "discourage users to buy non-Windows PCs." That's a bit of a strange argument, though, since Windows currently represents over 96 percent of total usage on the popular PC gaming platform Steam. It's hard to see total control of Activision content meaningfully increasing that number.
+
+The EU's in-depth investigation is operating parallel to a similar "Phase 2" investigation by the UK's Competition and Market Authority . Hearings are scheduled for December in that investigation, which is expected to wrap up by March 1, 2023
+
+In the US, the Federal Trade Commission has reportedly and privately expressed "significant concerns" about the proposed transaction as part of a "staff level" review. An initial decision in that case could come as soon as late November, at which point it would be sent on to the FTC's full Bureau of Competition.
+
+Go to discussion...

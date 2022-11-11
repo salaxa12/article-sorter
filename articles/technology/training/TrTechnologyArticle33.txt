@@ -1,23 +1,19 @@
-The battle of the AI art generators has been heating up as big tech giants enter the ring. While the space is currently dominated by DALL-E 2, Stable Diffusion and Midjourney, Microsoft, Meta and Google have all announced text-to-image (or text-to-video) tools on the way. Now Google's just made its offering public – or at least part of it.
+Evidence found within the second iOS 16.2 beta points to Apple working on further streamlining the user interface (UI) on iPhones and iPads via a new mode.
 
-Google first gave us a glimpse of Imagen, its AI image generator, back in May with the publication of a proof-of-concept paper and the launch of website showcasing some of the results of the tool. It's just released limited features of the tool to the public – and they're bizarrely specific (for more on how AI art generators work, see our piece on how to use DALL-E 2).
+Called Custom Accessibility Mode, it was first discovered by 9to5 Mac (opens in new tab) . The second iOS 16.2 beta is currently available for download through the Apple Developer Program (opens in new tab), but you can’t use the new mode at this time as it’s unavailable to users. This could mean the feature is far away from release or it’s something Apple is merely trying out. Either way, it’s a sign the company remains committed to working on accessibility features for its user base.
 
-Image 1 of 2 A Google Imagen image of a 'a cute corgi living in a house made out of sushi' (Image credit: Google ) Google Imagen's take on 'dragon fruit wearing a karate belt in the snow' (Image credit: Google )
+Simplified UI
 
-A product created in Google's AI Test Kitchen, Imagen is a powerful AI text-to-image art generator that can turn written prompts into convincing images. The results shared so far suggest that it can hold its own against the best AI art generators, which have generated a lot of controversy due to their increasingly convincing results and concerns about copyright, abuse and the future of artists' jobs.
+The purpose of Custom Accessibility Mode, according to the report, is to make the iPhones and iPads more “user-friendly” for people who find their interfaces too complex. The mode could allow people to change the layout of the UI to either a Grid or List-style formation. Text and app icons can be made much larger on the Home Screen, plus it appears you can enable quick access to certain SOS features, like the Emergency Services Button.
 
-Despite the controversy, the genie truly seems to be out of the bottle with major tech heavyweights entering the scene. Microsoft Designer looks set to offer what sounds like a form of AI clip art while Meta's Make-a-Video promises to offer a text-to-video generator. Google has beaten them to a public release with the launch of Imagen (opens in new tab) in beta. but it's holding back on most of the tool's power.
+A password can be set up to stop other people who use the same device from changing the settings, according to 9to5 Mac. And tapping the side or Home button three times can enable and disable Custom Accessibility Mode.
 
-We won't yet be given the ability to use text prompts like "a cute corgi living in a house made out of sushi" or a dragon fruit wearing a karate belt in the snow (animals and fruit are rather popular subjects for AI imagery, see the results above). All we can create are fantasy buildings and Pixar-style monsters.
+Looking at the images of the mode in action, it drastically simplifies the design (opens in new tab) of apps and the Home Screen to focus on making things large. The lock screen turns into one big button with “Hold Down to Enter” in the center. Apps have massive icons that take up most of the screen and the bottom dock is gone.
 
-Image 1 of 2 (Image credit: Google ) (Image credit: Google )
+The official release notes (opens in new tab) don't detail the other features, only focusing on the fixes in the beta. For a preview of the other features, you have to go to Twitter where people are leaking them. A new Health widget (opens in new tab) will remind users to take their medication. New animations in the Music app (opens in new tab) resize the song image to indicate if it’s playing or paused.
 
-For now, we're getting access to two functions from Google Imagen: ‘City Dreamer’ and ‘Wobbler’. The first allows users to describe a city to model SimCity-like isometric designs. Say you want a city made of cookies, for example. City Dreamer will suggest designs for plots and buildings. Wobbler, meanwhile, allows users to create and dress a small monster. They can choose the material to make it from, for example, felt or marzipan, dress it up and then make it dance by prodding it.
+In a recent Power On newsletter, Apple insider Mark Gurman said to expect the official release of iOS 16.2 and iPadOS 16.2 sometime in mid-December. There, users can their hands on the long-awaited Freeform app (opens in new tab) as well as the next rendition of Stage Manager. Gurman also hints at the release date of iOS 16.3 being within the first quarter of 2023.
 
-Such a specific tool, with a very specific aesthetic, offers nowhere near the creative options offered by existing AI image generators. But that doesn't mean Google doesn't have them. Given the controversy around AI art, it seems Google is playing it safer than other platforms have done. It says that the beta release is intended to collect community feedback so that it can fine-tune the tool and correct any problems before the full release.
+Accessibility is key
 
-The other catch is that, as with many such tools, there is a waiting list. You can apply via the AI Test Kitchen app, available on Google Play (opens in new tab) and the iOS App Store (opens in new tab).
-
-What is Google Imagen? Google Imagen is the search and tech giant's AI-powered text-to-image generator. Google revealed the tool in May in a research paper and a website that shows capabilities that looks very similar to those of tools such as DALL-E 2. It's now made two limited parts of the platform available to the public in beta via its AI Test Kitchen.
-
-Read more:
+As mentioned earlier, Apple has been working on iPhone accessibility features for a while now. May 2021 saw the introduction of SignTime , a service allowing the hearing impaired to communicate using sign language through a web browser, and new background sounds for neurodiverse users. And earlier this year, we saw the first appearance of Door Detection to help low-vision users locate the entrance of a building.

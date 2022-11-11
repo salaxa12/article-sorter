@@ -1,7 +1,9 @@
-Sony has confirmed what analysts already predicted: the recent PS5 price increase hasn’t dented demand or sales… yet. Sony chalked the hike up to fluctuating exchange rates and a volatile global market post pandemic. However, many expressed frustration over what appears to be a calculated move to increase the console’s price in regions where Sony already dominates the market. The company opted against doing the same in the U.S., where it faces competition from the Xbox Series X/S.
+Microsoft today announced that iCloud Photos integration in the Photos app on Windows 11 is beginning to roll out today with an update to the app on the Microsoft Store. Microsoft expects the update to be available to all Windows 11 customers by end of the month.
 
-Sony will continue to monitor the impact of PS5 price increase
 
-As reported by TweakTown (via N4G), Sony’s chief financial officer Hiroki Totoki said in the company’s Q2 2022 earnings call that “so far, due to the price increase, we have not seen any dampening of the demand but we have to monitor what will happen in the market going forward.”
 
-Interestingly, Microsoft’s Phil Spencer commented on PS5’s price increase by stating that he doesn’t think it’s the right time for companies to raise prices considering economic pressures. However, he has since made comments that suggest Microsoft is toying with the idea of increasing the prices of Xbox Series X/S, and Indian customers are reporting that the consoles have already seen a price hike in the country.
+iCloud Photos integration allows iPhone users to access all of their photos in the Photos app on Windows 11 devices. In a blog post, Microsoft says users simply need to download the iCloud for Windows app from the Microsoft Store, enable iCloud Photos syncing, and the photos will appear in the updated Photos app automatically.
+
+Microsoft previously announced that standalone Apple Music and Apple TV apps are coming to Windows next year. Currently, Windows users must access the Apple TV+ streaming service on the web at tv.apple.com, while Apple Music is available on the web or within the antiquated iTunes for Windows app. Microsoft said previews of both apps would be available on the Microsoft Store starting later this year.
+
+Last month, the Apple Music app launched on the Xbox Series X, Xbox Series S, and Xbox One.

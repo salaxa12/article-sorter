@@ -1,15 +1,17 @@
-Belkin's new MagSafe car charger
+Update [Wed 9th Nov, 2022 14:20 GMT]:
 
-AppleInsider may earn an affiliate commission on purchases made through links on our site.
+After the below article went live, it came to our attention that the data supplied by Nintendo might actually be more inaccurate than we'd initially believed. As pointed out by Colm Larkin over on Twitter (and indeed by a few of our own clever community members), the sharp spike at the twenty two year-old section might actually be due to a number of users simply selecting a birth year of 2000, either out of sheer laziness or a weird way to cheat the system. Either way, it's an interesting point to note:
 
-More than two years after the launch of MagSafe, the first Apple-Authorized car charger is here. Belkin's new Boost Charger Pro Wireless Car Charger with MagSafe is available from Apple starting today.
+A data spike like this tells you your data is broken. I’m willing to bet they ask people their date of birth and a large proportion pick the year 2000 as a shortcut. There aren’t really 2x as many 22-year-olds as 23-year-olds playing switch. https://t.co/egWmKjdluP November 9, 2022
 
-To date, all wireless car chargers that magnetically connect to iPhone 12, iPhone 13, or iPhone 14 have been Qi chargers with a ring of magnets. This means they could only deliver 7.5W of power to iPhones.
+Original Article [We 9th Nov, 10:00 GMT]:
 
-Belkin, who also introduced the first official MagSafe car mount in 2020, is now releasing an MFi-certified MagSafe car charger. It will safely charge an iPhone with up to 15W of power, and is the first — and so far only — official MagSafe charger for cars.
+Nintendo has released a breakdown from its financial results briefing (hosted by Shuntaro Furukawa himself) and one of the stats is a pretty interesting look at the age distribution for Switch players.
 
-The Belkin BoostCharge Pro Wireless Car Charger with MagSafe has a silver, oval-shaped body that is able to connect to your vehicle's vents. It has an articulating clip to allow you to adjust to the best possible angle.
+As you can see in the image below, there's a pretty wide range of Switch users all the way from one year-olds right up to sixty and over. What's particularly interesting, however, is there is a pretty significant spike of twenty two-year-olds before it drops off again from twenty three and over.
 
-Everything that's included
+In terms of why this might be the case, we imagine that many twenty two year-olds would have essentially been introduced to Nintendo during the DS and Wii era, and we all know that both of those systems sold like absolute hot cakes during their respective lifespans!
 
-A USB-C cord is built in and has its own cable management strap to keep your car tidy. A small USB-C CLA charger is also included in the box, color-matched to the cable.
+Not to mention that you've got huge hitting titles like Animal Crossing: Wild World, Nintendogs , and - of course - Wii Sports, and you've got a whole bunch of new Nintendo fans that will no doubt have stuck with the company through the Wii U era and onto the Switch itself.
+
+Regardless, it's great to see so many people of all ages enjoying the majesty of the Switch!

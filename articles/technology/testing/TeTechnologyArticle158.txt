@@ -1,43 +1,21 @@
-The internet is home to over one billion websites—and no great way to aimlessly explore them. StumbleUpon was the answer to this problem. It put a big “Shuffle” button on the internet, and the web didn’t feel so big.
+Security SmartTrack Link
 
-What Was StumbleUpon?
+AppleInsider may earn an affiliate commission on purchases made through links on our site.
 
-StumbleUpon was created in 2001 by Garrett Camp, Geoff Smith, Justin LaFrance, and Eric Boyd. The idea came from the fact that typical search engines only work if you know what you’re looking for. Music discovery had Pandora, but there wasn’t anything similar for the internet.
+Accessory maker Eufy has released an item tracker called Security SmartTrack Link that works with Apple's Find My protocol.
 
-The solution they came up with was StumbleUpon. On the surface, it seemed pretty simple—just a toolbar with a “Stumble” button and thumbs-up and down options. It was simple to use too. At the press of a button, you were presented with a random website, which you could then rate to help your future Stumbles.
+The tracker is slightly less expensive than AirTag while providing many of the same location-tracking features. Eufy says that Apple has officially certified the Security SmartTrack Link.
 
-In the background, there was machine learning and algorithms working to figure out what type of websites you might like to see. You could also do more focused Stumbling in specific topics and categories. But in essence, it was simply a way to randomly wander around the internet.
+Security SmartTrack Link
 
-RELATED: Pandora Still Exists, and It's Refreshingly Simple
+The SmartTrack Link connects to devices using Bluetooth and reports its location through the Find My network, so it doesn't provide GPS functionality. It also works with Eufy's Security app.
 
-A Tool for Explorers
+The Eufy Security app has features that Apple's Find My app doesn't offer. First, users can share the location of items with friends and family, so they can also help look for them.
 
-StumbleUpon was a darling child of the internet in the late 2000s and early 2010s. It was a time when the internet was still primarily a thing people accessed on a computer. Smartphones were becoming popular, but not everyone had one yet.
+Next, double-tapping the SmartTrack Link will ring a person's iPhone even if it's on silent mode. The tracker also has a QR code on the back, so someone can scan it if they find the tracker to see the owner's contact details of choice.
 
-A lot of people were getting their first taste of the post-dial-up internet at this time. That made StumbleUpon the perfect tool for people looking to explore the “new” internet. It was the same feeling as getting your first smartphone and downloading a bunch of apps. Everything was new and exciting.
+Like the AirTag, the SmartTrack Link can play an alarm and has a replaceable CR2032 battery that can last up to a year. The device is also water resistant, so it's safe even if left in the rain.
 
-I bought my first laptop in 2007, and a friend told me about StumbleUpon. It was just the right thing for an internet newbie. I had this whole new world in front of me—but no idea where to start. It really was like moving to a brand new city and trying to find things to do.
+Pricing & Availability
 
-Making the Internet More Walkable
-
-StumbleUpon made the internet feel much more accessible. You were just a click away from discovering an interesting website you would have never known about.
-
-The internet is like a massive city—it’s easy to go your whole life not knowing a great restaurant is just a couple of blocks away. In the same way, you might have no idea there’s a very popular website out there with content that’s right up your alley.
-
-That was the magic of StumbleUpon. It made the massive city of the internet feel more connected. One minute you’re looking at a blog by some guy with an alpaca farm, the next minute you’re engrossed in a story from a local newspaper in Utah. How else would you have ever come across those two websites?
-
-Of course, not every site you stumbled upon would be interesting—you probably don’t like every restaurant you’ve tried either. But that was what made it fun. It wasn’t about literally trying to find a new website to add to your rotation, it was about exploring a new place. That place just happened to be the entire internet.
-
-RELATED: How to See a List of Restaurants You've Visited in Google Maps
-
-What Happened to StumbleUpon?
-
-I’ve been talking about StumbleUpon in the past tense, but it does technically still exist. In 2018, StumbleUpon was shut down in favor of the Garrett Camp’s new service called “Mix.” StumbleUpon accounts were transitioned to Mix, and users were able to import their StumbleUpon favorites.
-
-Mix is also geared toward discovery, but it’s not about websites anymore. It surfaces photos and videos in a way that seems very similar to Reddit or TikTok. The magic of StumbleUpon is dead.
-
-However, there are still services that do what the original StumbleUpon made popular. “WebRoll” is a web app that offers a very similar experience to StumbleUpon. The internet is a very different place now, though. You might not find as many friendly personal blogs made by alpaca farmers.
-
-For a moment in time, StumbleUpon brought the internet closer together. That was pretty cool.
-
-RELATED: Nothing Beneficial Comes From Mindless Scrolling
+The SmartTrack Link is available to order for $19.99 as a single unit, $39.98 for a two-pack, and a bundle for $47.98 that includes a "Protected by Eufy Security" yard sign.

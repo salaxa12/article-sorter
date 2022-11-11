@@ -1,65 +1,9 @@
-Phones have become like extensions of ourselves. Our phone cases can match our mood or our outfit. Our apps are as organized as our homes (or sometimes more organized), and many of us spend far too long picking the perfect picture for our background.
+The iOS 16.1.1 update Apple rolled out in China came with something extra that wasn't included in the release for other regions. According to Bloomberg, it limits the window of time a user can receive files via AirDrop from non-contacts to 10 minutes. Prior to this change, people can choose to get AirDrops from everyone indefinitely.
 
-Apple’s iOS16 update addressed our background needs by taking lock screen customization even further, expanding the number of lock screen backgrounds you can have and their appearance.
+As the news organization notes, activists and protesters in China have been using AirDrop as a way to circumvent the country's online censorship measures. It was widely used during Hong Kong's pro-democracy protests to share images of police brutality. More recently, protesters have been using it to spread messages opposing the Chinese government and denouncing Xi Jinping's rule. By limiting the "everyone" option, users are less likely to receive messages from random protesters. They will, after all, have to reactivate the option after every few minutes.
 
-Make it yours
+This isn't the first the time Apple has introduced a feature — or, in this case, a restriction — exclusive to a certain region. That said, the tech giant has been criticized in the past for complying with rules meant to limit dissent in China and for implementing changes that would ensure it stays in the Chinese government's good graces. Apple was previously accused of handing over some of its data centers in the country to Chinese authorities. More recently, the company reportedly told Taiwanese suppliers to ensure that parts bound for the mainland don't come with "Made in Taiwan" labels. Instead, their source should be noted down as "Chinese Taipei" or "Taiwan, China."
 
-To customize your lock screen:
+Turn on browser notifications to receive breaking news alerts from Engadget You can disable notifications at any time in your settings menu. Not now Turned on Turn on
 
-Unlock your phone but do not open it
-
-Hard press on the background
-
-Tap the plus sign
-
-Choose between suggested backgrounds or choose your own
-
-Try zooming in on the background image if it features a person or a pet. When you reach a certain point, the top of the image will appear in front of the clock.
-
-Only so much of the clock can be blocked, so the image will drop behind the clock again if you zoom in too much. This depth mode feature only works on iPhone SE or newer.
-
-Swiping left and right on your background photo will flip through different photo styles you can add to your picture.
-
-Tapping on the clock lets you change the font face and color.
-
-You can also add widgets above and below the clock that display weather, reminders, alarms and more.
-
-Once you're satisfied with your new lock screen, tap "add" in the upper right corner.
-
-Changing backgrounds
-
-You can create many customized lock screens to fit many moods, seasons or needs.
-
-Apple has not specified how many lock screens the phone allows, but one Reddit user claims the limit is 200.
-
-To change between lock screens:
-
-Unlock your phone but do not open it
-
-Hard press on the background
-
-Swipe between options
-
-Tap the one you want
-
-If you want to delete a lock screen, hard press on the unlocked background and find the background you want to delete. Then, swipe up and press the trash can icon.
-
-Automatically change lock screens
-
-Customized backgrounds can be connected to focus modes and will automatically change when the focus mode is turned on.
-
-To connect a background to a focus mode:
-
-Unlock your phone but do not open it
-
-Hard press on the background
-
-Find the background you want to use
-
-Tap "focus" near the bottom of the custom background
-
-Select which focus mode you want to connect it to
-
-You can also customize focus modes and create new ones to best suit your needs.
-
-More problems, solved:
+While Apple didn't tell Bloomberg why the limitation was introduced in the country, it told the organization that it won't remain a Chinese exclusive. It reportedly plans to roll out the new setting to all users around the world next year to "mitigate unwanted file sharing."

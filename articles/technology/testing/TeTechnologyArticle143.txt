@@ -1,25 +1,38 @@
-ASUS is launching new DUAL series in white
+Destiny 2 players are an absurd but lovable bunch, perhaps never more so than when they become obsessed with trying to unravel one of the sprawling space MMO’s new secrets. And after a long drought, fans think they may have stumbled upon one. Telesto, the most bugged Exotic in the game’s history, is acting even weirder than usual, releasing smoke, sparks, and violet laser blasts that drift up into the heavens. Naturally, the community thinks the gun is sending a hidden message, and has spent the last 24 hours trying to decipher it.
 
-With the launch of the new RTX 3060 series from NVIDIA, ASUS is refreshing its portfolio with the first DUAL White graphics cards.
+Before diving into what players think might be going on here, here’s some quick background. Telesto is an Exotic fusion rifle whose void energy blasts attach to their target and then detonate. It made the jump from Destiny 1 to Destiny 2 with 2018’s Forsaken expansion, and has been causing havoc ever since, with its unique mechanic frequently glitching other parts of the game that players have then gone on to exploit in various ways, like getting infinite supers or grinding activities more quickly. Bungie’s acknowledged this checkered history and even made Telesto’s buggy legacy part of the game’s lore.
 
-ASUS RTX 3060 Ti/3060 Dual White Series, Source: ASUS
+It’s now acting up again at a time that’s perfectly suited to sending players into “spin foil” hat mode (the game has a resource that looks like aluminum but is called spinmetal, but I digress). In addition to its elaborate raids and grindy loot chase, Destiny 2 is also famous for its complex mysteries that can take the community days or even weeks to solve. There hasn’t been one in a while, and players are eager to get back to space sleuthing, so they’ve been hyper vigilant for clues, especially as the game enters a holding pattern until its next seasonal update.
 
-Although Ampere architecture is already 2 years old, NVIDIA and their board partners are still making new RTX 30 cards. The company has just released its RTX 3060 8GB and RTX 3060 Ti GDDR6X models last month, which was a perfect opportunity for ASUS to show something new for a change.
+Advertisement
 
-ASUS RTX 30 lineup did not have any white graphics cards except ROG Strix White and GUNDAM series, but those were all premium (RTX 3070+) SKUs. The company has now released four new DUAL WHITE cards as part of their new RTX 3060 launch.
+Both of these things came to a head during the game’s weekly reset on Tuesday because Forbes writer and Destiny aficionado, Paul Tassi, said he’d heard from a source that a new community event was being added. Despite one being teased for months in datamined files, Bungie hadn’t mentioned anything officially, and other big personalities were skeptical, but sure enough Tassi eventually found that something more wonky than usual was going on with Telesto. Players on the Destiny 2 and RaidSecrets subreddits did as well. Unlike past glitches, the gun being broken was animated with actual effects, and even included a way to return it to normal by holding the reload button and punching it. The projectiles also all veered up into the sky in strange patterns that kept changing.
 
-ASUS RTX 3060 Ti GDDR6X Dual White Series, Source: ASUS
+G/O Media may get a commission 95% off Dollar Flight Club Premium Plus+ Plan Lifetime Subscription (2-Pack) 95% off your travel dreams.
 
-ASUS White models will be available with optional factory-overclocking:
+Leave those dreamy “what if” plans behind, and start checking out deal alerts for domestic and international flights leaving from your four favorite departure airports. Buy for $150 at StackSocial Advertisement
 
-ASUS RTX 3060 Ti GDDR6X 8GB DUAL WHITE OC (DUAL-RTX3060TI-O8GD6X-WHITE) OC mode : 1710 MHz (Boost Clock) Default mode : 1680 MHz (Boost Clock) Dimensions: 230 x 120 x 42 mm Power: 2x 8-pin
+Some players thought it was just a fun easter egg. Tassi and a growing number of players think otherwise. One theory was that the projectile patterns are actually recreating specific constellations of stars. As a result, some players spent all day saving screenshots of the blast patterns and trying to superimpose things like The Big Dipper and Orion’s Belt over them. There have even been close matches. But nothing that illuminated what any of it might mean for next steps.
 
-ASUS RTX 3060 8GB DUAL WHITE OC (DUAL-RTX3060-8G-WHITE) OC Mode: 1867 MHz (Boost Clock) Default Mode: 1837 MHz (Boost Clock) Dimensions: 200 x 123 x 38 mm Power: 1x 8-pin
+Advertisement
+
+Things have only gotten weirder from there as players have tried to scour the game for other weird clues and unlikely connections. Some players thought bunkers on the Moon and elsewhere that had previously been open were now closed when in fact they had never been opened. Maybe the gun was making certain statues glow? Maybe a fireteam of three needed to use Telesto, Lorentz Driver, and a third Exotic together because of some word soup about Saturn’s moons? Maybe more clues were left behind at the past sites of Telesto’s most notorious bugs?
+
+Advertisement
+
+By the end of the night no one was any closer to knowing what was going on, and more than a few players have since started to lose faith. One even suggested Bungie was intentionally trolling the community. An emblem called Schrödinger’s Gun features Telesto and was added last season but still isn’t obtainable. Maybe the current frenzy is simply a nod to how mysteries always exist in Destiny 2 until proven otherwise. At the same time, Bungie usually likes to play along in those instances, whereas this time it’s been completely silent about Telesto’s latest glitch. It’s also extremely coincidental timing for a gun that was originally introduced in The Taken King to start acting up in this way the same season that expansion’s raid, King’s Fall, was added back to the game.
+
+Advertisement
+
+As revealed in the datamined files for the current season, there is what appears to be an upcoming community event based around rebuilding the Eliksni Quarter in the Last City by contributing currency and resources, which would be in line with past ones. But whether there’s a deeper puzzle in it linked to Telesto remains the big question. For his part, Tassi is convinced something larger is afoot, but will require more time to progress in the game before additional steps are revealed.
+
+One thing’s clear: Destiny 2 fans are “thirsty for secrets.” As the cadence of the game’s updates and content structure has become more predictable and repetitive, fans have been desperate for something, anything, to break them out of their Destiny doldrums. We’ll find out soon enough whether Telesto is the gun to do it.
+
+Advertisement
+
+Update 11/9/22 1:03 p.m. ET: Bungie has acknowledged Telesto’s latest antics and doubled-down. The Exotic has hacked the Destiny Twitter account and is now speaking directly to players:
+
+Advertisement
 
 
 
-The RTX 3060 Ti features dual 8-pin power connectors, while the RTX 3060 8GB relies on one. Gamers can expect boost clocks up to 1867 MHz with the cheaper SKU and up to 1710 MHz boost with the Ti GDDR6X variant.
-
-ASUS RTX 3060 8GB Dual White Series, Source: ASUS
-
-The Ti model is 23 cm long and has the same design as newly launched DUAL series in black. Similarly, the 3060 8GB SKU is a repainted DUAL black SKU which is 20 cm long. We have not found any of the cards in stock yet, but these cards are new releases, so we should give it some time.

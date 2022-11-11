@@ -1,23 +1,33 @@
-Just over three years ago, Google announced it was acquiring Fitbit and a blog post from the brand today previewed what’s coming next.
+The MediaTek Dimensity 9200 chip is the first smartphone processor to feature an ARM Cortex-X3 CPU core, the first to feature ARM Immortalis-G715 graphics, the first to support WiFi 7 technology, and the first to support LPDDR5X 8533 Mbps memory.
 
-With the Sense 2 and Versa 4 launch, product packaging and advertising picked up a “by Google” label. The company says its mission remains to “help everyone be healthier” by “bringing you the data, inspiration, and guidance you need to be more active, sleep better and manage stress.”
+In the short term though, the most important things to know about the new chip are that it will offers better CPU and graphics performance than the previous-gen Dimensity 9000, while consuming less power. MediaTek says the first phones powered by the new processor should be available by the end of 2022.
 
-Under Google, “a Fitbit that’s even more helpful” is promised with a doubling down on “deliver[ing] things that we believe will empower you to achieve your health and fitness goals.”
+Here are some of the processor’s key features:
 
-That means products that are easier to use, experiences that are more personalized, and features that are more motivating. It means casting Fitbit app workouts onto your Chromecast-enabled TV, where you can see your progress on the big screen.
+1 x ARM Cortex-X3 CPU cores @ 3.05 GHz
 
-Fitbit credits the Google acquisition as letting it provide greater reach with affordability being a key aim:
+3 x ARM Cortex-A715 CPU cores @ 2.85 GHz
 
-And because accessibility is also about affordability, one of our key focus areas is continuing to develop high-quality wearables that cost less—like Inspire 3, which we launched in August.
+4 x ARM Cortex-A515 CPU cores @ 1.8 GHz
 
-Another element of that is making Fitbit “available on more devices, including connected home devices, TVs, and phones.” This sounds more in-depth that just casting the Fitbit app, with Google TV integration previously rumored.
+ARM Immortalis-G715 graphics
 
-The other preview highlight today reiterates that Fitbit is “continuing to drive research around new sensors and experiences, and are using Google’s work on artificial intelligence and leading technologies to develop more advanced features that can help with serious health conditions.” Examples include Irregular Heart Rhythm Notifications and the Pixel Watch’s heart rate sensor.
+MediaTek HyperEngine 6.0 Gaming Technology
 
-Lastly, Fitbit reiterated that that Google Maps and Wallet are coming soon to the Versa 4 and Sense 2.
+MediaTek MiraVision 890 display technology
 
-More on Fitbit:
+MediaTek APU 690 AI processor
 
-FTC: We use income earning auto affiliate links. More.
+Manufactured on TSCMC’s 2nd-gen 4nm+ process
 
-Check out 9to5Google on YouTube for more news:
+MediaTek says when compared with the Dimensity 9000 processor, the new chip scores 12% higher in single-core performance in Geekbench and 10% higher in multi-core performance. While that might not sound very impressive, those improvements come along with a 25% reduction in power consumption under heavy load.
+
+And MediaTek is promising bigger gains in graphics performance, with a 32% higher score in the GFXBench Manhattan 3.0 benchmark while using 41% less power. There’s also support for ray tracing.
+
+The company also promises a 35% uplift in AI performance and big gains in wireless performance. Not only is this one of the first smartphone chips with built-in support for next-gen WiFi 7 networks (with theoretical download speeds as high as 6.5 Gbps… assuming you can find a WiFi 7 router), but it’s also MediaTek’s first processor to support mmWave 5G networks as well as Sub-6 GHz.
+
+Other features include support for FHD+ displays with refresh rates up to 240 Hz or WQHD displays up to 144 Hz, support for Bluetooth 5.3, and support for UFS 4.0 storage with Multi-Circular Queue (MCQ) technology that grans each Cortex-A510 CPU core direct access to the storage for higher data transmission speeds in multi-threaded activities.
+
+MediaTek has made a name for itself in the mid-range smartphone processor space over the past decade or so. But now it looks like the company is coming for Qualcomm in the flagship space. We should know how the Dimensity 9200 stacks up against Qualcomm’s next-gen flagship processor soon. Qualcomm’s annual Snapdragon Summit takes place next week.
+
+via press release and MediaTek (1)(2)

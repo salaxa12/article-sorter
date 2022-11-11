@@ -1,5 +1,35 @@
-A native PS5 version of the outstanding Teenage Mutant Ninja Turtles: Shredder’s Revenge is releasing on 15th November, but according to developer Tribute Games, it’ll be “identical” to the existing PS4 release and “doesn’t include any additional features or content”. As such, there’ll be no free PS4 to PS5 upgrade option available.
+Researchers at Zimperium zLabs discovered a malicious browser extension, dubbed Cloud9, that can steal users' private and sensitive information, and take complete control of the victim's device.
 
-We’re not entirely sure why the Canadian developer’s decided to do this, but it all seems to be related to a physical Limited Run Games release, which is available to pre-order in a variety of permutations. The standard option costs just $34.99, but the most expensive Radical Edition costs an eye-watering $199.99, and includes a whole slew of goodies, including a VHS-style case and a mini arcade cabinet.
+What makes Cloud9 particularly unnerving is that it steals data by tracking your keystrokes (i.e. keylogging). It spies on victims' web browser activity, which would delight any cybercriminal. After all, it's while you're browsing the web that you're more likely to input highly sought after credentials, including your bank passwords and other sensitive information.
 
-If you’re in Europe, then you’ll be able to get a bog-standard physical copy from Merge Games for £34.99, or a Special Edition from Signature Games for £59.99. Of course, if you’re not interested in physical copies and already enjoyed this game via the PS4 version’s backwards compatibility, you can probably skip on this so-called new-gen upgrade – it’s effectively the same game.
+What we know about Cloud9
+
+Cloud9 is a botnet that has the modus operandi of a remote access trojan (RAT). Researchers came across two Cloud9 variants: the original one and a new-and-improved version. However, in the report, the investigators focused on the latter since it "contains the functionalities of both variants."
+
+Cloud9 can do the following:
+
+Track your keystrokes (i.e., keylogging) to steal your bank passwords, credit card info and more
+
+Steal your copy-and-paste data (i.e., Clipboard)
+
+Steal your cookies to compromise user sessions
+
+Use your browser and computer resources to mine cryptocurrencies
+
+Take control of your device by executing malicious code
+
+Perform DDoS attacks from your PC
+
+Inject pop ups and ads
+
+Adobe Flash Player (Image credit: Future)
+
+Although Cloud9 is a malicious browser plugin, the Zimperium zLabs team said that they didn't find it on any official browser extension store (e.g. Chrome Web Store). Instead, more often than not, researchers discovered Cloud9 masquerading as an Adobe Flash Player update on malicious websites.
+
+Where does Cloud9 come from?
+
+The investigators tracked the origin of Cloud9 to a malware group called Keksec. "This group is popular for its [...] mining-based malware and botnets," the Zimperium zLabs researchers said.
+
+The Cloud9 botnet is currently being sold for free or for a few hundred dollars on various hacker forums. This malware doesn't target a specific group, the report warned. It's designed to target all users; the cybercriminals want to retrieve as much lucrative data as they can from all victims.
+
+Zimperium said that browsers are susceptible and vulnerable to Cloud9 because traditional endpoint security solutions are "not monitoring this vector of attack," but as long as you're not side-loading browser extensions and fraudulent executables from malicious websites, Cloud9 should remain a distant threat.

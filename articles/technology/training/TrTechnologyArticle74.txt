@@ -1,41 +1,37 @@
-Nahida is a catalyst-wielding 5* character in Genshin Impact that was released in the first half of version 3.2. She is an excellent Dendro support who can use her skill to allow teammates to consistently cause Dendro reactions. She can also use her burst to buff her skill DMG as well as further buff her teammates’ EM. In this guide, we will talk about the best team compositions of Nahida in Genshin Impact.
+Call of Duty: Warzone 2.0 is fast approaching – and brings with it a number of new features.
 
-How Nahida should be played to utilize its max potential
+One of these new features is something called Proximity chat – but what is it, and how do you use it? Here’s everything you need to know about Warzone 2 proximity chat ahead of its release.
 
-Image via HoYoverse
+Early Black Friday deals are starting to go live on Amazon & Best Buy . Big brands such as Lenovo and Samsung are also starting to offer Black Friday discounts early, with many more to follow.
 
-Nahida fits into any Dendro team with ease. There is no one good team for each type of reaction, the Electro and Hydro units are mostly replaceable by other characters from the same element. An exception to this is the Nilou bloom team where Nilou is irreplaceable. Here TKP is used throughout to refer to Tri-Karma Purification, which is the name of the instance of DMG dealt with by Nahida’s skill.
+Warzone 2 proximity chat
 
-Best Team Compositions for Nahida in Genshin Impact
+In short, proximity chat will feature in both DMZ and Warzone 2. It allows players to chat at volume levels that differ depending on their distance.
 
-1. Nilou Bloom Team
+In other words, if the player is close, you’ll hear them more clearly as though they are next to you. If far away, that’ll be reflected in their volume and they’ll sound more distant.
 
-This team relies on Nilou’s special Bloom cores known as Bountiful Cores. These are formed in place of regular Blooms. They explode faster and have higher DMG and bigger AOE.
+But it doesn’t stop there. You’ll also be able to hear your allies. So if one of them says ‘rush them!’, you’ll be able to listen to that and act accordingly.
 
-Nilou Nahida Dendro Traveller Kokomi/Barbara Enables Bountiful Cores TKP DMG Off-field Dendro Healer/Bloom trigger
+This all makes for a far more immersive and tense battle royale experience, and layers on a much-needed human element to the already stellar shooter.
 
-Dendro Traveller applies Hydro in a circle, meanwhile, Nahida replenishes the Dendro aura on marked enemies, acting as an additional source of Dendro. Nahida’s burst provides an EM buff for the one triggering the Blooms. This should be either Kokomi/Barbara or Nahida. This character needs to be built with EM.
+NOW READ: Excited for Warzone 2? Here’s everything you need to know before you play
 
-2. Hyperbloom Team
+For example, squads will now have to stick together if they’re to communicate – rather than going alone. It’ll test teamwork and communication, with the idea of adding even more competitive strategy to the battle royale.
 
-Hyperbloom occurs when electro attacks hit Bloom cores. Due to the nature of these teams, a lot of Spread and Aggravate are also being triggered, adding to the overall DMG.
+The downside is that for those more casual players, this level of realism may not be as well received – and it will take some getting used to if you’re the type of player who likes to run off, do their own thing, and then regroup later on.
 
-Nahida Raiden/Yae/Fischl/Kuki Kokomi/Xinqiu/Yelan/Ayato Kazuha/Sucrose TKP DMG/replenishes Dendro Causes Hyperbloom Causes Bloom Grouping/enemy resistance shred/elemental DMG bonus (Kazuha only)/EM share (Sucrose only)
+Can you turn off proximity chat in Warzone 2
 
-Grouping/enemy resistance shred/elemental DMG bonus (Kazuha only)/EM share (Sucrose only). Since the electro character is causing Hyperbloom, they need to be built with EM. Nahida’s burst is a reliable source of EM.
+There is no word yet on whether you’re able to switch off this feature – although this does seem unlikely. Not being able to hear some people yet they hear you would put you at a distinct disadvantage.
 
-3. Quicken Team
+Warzone 2 is set to launch on November 16, and will be free to play as per Warzone 1.
 
-Quicken occurs when Dendro and Electro hit an enemy. This acts as an aura. Further application of Electro and Dendro will cause Aggravate and Spread, respectively. This adds a flat DMG bonus to the attack that triggered it.
+Warzone 2 proximity chat FAQ
 
-Nahida Electro/Dendro Electro Kazuha/Sucrose TKP DMG/replenishes Dendro Causes Aggravate/Spread Causes Aggravate Grouping/enemy resistance shred/elemental DMG bonus (Kazuha only)/EM share (Sucrose only)
+Did they add proximity chat in Warzone 2?
 
-On-field Nahida would rely on off-field Electro (Fischl/Yae/Kuki) to cause Spread. She would also allow off-field Electro characters to cause Aggravate. Off-field Nahida consistently replenishes Dendro to allow on-field Electro characters (Keqing/Cyno) to constantly cause Aggravate.
+Yes. Proximity chat has been confirmed for the upcoming installment of Warzone.
 
-Final Thoughts
+Can you turn off prox chat in Warzone 2?
 
-Image via HoYoverse
-
-Nahida is a very versatile support for all Dendro teams. She has both an on-field and an off-field playstyle to choose from, and both are viable. Her best synergies are with Hydro and Electro characters, but she does not require any specific character to function, which makes her pretty much universal for Dendro teams.
-
-For more Mobile Gaming news and updates, join our WhatsApp group, Telegram Group, or Discord server. Also, follow us on Google News, Instagram, and Twitter for quick updates.
+It is not known yet if the feature can be switched off in Warzone 2.

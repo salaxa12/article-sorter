@@ -1,64 +1,49 @@
-Crashing onto the scene back in 2017, NieR:Automata was a breakthrough moment for Yoko Taro. Though the director gained infamy for the Drakengard series — including the original NieR on PS3 and Xbox 360 — and his unusual interviews, Automata is the game that truly put him and his team on the mainstream map.
+Microsoft has released .NET 7, the latest version of its popular development platform that brings a host of new features and capabilities, including increased performance and new features for C# 11/F# 7, .NET MAUI, ASP.NET Core/Blazor, Web APIs, WinForms, WPF, and for the cloud native set, the ability to easily containerize .NET applications.
 
-Five years later, the game came to Switch in the form of NieR:Automata The End of YoRHa Edition, an utterly outstanding port of a true modern classic. But why now and not, one, two, three years ago? Why is 2022 the time for Switch owners to hop into Automata, and what technical wizardry did the dream team at Virtuos have to pull to get Square Enix and PlatinumGames' action-RPG running on Switch?
+In short, .NET 7 has a little bit of something for practically every type of developer. Microsoft announced .NET 7 at its .NET Conf 2022.
 
-We spoke to Taro, along with producer Yosuke Saito, composer Keiichi Okabe, and Virtuos' Shi Qiang to celebrate the success of NieR:Automata, lament over the lack of 2B in Super Smash Bros., and find out what makes this game so popular. It turns out not even the team truly knows...
+One Stack for All Kinds of Apps
 
-Nintendo Life: It’s been over five years since NieR:Automata was first released. Why do you think the game has resonated with so many over the years?
+“We’re the only stack that you can build console, web, cloud, mobile, desktop, whatever,” Scott Hunter, VP Director of Product, Azure Developer Experience at Microsoft, told The New Stack. “The one thing about .NET is, most stacks are great at building server apps or building client apps and we build every single kind of app.”
 
-YOKO Taro, director and scenario writer: You might not believe this everyone, but the real reason why NieR:Automata was such a big hit is… complete chance!!
+Moreover, with .NET 7, Microsoft has removed friction in bringing .NET for cloud native workloads with Docker-less flows.
 
-Yosuke Saito, producer: It could be Mr. YOKO’s intriguing mysterious world, Yoshida Akihiko’s charismatic characters 2B and 9S, Mr. Okabe’s eccentric melodies or the sublime action game feel from the craftsmen at Platinum Games.
+Containerization
 
-the real reason why NieR:Automata was such a big hit is… complete chance!!
+“Containers are becoming the currency of deployment on the cloud, and we’ve made it much simpler with .NET. 7 to deploy your apps into the cloud, without the need of having the Docker Desktop enabled or installed on your machine,” Gaurav Seth, head of product for Developer Platforms and Languages at Microsoft, told The New Stack. “With a simple CLI command you can now customize the container, deploy a custom container, etc., and this support works with any of the container runtimes: Docker, Podman, Containerd, etc.”
 
-But I think that the biggest reason was probably how Automata blended all these different elements together to make the grade.
+And this is available not only from the command line interface (CLI) but Microsoft has brought support into its Visual Studio IDE for this purpose.
 
-Keiichi Okabe, composer: I think that it is probably how the things that Mr. YOKO imagined and PlatinumGames' ability to realise those things and balance them out came together so well.
+“Visual Studio also makes it seamless to not only develop your application but deploy and provision into various Azure PaaS services like Azure App Service, Container Apps and so on,” Seth said.
 
-After that, it was probably the power of my music though. (laughs)
+In addition, with .NET 7 Microsoft has made it easy for developers to set up CI/CD through GitHub Actions with a simple right click.
 
-Taro-san, you asked Saito-san for a Switch port of NieR:Automata during E3 2018. How do you feel now it’s finally coming to fruition four years later?
+“My favorite feature [of .NET 7] is the Docker-less, or the Docker Desktop-less support, primarily because as somebody who builds the container services in Azure, we have an effort we call code to cloud about how easy can we make it from a developer writing or fixing some of their code to get it up in the cloud? And anytime I can remove a layer and a layer and a layer, it makes it even faster,” Hunter said.
 
-YOKO: I am hugely disappointed that we did not make it in time to get into Smash Bros…
+For building client applications developers typically like to have choices, they select the right stack for building a client application. It comes down to a choice that they have to make, and it is a choice between reach and power. And it’s a sliding scale.
 
-This marks the series’ debut on a Nintendo console, what pushed you to finally make the jump to the Switch?
+“Depending upon the application needs, one can choose the right mix you know, fully web for most reach, and fully native for power or depth of integration with the OS, with the device, etc.,” Scott said. “In case some people need a little bit of both, there is always the hybrid client apps. Now .NET supports this entire spectrum.”
 
-Saito: This came about from wanting to do something for the 5th anniversary and from seeing Astral Chain and thinking that we might be able to bring Automata to Nintendo Switch too. I think we have managed to port the game over with quite impressive levels of fidelity, so I would love to see everyone play it!
+Regarding observability features, .NET 7 has integration with Azure App Insights as well as support for the OpenTelemetry framework to enable developers to measure their .NET 7 cloud native application’s reliability and performance.
 
-Virtuos has a pretty strong track record with Switch ports, how did you find working with them on bringing the game to the console?
+Linux Support
 
-it feels like there is nowhere in the games industry left for me to inhabit anymore
+In addition, .NET 7 is the first major release following Microsoft’s collaboration announcement with Canonical, making .NET 7 available with Chiseled Ubuntu Containers.
 
-Saito: I think they are a great company, and they took on various difficult challenges on our behalf, so I would love to work with them again if we get the chance!
+Microsoft recently announced that .NET is now available in the default package feed starting with the Ubuntu 22.04 LTS release. The company keeps pushing the bounds of making sure .NET runs well on Linux, as a platform.
 
-Given Automata’s fast-paced action-RPG combat, was it a challenge to maintain all of the different visual elements on the screen for the Switch port?
+“Who would have ever thought in 2016 when we first started this journey, that Red Hat would come and ask for us to get in the box? Or Fedora would want us to be in the box,” Hunter said. “They want .NET in the box with Java and Node and Python and Go. I think that’s an amazing change from our closed source 2002-era .NET.”
 
-Shi Qiang, Studio Technical Director from Virtuos: Indeed, it was quite tricky in some places. That was why we were very thorough in our preparations.
+Other Features
 
-The team started by quickly delineating where all the hot spots were and then developed an omnidirectional feature tracking tool for optimisation. For the engine and the code, we did overall optimisation on the CPU, GPU and shaders. We also carried out comprehensive optimisation on the art as well, including all of the models, lighting, special effects, stamps and assets.
+.NET 7 was released in conjunction with several other products, libraries, and platforms including ASP.NET Core 7, Entity Framework Core 7, .NET MAUI, Windows Forms, WPF and Orleans 7. And .NET 7 comes with native support for ARM 64.
 
-Once the general optimisation process was complete, we carried out functionality spot checks on the complex scenes. For example, in the boss fight scenes, we did further optimisation on the detail level of the boss models, textures and lighting, including the large-scale rebuilding of the VFX to fit with the Switch’s technical capabilities.
+Orleans is a Microsoft cross-platform software framework that makes .NET a key platform for writing distributed applications for the cloud. “We’re making Orleans a core part of the .NET family,” Seth said. “Orleans helps make building distributed applications a lot more approachable. And several Microsoft services like Halo, Mesh and Azure actually already use this technology.”
 
-Having brought Voice of Cards to the Switch, has that series’ success influenced your decision to bring the game to the console?
+In addition, “.NET used to be this really verbose kind of language if you built an API, you had to write a lot of code, and we’ve been reducing the amount of code you have to write,” Hunter said. “That’s taking what we learned from things like Node.js and Python and making those kinds of capabilities available to our .NET customers.”
 
-Saito: Personally, I would be happier to see it the other way around, with Switch players playing Automata and experiencing the world of YOKO Taro through that, then going on to play Voice of Cards!
+Community Input
 
-Has the success of NieR:Automata changed the way you approach developing games?
+.NET is used by more than 5.7 million developers on a monthly basis. It also continues to be one of the most loved frameworks by developers — three years in a ranking in that category in the Stack Overflow Survey of 2019, 2020, and 2021.
 
-YOKO: We had more capable staff on this one, so there was less for me to do. I mean, it feels like there is nowhere in the games industry left for me to inhabit anymore.
-
-If there is one convenient reason why “you should play Automata on Switch because of XXX” then please could you tell it to the Square Enix marketing team?
-
-For newcomers to Automata, why should they pick up the Switch version of the game?
-
-YOKO: If there is one convenient reason why “you should play Automata on Switch because of XXX” then please could you tell it to the Square Enix marketing team? I think they would be delighted to know that. They might even buy you a beer. No, really…
-
-Saito: I will answer this as a gamer, rather than as the producer. With the incredibly appealing characters and worlds that YOKO Taro creates, Okabe Keiichi’s beautiful music and Yoshida Akihiko’s superior character design, as well as it being made by PlatinumGames, one of the world’s top action game developers, is there actually any reason NOT to play the game?
-
-Subscribe to Nintendo Life on
-
-This interview has been lightly edited for clarity.
-
-Thank you to Yoko Taro, Yosuke Sait, Keiichi Okabe, and Shi Quiang for taking the time to talk to us about NieR:Automata The End of YoRHa Edition. You can pick up the game right now on Switch.
-
+The open source community can claim responsibility for several enhancements in the new release. .NET 7 has more than 28,000 contributions from over 10,000 community members, Seth said.

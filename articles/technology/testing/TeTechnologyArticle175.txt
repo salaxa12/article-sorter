@@ -1,0 +1,33 @@
+Foldable phones are notoriously difficult to master, and Samsung had to endure a colossal display quality failure before breaking through with the Galaxy Z Flip 4 and Galaxy Z Fold 4. Apple, on the other hand, is still on the fence and may be waiting for the tech to fully mature before it makes a splash with a potential foldable iPhone.
+
+However, one team of enthusiasts couldn’t wait any longer and created its own working foldable iPhone. Now, unlike a lot of other smartphone DIY projects such as the one-off iPhone X with a USB-C port, the foldable iPhone wonder looks like a well-crafted unit. It took well over 200 days to make, but it still has a few fundamental shortcomings.
+
+To start, the team at Tech Aesthetics (translated) went with the iPhone X’s flexible OLED panel, which is actually set in a U-shape at 180 degrees alongside the lower edge, a choice Apple’s engineers made to achieve the thin chin at the bottom. Extracting it, however, was not exactly easy. The team worked in a temperature-controlled environment and used a special wire to separate the touch panel assembly to avoid any damage.
+
+Break, study, and make anew
+
+It took months just to master the process of delicately removing the glue while ensuring the screen didn’t show any signs of damageand retained its flexible nature to allow the device to fold. The team sacrificed 37 iPhone screen kits before finally extracting the working layers without any form of line or pixel damage. Next, the team tore apart the Galaxy Z Flip to study the hinge mechanism, but soon realized that the iPhone’s OLED panel — which is not supposed to bend like the proprietary foldable screen tech developed by Samsung — won’t survive the same angles of folding/unfolding for long.
+
+Next, the team disassembled the Motorola Razr clamshell foldable phone and got to the core of its folding parts. The team realized the support plates enabling the foldable screen assembly are more forgiving, and also leave a vertical gap measuring seven millimeters in the area where the screen folds.
+
+Shaped almost like a large water drop in the folding area, the team found the Motorola Razr’s implementation ideal because it’s not only workable from a durability standpoint, but also solves the crease problem. Plus, the screen and folding shafts are not integrated into a single unit, which was another engineering advantage. Trying to nail the foldable screen and the supporting hinge mechanism took nearly six months, but the next step was even trickier. The team had to figure out the motherboard and battery situation, which would now be divided across two folding halves while being linked using delicate connectors.
+
+The team turned the iPhone X’s internal assembly upside down, putting the motherboard in the lower half while pushing the battery to the top. The iPhone X’s dual-cell battery design helped the engineers create the new layout. However, due to size constraints, the team had to go with a custom Li-ion pack with only a 1,000mAh capacity, which is less than a third of what modern iPhones offer. Needless to say, this experimental foldable iPhone wasn’t meant to last a full day of usage. Next, the internal wiring had to be tweaked and a custom connector array was used to connect the components. Once the hardware was figured out, the team created a few software experiences to take advantage of the foldable form factor.
+
+Ambitious, but needs polish
+
+The foldable “iPhone V” concept looks like a refined experiment, but it’s still extremely fragile and far from becoming your daily driver. The team behind the ambitious project makes it abundantly clear that this one-of-a-kind device can’t survive repeated folding and unfolding cycles. Plus, the hinge design leaves the underside exposed, which would almost certainly lead to problems if it was used everyday.
+
+After just a few days of usage, a crease becomes apparent despite the shallower bending profile compared to the Samsung Galaxy Z Flip 4. The fragility issue is so severe that the screen system completely breaks down in a few days. A certain company with loads of talent and a few hundred billion dollars in the bank might do better here.
+
+The custom wiring developed for the “rudimentary” foldable iPhone is also quite delicate and prone to breaking. The team also had to sacrifice the wireless charging kit to accommodate the innards across the two halves, and had to make do with a single speaker to save space.
+
+Apple, are you watching?
+
+Interestingly, the team says it will continue to refine its formula and will likely come up with a more polished version of its foldable iPhone idea in the foreseeable future. As for Apple, well, you might have to wait a few more years before the company makes one. Plus, at this point in time, iOS doesn’t look ready for a foldable iPhone.
+
+According to analyst Ross Young from Display Supply Chain Consultants, Apple’s first foldable iPhone likely won’t arrive before 2025 at the earliest. Bloomberg also reported last year that Apple is currently experimenting with foldable display panels only, and doesn’t have a working prototype of a foldable iPhone in one of its notoriously secretive design labs.
+
+Turning a slab-like iPhone into a Frankenstein-inspired foldable device was an arduous journey for the team. It’s only a matter of time before Apple commits to delivering our dream foldable iPhone.
+
+Editors' Recommendations

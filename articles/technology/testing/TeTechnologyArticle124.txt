@@ -1,13 +1,15 @@
-Sony is going to be busy with its Xperia line in 2023 according to a new rumor. Apparently, five smartphones spread across six model numbers could be in the pipeline for next year. Among those, it is possible one could be an Xperia 1 V model with an in-display fingerprint scanner while another could be the Xperia Ace IV compact smartphone.
+Samsung recently rolled out the Android 13-based One UI 5 stable update for the Galaxy A53 5G, and now it has begun testing One UI 5.0 for the Galaxy A33 5G internally. Its firmware has version A336EDXU4BVK1, but don't wait for a public beta since there likely won't be one.
 
-4 Reviews
+Besides, not all regions will get the stable update at the same time. Samsung aims to release One UI 5.0 for the Galaxy A33 5G in South Korea and Germany by the end of this month and in Malaysia next month. That said, the rollout schedule is subject to change, so the update could arrive late or earlier than expected.
 
-Fans of Sony Xperia phones will supposedly have a lot to look forward to next year as a purported leak on a German-language Sony forum (via SumahoDigest) has claimed that at least six models are in the works. According to the post (machine translated below), the devices will utilize three different processors from Qualcomm. So, there will be three models using the Snapdragon 8 Gen 2, one using the Snapdragon 6 Gen 1, and two using the Snapdragon 4 Gen 1. However, these six models will make up five different phone lines, as the devices using the SD 4 Gen 1 chip are possibly the same phone but for different markets.
+Samsung Galaxy A33 5G
 
-Some deductive work has left the Snapdragon 8 Gen 2 devices as most likely being the Sony Xperia 1 V, Sony Xperia 5 V, and maybe a Sony Xperia PRO-II phone. This would leave the Sony Xperia 10 V as the Snapdragon 6 Gen 1-sporting device. As for the Snapdragon 4 Gen 1, this has already been associated with a potential compact smartphone in the form of the Sony Xperia Ace IV, which has already been rumored to be heading for a global release. There is a chance that there would be an Ace IV model just for the Japanese domestic market and a slightly different one for the international market. The six model numbers would seemingly go from PM-142x-BV to PM-147x-BV.
+In addition to testing One UI 5.0 for the Galaxy A33 5G, Samsung released the fifth One UI 5.0 beta for the Galaxy Z Fold3. It has a firmware version ending with ZVK3 and comes with the November 2022 Android security patch and bug fixes. You can check the changelog's screenshot below for more details.
 
 
 
-At least one, if not a few or even all, of the above-mentioned Sony Xperia smartphones could come with an in-display fingerprint scanner, according to a hint left on Weibo that included the telling hashtag “in-screen fingerprint sensor”. This would likely be met with considerable approval from the Sony community, as Xperia 1 and Xperia 5 phones have frequently been reported with fingerprint sensor issues. Xperia devices usually have this particular function built into the power button, so it would be quite the departure for Sony to go with an in-display/under-display fingerprint sensor for one or more members of the 2023 Xperia lineup.
+Changelog of Samsung Galaxy Z Fold3's fifth One UI 5.0 beta update
 
-Buy an unlocked Sony Xperia 5 III on Amazon
+The fifth One UI 5.0 beta for the Galaxy Z Fold3 is currently available in India, and beta users who haven't received it yet can check for it manually by navigating to their Fold3's Settings > Software update menu.
+
+Via 1, Via 2

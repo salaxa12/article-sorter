@@ -1,17 +1,9 @@
-A new Google feature will let consumers use artificial intelligence to bring their fantastical creations to (digital) life by just typing a few words.
+Apple is expected to release iOS 16.2 next month with several new features, including the new Freeform collaboration app, Live Activities changes, and a handful of Lock Screen widgets, but there may be a much bigger change in the works as well. As spotted by 9to5Mac, Apple is working on a new Custom Accessibility Mode that may launch in iOS 16.2.
 
-The app, which Bloomberg reported Thursday is currently under development, will have two functions: users can construct cities with its “City Dreamer” function, or customize a family-friendly cartoon monster with its “Wobble” feature.
+The new iOS 16 Custom Accessibility Mode is very different than the current home screen layout. 9to5Mac
 
-The tools will be available through Google’s AI Test Kitchen app, Douglas Eck, a lead scientist at Google, said at the company’s AI@ event in New York on Wednesday. The release date for the new app has not yet been announced.
+According to screenshots published by the site, the new interface is a “streamlined iPhone experience” with customizable features such as large text and controls and a preferred home screen layout with either icon images or words. 9to5Mac says the new mode, which is codenamed ClarityUI, also includes options for “apps available on the Home Screen, allowed contacts, and access to hardware buttons.”
 
-The features will use AI imaging technologies to generate hyper-specific images from even short text descriptions.
+Apple launched iOS 16 in September, followed by iPadOS 16 in October. However, despite spotlighting hundreds of new features, many of which have already arrived, Custom Accessibility Mode does not currently appear on Apple’s website.
 
-Google’s AI tool will be far from the first available to the public. This year, OpenAI’s DALL-E, Meta AI’s Make-A-Scene, Stability AI’s Stable Diffusion, and Midjourney have all either launched to the public or are in some state of semi-public beta testing.
-
-Social media has become flooded with the chaotic amalgamations produced by these platforms and users’ suggestions —imagine Big Bird robbing a bank—but critics have raised legitimate concerns over how generative AI can spread misinformation or infringe on artists’ copyright.
-
-In September, Getty Images banned AI generated art, including images created by DALL-E and Make-A-Scene, from its platform. According to Getty, the decision was based on concerns of how image generators scrape publicly available content from across the internet when producing new imagery.
-
-The sampled imagery is often copyrighted and come from news outlets and stock photo websites like Getty or are original artworks—without credit or compensation to the content creators. It’s still unclear whether that usage exceeds the boundaries of fair use as established by U.S. copyright law. Commonly in such court cases, the judge’s decision hinges on whether the new work is sufficiently “transformative.”
-
-“Generative AI models are powerful, there’s no doubt about that,” Eck said at a press conference during the event. “But we also have to acknowledge the real risks that this technology can pose if we don’t take great care, which is why we’ve been slow to release them.”
+The new custom mode will be an option in the Accessibility settings along with Guided Access and Back Tap. iOS 16.2 is due to arrive on phones in December, but like all iOS features, it’s possible Custom Accessibility Mode is delayed to a future update.

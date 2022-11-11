@@ -1,45 +1,19 @@
-We are done with major phone announcements for the year and reports are now focused on next year's releases, with a special emphasis on Apple and Samsung's next phones. Sony is also quietly working on new models and it allegedly has at least five phones in the pipeline.
+What you need to know
 
+Samsung continues its One UI 5 rollout with the mid-range Galaxy A53 5G.
 
+The Android 13 update has appears in European markets, with others expected to follow shortly.
 
+Samsung is reportedly testing the update for the Galaxy A33 5G privately before its scheduled launch this month.
 
+Samsung is on a roll with the One UI 5 (Android 13) update as it begins updating the mid-range Galaxy A53 5G.
 
-Japanese site SumahoDigest (via NotebookCheck ) which often leaks info about Sony products has passed along some intel picked up from a Sony forum that suggests the company will at least release the following models in 2023:
+As noted by SamMobile, the One UI 5 update has begun appearing for users in Europe. The Galaxy A53 5G update comes in at over 2GB with build version A536BXXU4BVJG. It also seems to be coupled with the October update as other Samsung smartphones begin receiving the November patch.
 
+The Galaxy A53 5G is one of the few mid-range Galaxy smartphones expected to receive the Android 13 update before 2023. According to a schedule Samsung posted in October, the Galaxy A33 5G is also expected to receive the update this month, with the A-series phones scheduled to be updated in December.
 
+Speaking of the Galaxy A33 5G, SamMobile reports that Samsung is currently testing the update for the phone "behind closed doors" with firmware version A336EDXU4BVK1. It was not among the phones put through a public beta program, meaning owners of the device will have to wait to try it out when the stable version launches, which could be any day now.
 
+Interestingly, the Galaxy A53 5G received its update ahead of other devices that were part of the beta and are expected to receive it this month, including the company's foldable phones. Still, the company's cadence is quite impressive, given the sheer number of phones it has to update across many regions.
 
-
-Xperia PRO-II
-
-Xperia 10 V
-
-Xperia Ace IV
-
-Xperia 1 V
-
-Xperia 5 V
-
-
-
-
-
-The forum post says that three of these models, presumably the Xperia PRO-II, Xperia 1 V, and Xperia 5 V, will be powered by the rumored Qualcomm Snapdragon 8 Gen 2 chipset, whereas one, likely the compact Ace IV , will have the Snapdragon 4 Gen 1 under the hood, and one, apparently the Xperia 10 V, will be fueled by the Snapdragon 6 Gen 1.
-
-
-
-
-
-A variant of the Ace model, which is usually released only in the company's home country of Japan, will also come to global markets. This is great news for anyone looking for an Android Apple iPhone mini alternative
-
-
-
-
-
-The report says that the Xperia 1 V, 5 V, and 10 V will adhere to the current launch pattern, meaning we can expect the 1 V and 10 V in May, and the 5 V in September.
-
-
-
-
-
-It has also been implied that Sony is finally ready to retire the physical fingerprint scanner in favor of an in-display reader. Most Android manufacturers have already switched to in-screen fingerprint readers and although the capacitive variety is considered more reliable by many people, this cannot be said for recent Sony phones and the company has dedicated a whole page to helping customers facing fingerprint issues
+Phones that have already begun receiving One UI 5 (Android 13) include the Galaxy S22, S21, S20, and Galaxy Note 20 phones. Owners of these phones can check for updates by navigating to Settings > Software update > Download and install.

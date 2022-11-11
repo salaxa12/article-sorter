@@ -1,0 +1,63 @@
+The Slingbox, that pioneer of TV "place-shifting," is about to become a brick for many of the people who are still using one.
+
+Following a warning issued two years ago by Dish Network corporate cousin Sling Media, the servers running what Slingboxes are still in operation today will be taken permanently offline on Wednesday, November 9. As the notice states, at that point, "all Slingbox devices and services will become inoperable."
+
+"Slinger" poised to extend life of the Slingbox
+
+Or perhaps not. After checking into some comments from the Slingbox group on Reddit, I noticed last week there's a "Slinger" workaround that uses a Python application that enables Slingbox hardware to work without the Slingbox servers.
+
+"GerryDazoo," the person who created the GitHub repository for Slinger, noted in a Reddit post that he's "not a genius," as some in the group have proclaimed, but "just a retired guy with too much free time and a sling box." Genius or not, it seems GerryDazoo's handiwork is much appreciated by the group.
+
+Dave Zatz, an employee of Sling Media during the early days of the company who has been running the ZatzNotFunny gadget blog for many years, also came across the existence of the Slinger workaround. "I can't imagine it's as elegant as the 'real' thing, but I'm absolutely certain it beats a blank," he wrote.
+
+The man behind Slinger
+
+"GerryDazoo" is actually a handle for Gerry Dubois, a 68-year-old retired telecom engineer who now lives in Nova Scotia. In a conversation on Sunday, he told me he's been using a Slingbox for about a decade (he owns a Slingbox 500, which launched in 2012) and has been using it to view local channels when he's in the US or simply just moving about.
+
+He said he started to think about the project when Dish announced two years ago that it would be shutting down the Slingbox servers permanently. It's taken him about six months to get Slinger where it is today, and he has been enhancing it and adding features as he receives feedback from the Slingbox community.
+
+"To me, it seemed like a money grab to force everybody over to use their streaming service instead of being able to use their Slingboxes like they originally intended," Dubois said. "I wasn't going to give them any of my extra money. I'm just a 68-year-old retired telecom engineer that had some spare time on his hands ... I think I wrote my first professional program in 1972."
+
+Dubois said he got Slinger underway after locating some old Perl code on the web that someone had "lashed together" that allows the recording of a stream to a hard drive. "I basically took that as a starting point and wrapped it all in Python and after a while got rid of the Perl code and it's working pretty good now."
+
+Dubois has posted a networking guide to help people set up Slinger. But, boiled down, he said Slinger acts as an "intermediary" between the media player and Sling's proprietary protocols. "It's just a packet-moving engine after it locks into the Slingbox and sets up the original video stream."
+
+He doesn't know exactly how many people are using Slinger today. "But there are certainly more people now asking for help" as the shutdown deadline approaches, Dubois added. One of the use cases he's found involves expats living around the world who are connecting back to a Slingbox in the US to watch local channels.
+
+Request to Dish: open source the Slingbox protocol
+
+Meanwhile, he does have a request for Dish: to open source the protocol documentation for the Slingbox.
+
+Reverse-engineering it has been "slow going," he conceded. "If you had the real documentation, you'd be able to do all kinds of neat stuff. I don't see any reason for Sling to want to keep that IP [intellectual property] because it's not used anymore."
+
+The latest version of Slinger (3.08) claims to support several Slingbox models, including the 240, 350, 500, M1, M2, Solo, Pro and ProHD.
+
+Zatz also helpfully reminds Slingbox owners who might want to extend the life of the device to get that all important Slingbox device password, and go here to do that. But he warns that the URL might not be live for long. "So grab your info ASAP," Zatz said. I could not locate my old Slingbox credentials, so I took his advice, just in case I find reason to resurrect my M2 Slingbox somewhere down the road.
+
+Dubois' Slinger effort and the Reddit group aren't alone in figuring out ways to extend the life of the Slingbox once the servers are turned off. There's also a private group on Facebook called "The Slingbox Alternatives, Open Sources, Solutions, etc." that, at last check, has about 220 members.
+
+Slingbox user base has dwindled
+
+Dish, which acquired Sling Media in 2007, didn't provide any final stats on the Slingbox, including how many have been sold or an estimation on how many are still in use. Satellite Business News estimated in January 2017 that about 2 million Slingbox units have been sold.
+
+Dish, which halted production of the Slingbox in 2017, said the product had simply run its course now that consumers have access to a wide range of streaming options.
+
+"As streaming and programming options have changed over the years, we have fewer and fewer users accessing Slingbox," Dish said in an emailed statement. "The removal of Slingbox and its products will have zero impact on any of the DISH set-top boxes or receivers used with SLING technology."
+
+I can't recall the last time I connected my M2 Slingbox model.
+
+(Source: Jeff Baumgartner/Light Reading)
+
+I won't get into the whole history of the Slingbox here, but we did post a retrospective of sorts soon after Sling Media made the announcement about two years ago.
+
+The Slingbox, introduced at the 2005 CES by Sling Media and its founders – the late Blake Krikorian and his brother, Jason – had a good run.
+
+And the Slingbox, despite its kluge approach, did play a significant role in helping a select group of people access their pay-TV subscriptions remotely well before things like "TV Everywhere" apps and virtual multichannel video programming distributors (vMVPDs) came on the scene. I suppose initiatives such as Slinger and Sling TV, Dish's vMVPD, will have to carry the torch from here.
+
+I've owned a set of Slingboxes during the product's reign, though I could not tell you the last time I actually used one. But when we moved to Philadelphia in 2011 for a five-year stint, a Slingbox installed at my parents' house in Parker, Colorado, ensured I was able to watch Denver Broncos games from afar. It did its job well.
+
+Related posts:
+
+
+
+— Jeff Baumgartner, Senior Editor, Light Reading

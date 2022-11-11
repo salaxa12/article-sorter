@@ -1,15 +1,13 @@
-Back in July, OpenAI’s DALL-E went from being restrictive to more openly available for people. This venture is now taking a new step as the company has now released the DALL-E API to app developers. Check out the details.
+Subscribe to Nintendo Life on
 
-DALL-E Is Now Becoming More Open!
+Trust Devolver Digital to deliver something pretty unusual — and fun-looking. One of the surprise announcements from today's Indie World Showcase was Pepper Grinder, a fantastic-looking pixel art sidescroller from developer Ahr Ech. And our little Game Boy Advance hearts were beating when we saw just how Pepper, the shipwrecked, swash-buckling pirate got around these levels — with a drill!
 
-DALL-E API is now a part of the public beta, allowing more apps to use DALL-E or the recently introduced DALL-E 2. The AI image generator tool allows people to enter any random keywords, based on which it will generate an image by following “natural language descriptions.”
+Yes! Our hearts were racing as we watched Pepper zip and zoom around with her trusty power tool. This is the high-speed sequel to Drill Dozer we've always wanted, and now we're getting it in 2023! She's even named her drill — Grinder.
 
-OpenAI has already released improved moderation methods so that the tool isn’t used for harmful reasons. There are filters for “hate symbols and gore“ and DALL-E also restricts people from uploading realistic images or images sharing resemblance with other people, especially famous ones.
+Here's a summary of the game from the eShop page:
 
-It is also revealed that DALL-E is being used by over 3 million people and is already being used by third-party apps. Microsoft has integrated DALL-E in its graphic design app called Designer and will now include the tool in Bing and Microsoft Edge.
+"Pepper Grinder is an action-packed pirate adventure starring the titular Pepper, a seafaring soul with a passion for prospecting, and Grinder, her super-powered drilling device. Shipwrecked and robbed of her treasure, Pepper must spin up her trusty sidearm to reclaim what the mischievous Narlings stole. Armed with Grinder, Pepper burrows through terrain & water, controls machines, and pulverises all enemies blocking the way towards recovering her missing fortune - with interest! Pepper's progress will not be that simple, however, as mysterious beings begin to emerge from the shadows..."
 
-Another client is the fashion and lifestyle operating system CALA, which uses DALL-E to generate design ideas. And Mixtiles is also using DALL-E. OpenAI’s blog post reveals that “Mixtiles uses the DALL·E API to create and frame emotionally resonating artwork, by guiding users through a creative process that captures childhood memories, dream destinations, and more.“
+Essentially, this looks like Drill Dozer with Sonic Colours' Drill Wisp mechanic. To get around you'll need to dig deep and get down in the mud to solve puzzles and fight enemies. There are stunning-looking pixel art insects, crystallised cogs, and narwhals (maybe??) using rubber rings to navigate your way past in this lovely side-scrolling action platformer.
 
-The company now provides people more control over the artwork created and lets people own them. Earlier, ownership rights were owned by OpenAI. It is said that this is possible due to the “improvements to our safety systems which minimize the ability to generate content that violates our content policy.” There will also be a My Collection for people to hold their DALL-E creations.
-
-To recall, DALL-E recently got the ability to edit human faces for people to make some tweaks. It is claimed that there won’t be any misuse. It remains to be seen which apps end up using DALL-E. So, are you excited to see the DALL-E magic on other apps? Let us know your thoughts in the comments below.
+What did you think of Pepper Grinder during today's Indie World? Drill down in the comments and let us know!

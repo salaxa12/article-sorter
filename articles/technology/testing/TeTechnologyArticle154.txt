@@ -1,48 +1,9 @@
-Persona 5 Royal recently reached new platforms including Switch, and Digital Foundry has now taken a closer look at the port from a technical perspective to cover aspects like resolution and frame rate. The outlet mostly seems to take issue with resolution as it’s not as high as other Atlus releases on the console and lower than other demanding titles that have come to the platform.
+Register Now For Free
 
-Here’s the full roundup of notable tidbits:
+Sign up for free now to have your achievements and gaming statistics tracked.
 
-– Short loading times
+Manage your Game Collection, measure your progress across entire game series, even set scoring and completion goals and we'll chart your attempts at reaching them!
 
-– Even though the file size has been reduced, animated cutscenes mostly free of artifacts
+We've also run over 700,000 gaming sessions to help our members unlock millions of achievements and make new friends.
 
-– Texture resolution has taken a hit across the board on Switch
-
-– Texture assets derived from the Royal version, but are significantly degraded compared to the PS4 version
-
-– Some missing material properties
-
-– Downgrade on the game’s baked shadows
-
-– Texture downgrades relative to the PS4 version
-
-– Persona 5 Royal Switch resolution is 1440×810 when docked
-
-– Portable resolution is 960×540
-
-– Persona 5 Royal frame rate on Switch is 30 FPS, and it’s very stable
-
-– Some odd animation issues that may have now been fixed
-
-Check out the full video from Digital Foundry below for a closer look at the Switch version of Persona 5 Royal, including frame rate and resolution.
-
-Persona 5 Royal is currently available on Switch both physically and digitally.
-
-Share this: Twitter
-
-Facebook
-
-Reddit
-
-Tumblr
-
-Pinterest
-
-More
-
-Print
-
-Pocket
-
-
-
+And, we're fully secure and mobile friendly.

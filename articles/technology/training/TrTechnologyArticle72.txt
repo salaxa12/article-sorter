@@ -1,15 +1,23 @@
-Expect an arcadey experience going in
+With the Call of Duty: Warzone 2.0 launch on the horizon, the first battle royale will take a short break. Activision is taking Warzone offline for 12 days to focus on keeping the sequel stable and has confirmed cosmetics will not carry over in the new game.
 
-Back in mid-2020, Iron Man VR was unleashed into the world via the PSVR. While it made somewhat of a splash in the VR community at the time, I haven’t really heard of it since then: but thankfully, more folks are getting the chance to check it out thanks to a Quest 2 release this week.
+In the latest Call of Duty blog , patch notes outline how the studio will handle the next big release over the holidays. On November 16 at 8 am PT, Call of Duty: Warzone servers will temporarily go offline, and developer Raven Software estimates service should return on November 28 at 10 am PT.
 
-In case you missed it before, Iron Man VR is essentially an Iron Man simulator, complete with dual-hand repulsor control, and a unique storyline. You’ll spend a lot of time thrusting around vistas and open canyons blowing up robots, chasing up leads and even walking around a bit as Tony Stark.
+Loading Play
 
-All of the same core gameplay is back, and it still works. The idea of simply using two separate VR controllers as Iron Man hands is genius, as you can fly or shoot with either hand. Similar to many other VR games it’s something you’ll need to learn from the ground up, as you attempt to get your bearings, fly as fast as you can, and frantically shoot while remaining accurate (and while something is chasing you).
+Call of Duty: Warzone 2.0 will launch on November 16 at 10 am PT as part of Modern Warfare 2 Season 01. With the downtime, developers at Raven Software “will be focused on ensuring the new Warzone 2.0 free-to-play ecosystem is running effectively.”
 
-Playing as Iron Man with an untethered headset is a blast
+The blog also notes this gives them time to observe an upcoming US holiday and ensure everything is “fully stable” with both games.
 
-I found myself learning the control scheme all over again, flying quickly with both hands to get a faster thrust: then hovering, blasting something with both hands, and outmaneuvering another opponent with one hand on flight duties and the other on firepower. The thing that makes the Quest 2 release so cool is the complete lack of a headset tether. Early on the Quest experience asks you to either rotate the analog stick or look around in real life to turn; and on the Quest 2, it’s super easy to stand in the middle of the room and do just that.
+The original Warzone will relaunch later on as Call of Duty: Warzone Caldera, and players can check out the 2.0 release for free during the outage. There are also “a few items” that will be gifted to Warzone players to use in Warzone 2.0.
 
-In my time with this version I also noticed less glitches this time around, no doubt the result of two-ish years of hindsight and patches.
+All Progression Rewards in Call of Duty: Modern Warfare 2 31 Images
 
-If you have a VR headset that’s capable of running Iron Man VR, it’s slowly become one of the more “must play” games on the platform. While it likely won’t wow anyone outright, there’s enough arcadey goodness to propel you through its eight-ish hour campaign, with a few little extras in tow. Hopefully this port leads to a follow-up, because there’s a lot of potential here with bigger licensed VR games.
+However, the item bonuses end there, and player cosmetics will not carry over from the original Warzone. The Caldera relaunch is still considered a separate game and not tied to Modern Warfare II progress like Warzone 2.0. Weapon XP, Inventories, Battle Pass content, weapons, and store bundles will only be available in Caldera. Activision explained this is due to the culmination of a few obstacles in its patch notes:
+
+“This is due to a combination of feedback from the community, technical limitations, and a need to simplify the next and newest Warzone to create a seamless player experience moving forward.”
+
+The first battle royale won’t have an in-game store anymore, but COD Points can be transferred into Warzone 2.0. Unfortunately, those handy buffs in 2XP and 2WXP Tokens can’t move between games, either.
+
+For more on Call of Duty: Modern Warfare 2, make sure to check out our breakdown on everything new with the shooter.
+
+Andrea Shearon is a freelance contributor for IGN covering games and entertainment. She's worn several hats over her seven-year career in the games industry, with bylines over at Fanbyte, USA Today's FTW, TheGamer, VG247, and RPG Site. Find her on Twitter (@Maajora) or the Materia Possessions podcast chatting about FFXIV, RPGs, and any series involving giant robots.

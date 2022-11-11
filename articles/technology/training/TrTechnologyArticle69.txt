@@ -1,11 +1,63 @@
-Nintendo Switch, Nintendo Switch Lite, and Nintendo Switch OLED users can finally play 2021's best game, or at least 2021's Game of the Year winner at The Game Awards last year. As you may know, it's fairly common for Nintendo to get games after they come to other platforms. It Takes Two from developer Hazelight Studios and publisher EA is just the latest example. After coming to PlayStation and Xbox consoles, as well as PC, last year, it finally came to Switch yesterday, November 4.
+IBM and Microsoft Bring .NET to Power, After All
 
-It Takes Two specifically debuted on March 26, 2021. Upon release, it garnered an 89 on Metacritic, making it one of the highest-rated games of its year. Between launch and July 2022, it sold over seven million copies. And now that the game has come to Switch, it's likely a bit beyond this figure.
+Alex Woodie
 
-Below, you can read more about the game and check out a trailer for it as well, courtesy of EA:
+Despite initially denying the existence of a project to bring the Microsoft .NET runtime to Power, IBM this week officially announced that .NET version 7 will run on Red Hat Enterprise Linux on Power. The technology becomes available immediately, although the database driver connecting .NET applications to Db2 for i will take more time.
 
-"Embark on the craziest journey of your life in It Takes Two, a genre-bending platform adventure created purely for co-op," reads an official review of the game. "Invite a friend to join for free with Friend's Pass and work together across a huge variety of gleefully disruptive gameplay challenges. Play as the clashing couple Cody and May, two humans turned into dolls by a magic spell. Together, trapped in a fantastical world where the unpredictable hides around every corner, they are reluctantly challenged with saving their fractured relationship."
+Over the years, there have been various attempts at getting the .NET runtime unhooked from its Windows roots and replanted on the Power platform, including some targeting the IBM i operating system. In 2011, a big step forward was made with the Mono Project, which was an open source implementation of Microsoft’s .NET Framework that targeted various flavors of Linux, MacOS, BSD, and even game consoles.
 
-On Nintendo Switch, the game costs $39.99, which is how much it costs on other platforms. For that and 9.5 GB of space you can play the game right now. And also like on other platforms, the Friend's Pass -- which allows someone else to play it with you -- is free.
+In 2018, IBM i developer Calvin Buckley completed the work to get the Mono middleware running on AIX, which in turn enabled Mono to run on IBM i via the PASE AIX runtime. Buckley’s hard work, in combination with assistance from Microsoft .NET coders, was instrumental in turning the longtime dream of having a .NET runtime on the IBM i, says Jesse Gorzinski, IBM’s senior business architect for open source on IBM i.
 
-For more Nintendo Switch coverage, and for more Nintendo coverage in general, such as the latest news, rumors, leaks, deals, and speculation, click here or, alternatively, check out the links to relevant Nintendo stories right below:
+However, that .NET implementation never gained traction in the IBM i community, Gorzinski says.
+
+“We didn’t really get market adoption around that for a number of reasons,” Gorzinski tells IT Jungle. “I’m not yet convinced that there’s much of a market for running .NET on IBM i. But I’m always willing to relearn.”
+
+One of the big reasons for the lack of market adoption for the Mono port to IBM i – which Gorzinski dubbed “native” even though it ran in PASE – was that there too many missing pieces in the Mono-based .NET stack at the time.
+
+“There wasn’t enough of the ecosystem ported over to make it viable,” Gorzinski says. “There were just a lot of dependencies that applications would have that wouldn’t work.”
+
+The lack of broad technical compatibility across complex languages and runtimes, coupled with the lack of enthusiasm for .NET in the IBM i community, helped to make Buckley’s work mostly for naught.
+
+“The people who were at the time doing a whole lot of .NET development were not particularly enthralled at the ability to run it on IBM i,” Gorzinski recalls. “Imagine you’ve been writing .NET on your Windows PC for 20 years, and someone comes along and says, ‘Hey, you can now run this on a server that you keep at arm’s length.’ There wasn’t a lot of motivation for people to move those over, I don’t think.”
+
+However, the IBM, Microsoft, and open source communities kept at it. With the release of .NET 6 a year ago, a port of .NET that ran on Linux on the IBM System Z mainframe became available. This mainframe work spurred a similar project to get .NET running on Power, which IT Jungle reported in March, thanks to a tip from Torbjörn Appehl, a Sweden-based IBM contractor active in the IBM i community. IBM executives splashed cold water on the story and said there was no such project, but it turns out it was true all along. (The one bit we got wrong was that .NET isn’t required to run in a container on RHEL, which we had initially reported. IT Jungle regrets the error.)
+
+Gorzinski and others are bullish on the new port of .NET 7 to RHEL Power for one big reason: The new project builds on the initial work done by Mono, and adds support for more of the .NET ecosystem, which should enable users and projects to be more successful.
+
+For example, in addition to the Mono-based .NET Core Runtime VM and JIT, the new distribution of .NET 7 for RHEL on Power includes base class libraries, ASP.NET Core, as well as support for C#, F#, and VisualBasic compilers in the software development kit (SDK), which also includes tools like msbuild and nuget. For more details, see this blog post by Janani Janakiraman, who is an IBM software architect and a master inventor at the Austin, Texas, lab.
+
+Enabling more of the open .NET ecosystem to run on Power bodes well for the project and organizations who want .NET to have a successful future on Power, Gorzinski says.
+
+“When you look at open source projects and what open source projects are successful, I always end up saying this term ‘ecosystem,’” he says. “Just like as we talk about the languages that have been successful on IBM i, like Node.JS, JavaScript and Python, they weren’t successful until we enabled enough of the ecosystem to be successful.”
+
+Customers will employ the new .NET 7 runtime in different ways (there wasn’t much work to do in the languages themselves, Gorzinski says). Some will use this capability to employ server consolidation tactics to cut support costs. That specter was raised by Microsoft executives in a blog post on the release of .NET 7 today.
+
+“With the availability to now run natively on Power, the 25,000 plus IBM Power customers can consolidate existing .NET apps on Windows x86 to run on the same Power platform as their IBM i and AIX business apps and databases,” Microsoft employees Jon Douglas, Jeremy Likness, and Angelos Petropoulos write.
+
+Customers running .NET workloads on X86 will have to do the math to see if it makes sense to consolidate them on Power, but fresh .NET development on Power will be an attractive option for existing developers with .NET skills, Gorzinski says.
+
+“My personal prediction [is] I expect we’re going to see more greenfield development on these Linux systems in .NET based languages on Power and perhaps on X86,” Gorzinski says, citing the 2022 IBM i Marketplace Study from HelpSystems (which just changed its name to Fortra; see another story in this edition of The Four Hundred), which says that 55 percent of IBM i shops have some Linux, including 30 percent to 35 percent running on X86 and about 20 percent running on Power
+
+While it’s not a native port, getting .NET applications onto the Power platform is a good first step in bringing .NET applications closer to IBM i data. Gorzinski cites studies that show a high rate of Windows usage in IBM i shops, and the popularity of database drivers that connect .NET applications running on Windows to the Db2 for i database.
+
+IBM continues to work on enhancing the ODBC driver that will allow .NET applications running in RHEL on Power to directly access the Db2 for i database. There is no word yet on the timing of the delivery of that driver, but Gorzinski assured IT Jungle that the work continues and will bear fruit soon.
+
+“I can’t say we we’ve . . . fully certified the new .NET 7 runtime on RHEL connecting to Db2 for i, although all the pieces have been there,” he says. “We have a fair share of .NET developers writing IBM i applications, as you likely know, and so we have done things to improve the availability of the ODBC driver, make those easier to install, even into container images, and things like that.”
+
+IBM has also added support for TLS encryption in the ODBC driver, which will help to ensure the security of .NET applications access the Db2 for i database. IBM is doing this work in response to customer demand.
+
+“Part of the reason that all of that has been happening is to enable ecosystems like .NET who want to be able to talk to an IBM i system from adjacent technologies, whether that’s Linux on Power or others,” Gorzinski says.
+
+Red Hat is providing the packaging and support for .NET 7 on Power, according to Janakiraman. “Fully supported RPM packages and container images built from those sources for ppc64le are provided by Red Hat,” she writes.
+
+More details on .NET for Power, including instructions on how to download and install it, can be found here.
+
+RELATED STORIES
+
+No Plan To Bring .NET To Power, IBM Says
+
+Project Aims to Port .NET Framework to Power
+
+Mono Port To IBM i Now Available
+
+Does Native .NET Support Matter for the System i?

@@ -1,0 +1,25 @@
+YouTuber JayzTwoCents just released a video showcasing what would have been EVGA's RTX 4090 FTW3 graphics card, featuring an early prototype model that was delivered to him by EVGA directly. The card's existence perfectly demonstrates how abrupt EVGA's decision to leave the GPU market was, with its engineers working on future RTX 4090 models at the very moment EVGA broke ties with Nvidia.
+
+To quickly recap, EVGA left the GPU market for good two months ago, which was announced by JayzTwoCents and Gamers Nexus on YouTube. The company reportedly left due to an unsatisfactory partnership with Nvidia -- and the move was abrupt, with only a couple of EVGA's higher-up leaders knowing about the decision before the news officially went public via the YouTubers.
+
+
+
+Jay says he was actually shown a prototype RTX 4090 just like the one he has now, during his and Steve's (Gamers Nexus) talk with EVGA. This was shown to both of them to demonstrate (again) how truly abrupt and serious EVGA's decision was to leave the GPU market.
+
+The card itself is a very early prototype model with the GeForce RTX 4090 badging replaced with "Next gen Graphics" due to licensing issues that would occur if the card was shown in public since EVGA no longer is in partnership with Nvidia.
+
+The card shown has the FTW3 badge on it, so we know that this would have been one of EVGA's flagship 4090 variants. The card itself is surprisingly compact for an RTX 4090 partner card, with three massive fans on the front, and an elegant (for a high-end GPU) matte black-on-silver aesthetic.
+
+(Image credit: YouTube - JayzTwoCents)
+
+Compared to the RTX 3090 and 3090 Ti FTW3 models, this prototype FTW3 features a noticeably bigger form factor and substantially larger fans. From a visual perspective, the silver accents on the top and bottom of the shroud are a significant departure from the previous generation's pure black finish. Overall, the card is a bit more subdued, rather than a pure aggressive gaming theme like we're used to seeing on other cards.
+
+According to Jay, the card's structural rigidity was particularly impressive to see, with the rear I/O backplate screwed directly into the GPU shroud to prevent GPU sagging. Jay demonstrated this by putting the GPU into a case and the card showed zero sag, despite the card's roughly four PCIe slot-wide thickness.
+
+The last thing to mention about the card's design is the 16-pin power connector, which is at the rear of the card, forcing the power cable to the rear as well, instead of the front. FThis design choice will make the card look a lot cleaner when installed, compared to other 4090 models. However, users would have needed additional clearance at the front of their chassis, to accommodate the extra cable length.
+
+Surprisingly the card is functional, with Jay demoing their running Unigine Heaven in a system. But according to Jay, the card is apparently running a "home made" vBIOS since this is, again, a very early prototype card. As a result, the card does not feature a higher-than 100% power limit in GPU overclocking software, so GPU core overclocking is limited on the card.
+
+Nonetheless, Jay overclocked the card, and was surprised by the GDDR6X memory quality, which hit a 1900MHz positive offset. According to Jay, this memory frequency is one of the highest he's ever seen, only matched by MSI's RTX 4090 Suprim X AIB partner card. It's a shame the power limit is locked, or else he likely could have used this card to hit some incredibly high benchmark scores.
+
+While it's sad to see EVGA leave the GPU market for good, at least this card gives us one last chance to see what EVGA was working on, right up until the very end.

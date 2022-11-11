@@ -1,24 +1,11 @@
-If someone were planning on burglarizing a building, it would help if they knew in advance where valuable gadgets such as smart TVs and laptops were located. A new study suggests that a drone equipped with a cheap "Wi-Peep" device could allow them to do so, by seeing through the building's walls.
+The Walmart Black Friday sale has started early this year. By doing so, it gives shoppers the chance to beat the rush and get the products they want now instead of having to wait, all while enjoying Black Friday prices immediately. One of the best deals for gamers right now is on the HP Pavilion Gaming Desktop. Normally priced at $1,499, it’s down to $999 for a limited time only, saving you a sizeable $500 off the usual price. A considerable discount, if you’ve been looking to buy a new gaming PC, we’re here to tell you why this is the one for you. Buy it now while stock lasts.
 
-The potential security problem was discovered by a team of scientists at Canada's University of Waterloo, led by Dr. Ali Abedi.
+Why you should buy the HP Pavilion Gaming Desktop
 
-It exploits an existing technological weakness that the researchers call "polite Wi-Fi." This monicker refers to the fact that even within password-protected Wi-Fi networks, Wi-Fi-enabled devices still respond to contact attempts made by any other device within range.
+One of the best value Black Friday gaming PC deals available today, the HP Pavilion packs a lot into its stylish yet understated black and green shell. That includes a powerful Intel Core i7 processor along with 16GB of memory. It also has two hard drives in the form of one speedy SSD-based one of 512GB in size, as well as 1TB of regular storage space for storing files that you don’t need to access so quickly. It’s the ideal combo for anyone looking to have a lot of games installed at once.
 
-That's where the Wi-Peep comes into play.
+Additionally, the HP Pavilion Gaming Desktop’s gaming prowess comes from its Nvidia GeForce RTX 3060 graphics card. A good quality graphics card for the price, it’s a reliable bet for all the latest games. The system may not quite rival the best gaming desktops but at this price, it’s well worth your time and money. It’s well-designed too with a series of USB ports and other connectors all located on the front so that it’s easy to hook up all your accessories without needing to dig around to find the right ports. On the back are HDMI and VGA ports for hooking up your monitor so you can soon forget about those cables. Stylish to look at, the HP Pavilion Gaming Desktop will suit your gaming den or even home office without standing out excessively.
 
-Created by the scientists from just $20 worth of off-the-shelf electronics, the 10-gram (0.4-oz) device is mounted on an ordinary consumer drone, which is then flown around the outside of a building. As the drone does so, the Wi-Peep transmits Wi-Fi signals – these travel through the walls and into the building, where they're detected by any Wi-Fi-connected devices present.
+Normally priced at $1,499, the HP Pavilion Gaming Desktop is down to only $999 right now at Walmart. A great price on an equally great gaming desktop, you’re sure to be delighted with the results here. Buy it now before you miss out on this excellent bargain.
 
-Those devices reply with a signal of their own, which is picked up by the Wi-Peep. By measuring how much time passes between the initial signal being sent and the response being received, it's possible to ascertain the location of devices inside the building, to within a range of 1 meter (3.3 ft).
-
-Along with being used to scope out buildings for possible burglaries, the technology could conceivably also be utilized to see where guards are located in businesses such as banks, by tracking the locations of their smartphones or smart watches.
-
-It should be noted that there are already experimental systems that use Wi-Fi to spot and track people through walls, by emitting signals and then tracking the reflections of those signals off the people's bodies. Such setups are still fairly complex and cumbersome, though, so they would be much less stealthy than a small remotely controlled, Wi-Peep-equipped drone.
-
-"On a fundamental level, we need to fix the polite Wi-Fi loophole so that our devices do not respond to strangers," said Abedi. "We hope our work will inform the design of next-generation protocols."
-
-One of his suggested short-term solutions involves introducing an artificial, randomized variation in device response times, which would mask their location relative to a Wi-Peep-like apparatus.
-
-A paper on the research was recently presented at the 28th Annual International Conference on Mobile Computing and Networking.
-
-Source: University of Waterloo
-
+Editors' Recommendations

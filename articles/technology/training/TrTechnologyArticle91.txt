@@ -1,7 +1,27 @@
-'ZDNET Recommends': What exactly does it mean?
+Olivia Richman • November 8, 2022 10:01 pm
 
-ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other relevant and independent reviews sites. And we pore over customer reviews to find out what matters to real people who already own and use the products and services we’re assessing.
+Some things just make us wonder, “Why?”
 
-When you click through from our site to a retailer and buy a product or service, we may earn affiliate commissions. This helps support our work, but does not affect what we cover or how, and it does not affect the price you pay. Neither ZDNET nor the author are compensated for these independent reviews. Indeed, we follow strict guidelines that ensure our editorial content is never influenced by advertisers.
+One recent thing to make us question everything we know in life is an Oculus system that kills you in real life if you die in a game. Oculus VR founder Palmer Luckey decided to create this shocking video game after seeing a similar device used in Sword Art Online.
 
-ZDNET's editorial team writes on behalf of you, our reader. Our goal is to deliver the most accurate information and the most knowledgeable advice possible in order to help you make smarter buying decisions on tech gear and a wide array of products and services. Our editors thoroughly review and fact-check every article to ensure that our content meets the highest standards. If we have made an error or published misleading information, we will correct or clarify the article. If you see inaccuracies in our content, please report the mistake via this form.
+According to an unhinged blog post from Luckey himself, “the popularity of SAO led to massive otaku enthusiasm for Oculus, especially in Japan.” This allegedly made the concept within Sword Art Online “far more plausible” somehow. And Luckey was starting to get asked when he would create the device, known as NerveGear, in real life. The Oculus was the closest thing to the deathly game gear in SAO, leading fans to apparently want Luckey to make this happen.
+
+And it sounds like they asked the right person.
+
+Wrote Luckey: “The idea of tying your real life to your virtual avatar has always fascinated me — you instantly raise the stakes to the maximum level and force people to fundamentally rethink how they interact with the virtual world and the players inside it.”
+
+Palmer Luckey, the founder of Oculus VR, has designed a headset that will kill you via explosive charge in real life if you die in a video game… ya pic.twitter.com/bmH87dNsMQ November 8, 2022
+
+How to create a VR headset that kills you
+
+While excellent graphics make a game look more real, it still doesn’t feel real since there are no serious consequences. This has never been explored, Luckey said. Gee, we wonder why. But for the strange few that are hoping to explode while playing Elden Ring, you’re in luck.
+
+“The good news is that we are halfway to making a true NerveGear The bad news is that so far, I have only figured out the half that kills you. The perfect-VR half of the equation is still many years out,” Luckey revealed.
+
+In Sword Art Online, the NerveGear had a microwave emitter that could reach lethal levels. But Luckey couldn’t figure out how to make that work despite being a “pretty smart guy.” Instead, Luckey decided to use three explosive charge modules (apparently from another project he’s working on…), The charges are tied to a narrow-band photosensor that detects when the screen flashes red. When a game over screen is displayed, the payload fires, which instantly kills the VR user.
+
+To the shock of many, “this isn’t a perfect system.” Luckey has to tamper with it a bit in order to not wrongfully kill people that didn’t die in the game. Now that would be a tragedy. The only way to safely ensure that it’s just losers who get exploded, Luckey said, is to tie the NerveGear to some “high-intelligence agent” that can determine if the conditions for termination are accurate. Only then would Luckey dare try out the NerveGear himself.
+
+Until then, Luckey is keeping the gamer killer around as “a piece of office art.” He described it as “thought-provoking,” explaining that it’s currently an unexplored avenue in game design. It seems like Luckey is on the forefront of a new way of gaming, paving the way for new VR technology that kills its users in even more exciting ways.
+
+In the future, there may no longer be noobs in your Call of Duty lobby and feeders in your ranked League of Legends games. Only the best gamers will survive to play again. Until then, have fun being terrible. You may not be able to enjoy bringing your teammates down forever.

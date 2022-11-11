@@ -1,43 +1,15 @@
-The launch of Overwatch 2 has revamped Blizzard's hero shooter with a brand new seasonal content release schedule, promising fans a new hero, map, or game mode at the start of each of the game's nine-week long seasons. During the 2022 Grand Finals of the Overwatch League, the developer officially revealed the latest character that players will be able to get their hands on when Overwatch 2 Season 2 begins: Ramattra, an omnic tank hero that originally appeared in the final cutscene of the Overwatch Storm Rising event in 2019.
+iPhone 14 models have an Emergency SOS via Satellite feature
 
-Though Blizzard hasn't provided fans with many details about Ramattra yet, there is some information from a recent preview event Windows Central was invited to that we can share. Here's a look at everything we know so far about Ramattra, including a few of his gameplay abilities, his origin story, when he'll be available in-game, how you'll be able to unlock him, and more.
+AppleInsider may earn an affiliate commission on purchases made through links on our site.
 
-(Image credit: Activision Blizzard)
+Apple has released iOS 16.1.1, iPadOS 16.1.1, and macOS Ventura 13.0.1 with bug fixes, minus the expected iPhone 14 Emergency SOS via Satellite feature.
 
-Blizzard has confirmed that Ramattra will be added to the game at the start of Overwatch 2 Season 2, which is currently slated to begin on December 6, 2022. At this time, he will become available to unlock and play in Quick Play and Arcade matches, although he won't be usable in ranked Competitive Play for several weeks.
+The new updates were expected as there was an ongoing issue with Apple's ad network that needed an update to address. Speculation suggested that Emergency SOS via Satellite would be activated in iPhone 14 models with this update, but that hasn't arrived yet.
 
-The reason why this is the case is because the developers want to give free-to-play users a significant period of time to unlock new heroes from the Battle Pass before they can be used in Competitive. Additionally, this buffer period also allows Blizzard to make balance adjustments to new characters if necessary, hopefully preventing them from feeling too weak or too strong in the meta.
+Available updates include iOS 16.1.1, iPadOS 16.1.1, and macOS Ventura 13.0.1. Release notes only contain a vague bug fix and security update statement.
 
-Overwatch 2 Ramattra: Gameplay abilities
+Users should see a notification for the update, and it will install automatically overnight for most. However, if you'd like the update to install right away, it will need to be initiated manually.
 
-Ramattra in Omnic Form, utilizing a staff-type weapon from afar. (Image credit: Activision Blizzard)
+Open the Settings app Scroll down and tap "General" Tap "Software update" Select the software update option when it appears
 
-While Blizzard hasn't revealed Ramattra's full ability kit yet, we do know that he's going to be a dynamic character with the ability to switch between two different forms that have distinct strengths and weaknesses. In his default "Omnic Form," Ramattra can create barriers to protect his teammates and poke at the enemy with ranged attacks using a staff-type weapon. In this state, he'll be more effective from a distance.
-
-When he enters his "Nemesis Form," though, Ramattra becomes much larger and tankier and gains the ability to brawl up close with shield-piercing punch attacks. Using Nemesis Form well will give Ramattra players several opportunities to smash through enemy backlines and contest objectives effectively, although Blizzard noted to us that his larger size while the ability is in use will make him an easier target for high-damage tankbusting abilities and crowd control skills like Ana's Sleep Dart. Similar to how Reinhardt players have to correctly judge when to "hold W" and when to retreat, knowing when to attack with Nemesis Form and when to play more passively with Omnic Form will be crucial.
-
-While the developers didn't tell us anything specific about Ramattra's Ultimate ability, it was hinted to us that it was close-range in nature and that it would enable him to forcefully take space. We expect that this will make the ability fantastic for contesting objectives or controlling tight chokepoints, though it probably won't be effective on enemies far away from Ramattra while active.
-
-While information about Ramattra's abilities is limited for now, Blizzard plans to share more about his kit in the weeks leading up to Overwatch 2 Season 2.
-
-Overwatch 2 Ramattra: How to unlock
-
-Ramattra in his Nemesis Form, which has more armor health and gives him the ability to devastate foes with punching attacks. (Image credit: Activision Blizzard)
-
-Much like the way the process of unlocking Kiriko worked, free-to-play players will need to reach Tier 55 on the Season 2 Overwatch 2 Battle Pass in order to unlock Ramattra. Battle Pass tiers can be unlocked by completing matches and finishing gameplay challenges to earn XP, though players can also directly purchase individual tiers with Overwatch Coins if desired.
-
-Note that if you choose to purchase the Premium Battle Pass reward track, you'll get instant access to Ramattra. The Premium Battle Pass costs 1,000 Overwatch Coins to purchase, which is $10 worth.
-
-Overwatch 2 Ramattra: Cinematic and origin story
-
-Below, you'll find the official origin story for Ramattra, which gives fans a look at his background as a former Shambali monk who ultimately went on to form Null Sector in response to the numerous hate crimes committed against omnics around the world.
-
-In-game, players can expect multiple interactions between Ramattra and Zenyatta, who Blizzard says are so close that they consider each other brothers. Where Zenyatta advocates for peaceful resolutions, however, Ramattra believes that more violent and forceful methods are required in order to secure safety for the omnics. As an extremely pragmatic leader with full confidence in his convictions, Ramattra is prepared to do whatever it takes to protect his people against humanity's prejudices.
-
-Interestingly, Null Sector is a faction that players will face off against in Overwatch 2's PvE campaign missions that are coming later in 2023.
-
-Overwatch 2 Ramattra: Voice actor
-
-Ramattra's voice actor is Ramon Tikaram, a British stage and screen actor that has played a wide variety of roles across theatre, film, television, and video games. Notably, he has appeared in Game of Thrones, Fable III, Dark Souls 3, Subnautica, Elden Ring, and more.
-
-Overwatch 2 is available now on Xbox Series X|S, PS5, PS4, PC, and Nintendo Switch. It's arguably one of the best Xbox shooters available, and since it's free-to-play, it doesn't cost anything to check it out. Alternatively, players can purchase the Overwatch 2: Watchpoint Pack that provides access to Season 1's Premium Battle Pass, 2,000 Overwatch Coins, and a bundle of unique Legendary skins.
+Open the System Settings app Click "General" Click "Software update" Click the software update option when it appears

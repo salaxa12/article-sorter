@@ -1,47 +1,17 @@
-Cherry, the original mechanical switch maker, is continuing to tap the mechanical keyboard community for new product ideas. Its new mechanical switch, the Cherry MX Black Clear-Top, is a nod to enthusiasts who would love to turn in their modern-day clacker for an old-school terminal keyboard with extra-smooth typing.
+World of Horror launches in Summer 2023 for PlayStation 5, PlayStation 4, Nintendo Switch, and PC
 
-’80s roots
+During today's Indie World Showcase presentation, Ysbryd Games announced that World of Horror will launch in Summer 2023.
 
-Before Cherry's Thursday announcement of plans to release the MX Black Clear-Top, the switch was known to hobbyists as the Nixie switch. Cherry made the switch in the 1980s for German office machine-maker Nixdorf Computer AG. The German switch maker was tasked with creating a version of its linear MX Black switch with "milky" upper housing, a 63.5 g actuation force rather than 60 g, and "the relatively rare solution at the time of having a diode integrated into the switch for n-key rollover," Cherry's announcement explained.
+Although the Indie World presentation was specifically for Nintendo Switch titles - and thus the trailer only shows a Switch logo - World of Horror will also launch for PlayStation 5 & PlayStation 4. The Steam version will leave Early Access at the same time, having originally launched in February 2020.
 
-The linear switch ended up being used primarily in Nixdorf's CT06-CT07/2 M Softkeys keyboards targeted at terminals, servers, and minicomputers.
+A new trailer, description, and screenshot set can be found below, via Ysbryd Games.
 
-Siemens' acquisition of Nixdorf in 1990, however, essentially meant the end of production of the keyboards and the black-and-white switches that lived within them.
+World of Horror, the unsettling cosmic horror retro RPG from developer panstasz and publisher Ysbryd Games, enters your nightmares in Summer 2023 when it leaves Early Access and fully launches on Nintendo Switch, PlayStation 5, PlayStation 4, and PC. Features Solve twisted mysteries inspired by cosmic horror and Eldritch mythology, with procedurally generated combat encounters, twists, and endings
 
-Rare to find
+Survive challenging RPG combat where every decision means life, death, or madness
 
-That has made the Nixie switch quite the rarity for keyboard DIYers, as you need to get your hands on one of those old terminal keyboards in order to find them. Sightings of keyboards with the switches have garnered wide interest since they became so hard to find (just look at this forum post on mechanical keyboard enthusiast site Geekhack with more than 5,200 reads).
+Create spookier adventures with a full set of modding tools. Create your own mysteries, remix existing ones, or brave the sadistic creations of friends
 
-Advertisement
+Enjoy haunting 1-bit artwork drawn entirely in Microsoft Paint. Fill in the cinematic gaps with your fearful mind’s eye Travel back to 198X and solve disturbing cases in a tranquil, seaside Japanese town. Maintain your health and sanity as the incomprehensible Old Gods reach through the veil. Perform dark rituals to reveal new clues, fend off abominable curses and status effects, and scavenge weapons and consumables to survive what’s around every corrupted corner. World of Horror offers eternal madness with multiple difficulty levels, 16 curated mysteries and challenges, and deeply customizable parameters and mods.
 
-As such, resellers tend to charge a pretty penny. Redditors pointed to Nixie switches going for $3 to $5 each, and in 2018, we even saw someone attempt to sell them for 7.6 euro each. For comparison, you can buy a Cherry MX Black switch for $0.69 each right now.
-
-What’s so special about this switch?
-
-But what's so great about typing with this switch? The switch formerly known as Nixie is like an MX Black switch but with a heavier actuation force requirement and a more striking appearance. The linear switches each have 4 mm of travel and 2 mm of pre-travel; however, the MX Black Clear-Top switches require more force to start depressing (40 g versus 30 g for MX Black switches).
-
-Like with many mechanical switches, obsession is based on reportedly admirable smooth travel and what Cherry described as "decent acoustics."
-
-Switch reviewer ThereminGoat, described the Nixie switch as "absolutely" smoother than "most" Cherry switches.
-
-They also said the switch makes a "solid, muted, and deep bottoming out noise; whereas, the topping out noise is ever so slightly thinner and shifted toward a higher pitched sound." Curious ears can check out Chyrosran22's review of the Nixdorf CT06-CT07/2 M Softkeys on YouTube (among others) to hear more.
-
-Advertisement
-
-With a nearly mythical reputation like that, you might wonder why Cherry decided to rebrand the Nixie to a name with much less imagination.
-
-Cherry said it renamed the Nixie switch to reflect "enhancements" it made. The switch looks like it used to, but Cherry will sell it with Krytox GLP 205 Grade 0 Grease inside for "lower-friction actuation with optimized acoustics without negatively affecting the typing feel" or durability claims. This a popular lubricant, especially for linear switches like the MX Black Clear-Top.
-
-This may be a wise investment, as ThereminGoat said the Nixies were "not free from scratch," and not as impressively smooth compared to some of today's switches, which, of course, include much more than Cherry brand options.
-
-For those who prefer a different type of lubrication or to do it themselves, Cherry is also releasing a lube-free version of the MX Black Clear-Top.
-
-Additionally, some (although not Cherry) might say the switch's descriptive name falls more in line with how Cherry's other switches are named (MX Black, MX Red, MX Brown, et cetera).
-
-The new name also hints at the switch's connection to the MX Black.
-
-Overall, Cherry claims the switch improves on the '80s design because it's made with modern manufacturing techniques, enabling a 50 million actuation warranty. It goes without saying that switches harvested from a decades-old keyboard you found at a thrift store or on eBay do not have comparable durability claims.
-
-Cherry said MX Black Clear-Top mechanical switches will be available from "all official distributors worldwide" at the start of 2023.
-
-The switch is the second release from Cherry that was recently inspired by community interests. Last month, it announced the Cherry MX Ergo Clear, based on a so-called Frankenswitch (a mechanical switch that combines parts from different switches) design shared by an enthusiast in a forum post in 2011.
+World of Horror

@@ -1,19 +1,60 @@
-AMD and Nvidia don’t typically reference each other by name at public events, but at its RX 7000 and RDNA 3 launch, AMD just made some indirect nods to Nvidia’s recent problems with melting power adapters.
+This month’s helping of PlayStation Plus games is as stuffed as a Thanksgiving turkey. A little seasonal analogy for you there, ahem. Anyway, it’s looking like a fantastic month for fans of a variety of popular game series.
 
-“There’s no need to rebuild your desktop. No need to upgrade your case. And there’s no need for a new power adapter,” said Scott Herkelman, head of graphics at AMD, with a sly smile on his face. “We made it as easy as pulling out your old card and putting in a new one.”
+Despite the subscription service recently losing nearly two million subscribers after a confusing relaunch—and adding an even more confusing PlayStation 5 discount program—the Sony faithful will be eating well when new PS Plus additions like Rainbow Six Siege, Skyrim, and a treasure trove of Kingdom Hearts games make their way to the paid service this month.
 
-The comment was met by a smattering applause from the crowd, happy to praise AMD’s use of more conventional power adapters. The reference made by AMD is to Nvidia’s recent problems with its RTX 4090.
+Advertisement
 
-Nvidia has been using the smaller 4×8-pin power connection since the RTX 30-series line, which requires an adapter to a standard 16-pin. The connection is awkward and ugly when installed in a case, but when it came to the RTX 4090, it’s produced some much more worrying effects, with reports of melting adapters spreading across the internet like wildfire.
+Here’s the full list of what gets added to PS Plus Extra and Premium on November 15:
 
-This happened despite the fact that prior to launch, Nvidia made confident statements about the 8-pin connector not having problems, despite the new 450-watt power draw of the new GPU.
+Chorus (PS4, PS5)
 
-By contrast, AMD’s new RX 7900 XTX and 7900 XT both use a standard 16-pin connector, which avoids any potential overheating problems and doesn’t require an adapter to plug into your power supply.
+The Elder Scrolls V: Skyrim – Special Edition (PS4, PS5)
 
-The comment about not needing a new case made by Herkelman is also a reference the size of the RTX 4090, which remains larger than some PC cases can support. Both the RX 7900 XTX and 7900 XT are a “2.5 slot size,” compared to the triple-slot design of the RTX 4090. By comparison, the 7900 XTX is 287mm long, while the RTX 4090 is 336mm long.
+The Gardens Between (PS4, PS5)
 
-AMD also directly called out “its competitor” when talking about ports. The RX 7900 XTX and 7900 XT both support DisplayPort 2.1, which allows for higher refresh rates at high resolutions, including up to 165Hz 8K. The RTX 4090, meanwhile, is stuck on DisplayPort 1.4a, which is capped at 60Hz for standard format 8K monitors.
+Kingdom Hearts HD 1.5 + 2.5 ReMIX (PS4)
 
-Of course, the most important direct comparisons between the RX 7900 XTX and the RTX 4090 weren’t mentioned. AMD did call its own GPU the “most powerful GPU under $1,000,” but that’s not saying much considering how expensive Nvidia’s latest cards are. We’ll have to wait until we get the new AMD GPUs in next month to see how the direct performance comparisons play out.
+Kingdom Hearts HD 2.8 Final Chapter Prologue (PS4)
 
-Editors' Recommendations
+Kingdom Hearts III (PS4)
+
+Kingdom Hearts: Melody of Memory (PS4)
+
+Tom Clancy’s The Division 2 (PS4)
+
+Tom Clancy’s Ghost Recon Breakpoint (PS4)
+
+Tom Clancy’s Rainbow Six Siege (PS4, PS5)
+
+Oddworld: Soulstorm – Enhanced Edition (PS4, PS5)
+
+What Remains of Edith Finch (PS4)
+
+If you’ve been feeling inspired by Florida’s newly elected Gen-Z congressperson and self-confessed Kingdom Hearts fan Representative Maxwell Frost, now’s as good a time as any to brush up on your Disney Final Fantasy nonsense. Obviously, PS Plus doesn’t have all of the Kingdom Hearts games available, but it’ll definitely give you a great head start. You’ll be battling in empty parking lots in no time.
+
+G/O Media may get a commission 95% off Dollar Flight Club Premium Plus+ Plan Lifetime Subscription (2-Pack) 95% off your travel dreams.
+
+Leave those dreamy “what if” plans behind, and start checking out deal alerts for domestic and international flights leaving from your four favorite departure airports. Buy for $150 at StackSocial Advertisement
+
+In addition to the legion of Tom Clancy and Kingdom Hearts games, Earth Defense Force: World Brothers, Earth Defense Force: Iron Rain, and Onee Chanbara Origin are coming to PS Plus this month as well.
+
+Also, hope you like the Ratchet & Clank franchise, because subscribers to PS Plus Premium, the third and most expensive tier of the service ($18 a month), are getting a bunch of classics from the series. Here be your Ratchet & Clank helpings:
+
+Advertisement
+
+Ratchet & Clank
+
+Ratchet & Clank 2: Going Commando
+
+Ratchet & Clank: Up Your Arsenal
+
+Ratchet & Clank: Deadlocked
+
+Ratchet & Clank Future: Tools of Destruction
+
+There are literally not enough hours in a single month to play all of these games. Forget holiday feasting, Sony’s ensured all your free time’s already spoken for.
+
+Advertisement
+
+
+

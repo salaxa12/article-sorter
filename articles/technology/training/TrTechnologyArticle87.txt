@@ -1,1 +1,43 @@
-The iconic keyboard switch manufacturer Cherry has announced a new product today, but it's technically a very old product. You might not spend a lot of time thinking about the keyboard in front of you, but mechanical keyboard enthusiasts certainly do. The more obsessive among them will gladly seek out decades-old, ultra-rare keyboard switches to give their typing experience a little something extra. Thanks to Cherry, one of those classic switches will be easier to come by. Cherry has announced it will manufacture the MX Black Clear-Top for the first time in more than 30 years.Keyboard switches come in three basic flavors: tactile, linear, and clicky. The standard MX Black switch is linear, meaning the force increases consistently throughout the press with no click or tactile bump in the middle. The MX Black is Cherry's oldest design, but it did make some variations. The MX Black Clear-Top was produced in the 1980s for a company called Nixdorf Computer AG. These switches, sometimes called Nixies, are among the rarest Cherry-style switches in the world, commanding a price of up to $7 per switch.The difference between a Nixie and a standard MX Black is subtle but important to keyboard nerds. Rather than the opaque black case, Nixies have a translucent top. The spring weight is also slightly different -- the bottom force is a bit lower, but the actuation force is a touch higher. The original Nixies also had a diode inside rather than on the board, but the re-release won't include that.Cherry will make two versions of the retro switch , one with factory lubricant and one without. The unlubricated version is for enthusiasts, many of whom want to carefully select and apply lubricant to switches themselves. The pre-lubed version will be fine for all but the pickiest. It'll have Krytox GPL 205 Grade 0 lubricant inside, which is what a lot of enthusiasts would use on a linear switch anyway.The new Nixies should begin appearing early next year, but they'll be loose switches you have to plug into a keyboard yourself. Some boards could ship with them pre-installed, but that won't happen until later. NovelKeys, a retailer I have used many times, already has Nixies up for pre-order at $21.60 per 36-count box. That works out to $0.60 per switch.
+The founder of virtual reality (VR) firm Oculus claims he has designed a new headset that can kill you in real life if you die in a game.
+
+Palmer Luckey said the device was inspired by Sword Art Online, the Japanese novel series-turned-anime in which players are trapped in an online role-playing game where death in the game means death in the real world because of the killer “NerveGear” headset they wear.
+
+Luckey launched Oculus in 2012, before selling it to Facebook for $2 billion (€1.99 billion) in 2014.
+
+During his tenure at the helm, he created the Oculus Rift and other VR tech that now underpins Meta’s big bet on the metaverse - an alternative world where you can work, play and meet people without leaving your home.
+
+“The idea of tying your real life to your virtual avatar has always fascinated me – you instantly raise the stakes to the maximum level and force people to fundamentally rethink how they interact with the virtual world and the players inside it,” Luckey wrote in a now-viral blog post.
+
+“Only the threat of serious consequences can make a game feel real to you and every other person in the game”.
+
+When ‘game over’ blows your head up
+
+Luckey, who left Oculus in 2017 and founded Anduril Industries, a high-tech military contractor, went on to detail that he was working on a real-life version of the NerveGear and was “halfway” there.
+
+When an appropriate game-over screen is displayed, the charges fire, instantly destroying the brain of the user Palmer Luckey American entrepreneur
+
+“The bad news is that so far, I have only figured out the half that kills you,” he wrote. “The perfect-VR half of the equation is still many years out”.
+
+Luckey explained the device is connected to “three explosive charge modules” that are tied to a “narrow-band photosensor that can detect when the screen flashes red at a specific frequency”.
+
+“When an appropriate game-over screen is displayed, the charges fire, instantly destroying the brain of the user,” he said.
+
+Having skin in the game
+
+As ARS Technica points out, there have been previous attempts to raise the stakes for gamers.
+
+In 2001, a “PainStation” art installation in Germany threatened players who lost a game of Pong with "sensations such as heat, punches and electroshocks of varying duration," as Wired described at the time.
+
+The game would end only when a player found the pain was too much to bear.
+
+That same year, the "Tekken Torture Tournament" saw 32 participants play the popular Playstation fighting game Tekken 3 while wearing shocking arm straps that gave them “bracing but non-lethal electrical shocks in correspondence to the injuries sustained by their onscreen avatars".
+
+Fast-forward two decades, and we’re now talking of a murderous VR headset.
+
+Luckey cautioned, however, that his new system isn’t “perfect”.
+
+“There are a huge variety of failures that could occur and kill the user at the wrong time,” he wrote.
+
+“This is why I have not worked up the balls to actually use it myself”.
+
+At this point, the killer headset is just a piece of office art, he concluded, “a thought-provoking reminder of unexplored avenues in game design”.

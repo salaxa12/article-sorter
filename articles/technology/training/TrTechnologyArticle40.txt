@@ -1,7 +1,29 @@
-The Pokemon franchise is not just a Nintendo IP. It’s actually owned by 3 different companies. Nintendo, Creatures Inc. and Game Freak are all involved in the development process of new Pokemon games. One of the 3 companies, Creatures Inc., has been discovered by a Reddit user to be currently hiring.
+For some time, Apple has made its respect for user privacy a key selling point over rivals with skin in the advertising game like Google, leading the way with key initiatives like App Tracking Transparency blocking data sharing.
 
-They are currently looking for a 3D CG modeler, according to a recent job listing. However, what makes the job listing somewhat interesting is that it mentions “research and development for other next-generation hardware”. It also mentions the Unity and Unreal Engine video game engines as in the same service overview that the job listing has.
+This might make users believe that Apple has no interest in user data itself. But according to tests carried out by a pair of app developers and “occasional security researchers," this isn’t the case at all.
 
-Source / Via
+According to Tommy Mysk and Talal Haj Bakry — who together make the software company Mysk — Apple’s own apps collect a “shocking” amount of detail about user behavior that is then sent back to the company.
 
-Like this: Like Loading...
+
+
+The pair examined several stock iPhone apps including Apple Music, Apple TV, Books, Stocks and the App Store itself on both a jailbroken iPhone running iOS 14.6 and a regular phone running iOS 16. While they couldn’t see the exact data being sent on the latter due to the company’s encryption, the packets and web addresses matched what was being sent on the jailbroken phone where they could see everything in detail.
+
+For the App Store, this included information on everything an iPhone owner does in real time: what you tap on, searches, ads seen, time spent on a page and where you found it. All of this was sent to Apple, alongside device information like ID number, phone model, keyboard language, connection type and screen resolution.
+
+“The level of detail is shocking for a company like Apple,” Mysk told Gizmodo (opens in new tab). “I expected from a company like Apple, that believes that privacy is a fundamental human right, to collect more generic analytics.”
+
+Notably, using Apple’s own opt-out didn’t seem to make any difference to the analytics sent to the company. “I switched all the possible options off, namely personalized ads, personalized recommendations, and sharing usage data and analytics,” Mysk said.
+
+Crucially, Mysk’s other assessments of both Chrome and Edge found that neither app would send analytics data when the setting was turned off, meaning this isn’t just par for the course in Silicon Valley.
+
+The only silver lining to all of this is that both Apple’s Health and Wallet apps sent no analytics whatsoever to the company. But while it will be a relief to hear that your finances and health data aren’t immediately available to Apple, it’s worth remembering that this can still be inferred by other things: if you search for MyFitnessPal in the App Store, for example, Apple could figure out you’re looking to lose a few pounds, even if Apple Health isn’t sharing your exact weight.
+
+So how can Apple square the circle of its big words on privacy while still collecting data for its own internal records? The key might be in the word “internal." App Tracking Transparency doesn’t let apps collect data from other iPhone activity, but obviously, Facebook is still free to see what you do on your Facebook app. Apple could fairly say it’s just doing the same thing, even if it makes some of its past statements on privacy ring a little hollow (opens in new tab).
+
+Indeed, Apple’s own page on its advertising policies (opens in new tab) suggests as much. “Apple’s advertising platform does not track you,” it reads, before giving a fairly loose definition of tracking.
+
+It means, according to Apple, that it “does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers.”
+
+But that doesn’t mean it doesn’t track for its own records. Something to bear in mind, given the company is reportedly aiming to take its $4 billion advertising business into double digits in the next few years.
+
+Next: Take that, Samsung. iPhone V concept is the foldable iPhone we've been waiting for

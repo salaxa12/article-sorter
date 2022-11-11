@@ -1,0 +1,47 @@
+Can RTX 4090 run 8k
+
+How far can the new RTX 4090 be pushed?
+
+Table of Contents
+
+Table of Contents
+
+The Nvidia GeForce RTX 4090 enables 8K HDR playback, capture, and viewing. For astonishing levels of detail, that is four times the pixels as 4K and 16 times as many as 1080p. HDR’s incredible contrast brings gaming to a whole new level of brightness.
+
+With incredible power and an enormous 24 GB of VRAM, the GeForce RTX 4090 is a gaming monster that can compete in several well-known titles at 8K resolution. With just one cable running from your PC to your 8K display, this GPU supports HDMI 2.1’s variable refresh rate and 8K 60Hz HDR.
+
+Read now: RTX 4090 stock tracker
+
+The innovative advancement dramatically increases performance in AI-powered graphics known as DLSS. DLSS 3 employs AI to produce extra high-quality frames and is supported by the new fourth-generation Tensor Cores and Optical Flow Accelerator on GeForce RTX 4000 Series GPUs.
+
+You may record 8K60 HDR gameplay with the GeForce RTX 4090 and GeForce Experience ShadowPlay feature by simply pressing a hotkey; a separate or specialized capture card is unnecessary.
+
+Use the new AV1 decoder on the GeForce RTX 4090 GPU to stream and playback videos at 8K HDR for more compelling viewing of 8K HDR YouTube videos. Compared to H.264 and HEVC, AV1’s more effective compression significantly reduces the amount of internet bandwidth needed to stream high-definition video.
+
+Display manufacturers are still limited to 4K resolution, with no ‘cheap’ 8K monitors in sight, even as the focus of next-generation GPUs switches to high-resolution gaming. Because so few gamers actually use this resolution, 8K resolution GPU testing is not very popular among tech reviewers. But this is clearly something that manufacturers want to see.
+
+Many players tested the card in current and demanding games like Cyberpunk 2077 or Flight Simulator; however, DLSS3 upscaling technology was needed even in these cases. One can anticipate up to 65 FPS in Cyberpunk 2077 and 81 FPS or so in Flight Simulator.
+
+The indicators for the 1% low FPS are at 57–65. Given that the RTX 3090 was running an earlier DLSS version, a comparison to it is not one that makes much sense in this instance.
+
+There was no use of DLSS in this instance. Performance without DLSS ranges from 76 FPS on average in Forza Horizon 5 to 520 FPS in Overwatch 2. With the same settings, that’s more than twice as fast as RTX 3090.
+
+Although 8k seems like a very distant usage. With a likely not-a-wide adoption of 4k, 8k seems like a very unnecessary resolution. With So many pixels to run, it can lead to some low performance, and the cost is a high point too.
+
+Can RTX 4090 run 16k
+
+The Nvidia GeForce RTX 4090 has a very good performance despite the debate surrounding its energy consumption, price, or stunning dimensions, as well as, more recently, a heating issue with its connectors.
+
+It is evident that the GeForce RTX 4090 is the most potent card on the market while we wait for the impending release of the following AMD graphics cards with RDNA 3 architecture. It is a powerhouse in password cracking as well.
+
+A recent video demonstrating one of the first tests of NVIDIA’s GeForce RTX 4090 at 16K resolution was uploaded to the YouTube channel zWORMz Gaming. The channel’s creator evaluated the video card’s gaming capabilities using Microsoft Flight Simulator.
+
+The YouTuber was eventually able to run Microsoft Flight Simulator at 16K resolution when he changed to the minimal settings. In this instance, the video card delivered 8–10 frames per second while under maximum load and with the entire 24 GB of video RAM being used.
+
+The frame rate decreased to 6 FPS in various instances. Microsoft Flight Simulator’s 8K resolution performance is also demonstrated in the video. Using DLSS 2 in performance mode, the RTX 4090 produced an average frame rate of 70 FPS and 29 FPS at maximum settings.
+
+This time, a hardware fanatic has just unveiled a remarkable endeavor. Genshin Impact improved the definition as much as possible while maintaining the highest level of visual quality. As a result, it is mounted to a 13K definition.
+
+The game was first upscaled to 13K quality from 7K, or precisely 68802880 pixels. 8K is already heavily contested, so why 13K? Let’s assume that performance is in doubt here.
+
+The definition used by Genshin Impact at that point was 13,760 x 5,760 pixels. The RTX 4090 produced an image of 178.32 megapixels and 30 frames per second to show off the work of the graphics card. Although no consumer panel can be 16K, this quality enables zooming in on an image without sacrificing detail. The image is still quite accurate at a 500% zoom.

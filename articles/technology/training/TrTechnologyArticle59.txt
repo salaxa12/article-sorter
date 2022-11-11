@@ -1,43 +1,19 @@
-Future Intel CPUs and some existing processors via a microcode update will support a new feature called the Asynchronous EXit (AEX) notification mechanism to help with Software Guard Extensions (SGX) enclave security. Patches for the Linux kernel are pending for implementing this Intel AEX Notify support with capable processors.Intel's Asynchronous EXit (AEX) notification mechanism lets SGX enclaves run a handler after an AEX event. Those handlers can be used for things like mitigating SGX-Step as an attack framework for precise enclave execution control.
+Call of Duty: Modern Warfare II's raids, a shiny new co-op mode that continues the campaign's story, will only feature a boss to battle in the third season. Bit of a shock for those who were refining their skills for the debut on 14 December.
+
+Dataminer and leaker GhostOfSaba has been scouring the game's files for upcoming content for Season 1 and their search has been fruitful. As well as stumbling upon a list of possible maps that are on their way, including Shipment, Shoothouse, and Valderas Museum, they've found that there likely won't be a boss in the raid for Season 1.
+
+Here's where to find Rust in the new Modern Warfare II during Ground War Domination in Taraq!
+
+Loading…
+
+Call of Duty has never had raids, but, the description from Activision seems to suggest that these excursions will function in the same fashion as those in Destiny 2. "Each seasonal phase will advance our ongoing story, as old friends and new enemies tie-up loose ends," said Activision in October, setting three players the challenge of thinking strategically to triumph in combat encounters. So it's strange that it looks like the trio won't have a big bad to take down.
+
+Season 1 will have a raid
+
+LUA_MENU_CP/RAID_01
 
 
 
-SGX-Step
+Looks like we are getting our first boss with season 3
 
-== AEX Notify Background ==
-
-
-
-"Intel Architecture Instruction Set Extensions and Future Features - Version 45" is out. There is a new chapter:
-
-
-
-Asynchronous Enclave Exit Notify and the EDECCSSA User Leaf Function.
-
-
-
-Enclaves exit can be either synchronous and consensual (EEXIT for instance) or asynchronous (on an interrupt or fault). The asynchronous ones can evidently be exploited to single step enclaves, on top of which other naughty things can be built.
-
-
-
-AEX Notify will be made available both on upcoming processors and on some older processors through microcode updates.
-
-
-
-== The Problem ==
-
-
-
-These attacks are currently entirely opaque to the enclave since the hardware does the save/restore under the covers. The Asynchronous Enclave Exit Notify (AEX Notify) mechanism provides enclaves an ability to detect and mitigate potential exposure to these kinds of attacks.
-
-
-
-== The Solution ==
-
-
-
-Define the new attribute value for AEX Notification. Ensure the attribute is cleared from the list reserved attributes. Instead of adding to the open-coded lists of individual attributes, add named lists of privileged (disallowed by default) and unprivileged (allowed by default) attributes. Add the AEX notify attribute as an unprivileged attribute, which will keep the kernel from rejecting enclaves with it set.
-
-The pending Linux patches confirm the AEX Notify support will be found on upcoming processors (presumably Sapphire Rapids) as well as some existing processors via microcode update. This patch in TIP's x86/sgx branch sums up AEX Notify and the kernel-side work:See the Intel documentation for more details on the Asynchronous Enclave Exit Notify support.
-
-The patch now in TIP's x86/sgx adds support for allowing the secure enclaves to use AEX Notify. A separate patch also from Intel then exposes the EDECCSSA user leaf function to KVM guests. With now hitting the TIP x86 area, the code is expected to be merged for the Linux 6.2 merge window or given that it's security-related could even be attempted to land still for Linux 6.1 if deemed important enough for getting this more secure SGX enclave feature out there for helping prevent enclave attacks.
+LUA_MENU_CP/RAID_BOSS_1 pic.twitter.com/TAubekmKfb — GhostOfSaba (@GhostOfSaba) November 8, 2022

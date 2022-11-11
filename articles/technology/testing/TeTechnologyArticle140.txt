@@ -1,27 +1,27 @@
-The Fitbit blog mainly consists of fitness and wellness guides and lists, but a new post (opens in new tab) covers what we can expect in the next few years, now that it’s firmly in the stable of Google-owned companies.
+Razer is jumping into the PlayStation 5 controller scene with an officially licensed premium gamepad. Dubbed the Razer Wolverine V2 Pro, the controller has a white and black design and is fitted with high-end components and customization features. Most notably, the Wolverine V2 Pro has offset analog sticks and boasts a wireless connection using Razer's HyperSpeed Wireless tech. Aimed at competitive gamers, the Wolverine V2 Pro will cost $250 and is exclusive to GameStop and the Razer store.
 
-“Now that our expertise in health and fitness is backed by Google’s innovation in AI, software, and hardware, we know there will be changes in the future,” the post — credited simply to Fitbit Staff, reads.
+Though this is the first PS5 controller from Razer, it's not the first in the Wolverine line. Multiple Wolverine controllers have been released for Xbox/PC over the years, but all of them have only offered wired connections. In this regard, the Wolverine V2 Pro remedies the only major complaint we had with the stellar V2 Chroma Xbox controller.
 
-The most interesting things are in the early research phase, rather than something you can expect to see on a theoretical Fitbit Charge 6, Versa 5 or Fitbit smart ring, however.
+It has a similar form factor to the V2 Chroma, but it appears to be slightly larger. As an officially licensed PS5 controller, it has all of the standard menu buttons as well as the touchpad. But it doesn't have an internal speaker, Adaptive Triggers, or haptic feedback.
 
-“We’re continuing to drive research around new sensors and experiences, and are using Google’s work on artificial intelligence and leading technologies to develop more advanced features that can help with serious health conditions,” the post explains, highlighting the recent addition of Irregular Heart Rhythm Notifications.
+Razer Wolverine V2 Pro
 
-“And now that we’re combining our machine learning with Google’s, we’re able to do even more — like delivering Fitbit’s most accurate heart rate tracking yet on the new Pixel Watch.”
+Instead of the DualSense's Adaptive Trigger technology, the V2 Pro has what Razer calls "HyperTriggers." These are trigger stops with two settings controlled by flipping switches on the back of the controller. Engaging the lock reduces the pull distance to register trigger inputs. Trigger stops are generally aimed at fans of first-person shooters, as they can increase your rate of fire, bringing the controller experience closer to mouse-and-keyboard controls.
 
-In the here and now, Fitbit says that its Google ownership allows for more competitively priced products, which is a plus in its mission to “democratize health and fitness”.
+The Wolverine V2 Pro utilizes Razer's Mecha-Tactile buttons. This unique design makes the face buttons, D-pad, and shoulder buttons resemble the feel and responsiveness of clicking a high-end gaming mouse. The eight-way D-pad uses microswitches for each individual input to improve accuracy.
 
-“One of our key focus areas is continuing to develop high-quality wearables that cost less — like Inspire 3, which we launched in August,” the company writes.
+There are four remappable buttons on the back of the controller and two on the top. The rear triggers have the same general layout as the ones on the V2 Chroma, but they are spaced slightly closer to the handles.
 
-Though it’s worth remembering that at $99, the Fitbit Inspire 3 is far from the most affordable option in our list of the best cheap fitness trackers, with competitors starting at a quarter of the price.
+The Wolverine V2 Pro has a total of six remappable buttons.
 
-Accessibility is also about wider availability, and here Fitbit has plans afoot. “As we move into the future, Fitbit will be available on more devices, including connected home devices, TVs, and phones,” the post reads.
+Gallery
 
-The ability to cast your workouts via Chromecast is coming and highlighted once again here. But this suggests a deeper integration with Google TV — something previously reported as coming by Protocol (opens in new tab), which predicted that real-time heart rate and calorie data will appear along big-screen workouts.
+Inside the box, you'll find a pair of alternative, magnetic caps for the analog sticks. Players can replace the default traditional caps that will feel familiar with a tall, concave or short, domed style.
 
-The integration with other Google services is already happening, of course, with Fitbit once again highlighting the imminent arrival of Google Maps and Google Wallet on the Versa 4 and Sense 2. The company claims this is an objectively good thing: “At Google, it’s not about making things just to make them,” the post reads. “It’s about making things that truly help.”
+For added customization, you can download the Razer Controller Setup app for iOS and Android. This app can be used to remap the back and top multi-function buttons. Of course, it wouldn't be a Razer product without Chroma RGB lighting. You can tinker with the lighting effects that run along the handles within the app. You can also add what is essentially a second profile for analog stick sensitivity. Designating a "clutch" button lets you change to the other sensitivity setting on the fly while playing.
 
-This makes the omission of Google Assistant from the Versa 4 and Sense 2 — one of a series of odd cutbacks between generations (opens in new tab) — all the more curious. While Google’s AI helper was present on the first-generation Sense and Versa 3, it’s missing on the newer models, with Amazon’s Alexa the only option. Perhaps this is a sign that it will eventually return — if not for the current generation of devices, then maybe for the next.
+In addition to connecting wirelessly with a 2.4GHz USB dongle, you can also use a wired connection with the included USB-C cable. Like the cable that comes with the Wolverine V2 Chroma, this is a lengthy, braided cord.
 
-“For these reasons and more, Fitbit and Google are better together,” the post concludes. “And we’re just scratching the surface of the health and wellness experiences we can bring to the world.
+Though the Wolverine V2 Pro is most notable as being the first PS5 controller from Razer, the controller is also compatible with PC both wirelessly and wired.
 
-“Whether you’ve been with us since the beginning or joining us for the first time: thank you. We’re honored to be on the journey with you.”
+The Razer Wolverine V2 Pro isn't your only premium controller option for PS5. PlayStation's DualSense Edge controller releases January 26 for $200. Meanwhile, the Victrix BFG Pro is another officially licensed, third-party PS5 controller with offset sticks. The BFG Pro releases on December 1 for $180.

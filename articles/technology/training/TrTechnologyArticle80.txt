@@ -1,15 +1,17 @@
-On Thursday, OpenAI announced the introduction of an API for its DALL-E image synthesis model that will allow developers to easily integrate its AI image generation technology into their apps. DALL-E, currently available as a standalone commercial service, allows people to generate novel 1024×1024 images from text descriptions called "prompts." The generated images can vary in style from photorealistic to abstract—and many styles in between.
+Subscribe to Nintendo Life on
 
-OpenAI's new API allows software developers to feed an image prompt and other parameters into OpenAI's DALL-E engine over the Internet. OpenAI then generates the image on its servers and returns the image for display in the requesting app. (An API is a programming interface that allows different programs to talk to each other.)
+One game that we would highly recommend checking out on the Nintendo Switch is Mario Strikers: Battle League. Next Level Games released the game on the hybrid system back in June, and since then it's been receiving regular patches and content updates.
 
-Usage of the API requires registration with OpenAI and a private API key that allows access to the DALL-E generator. Additionally, OpenAI levies a fee for each image generated depending on image resolution. Images that are 1024×1024 cost $0.02 an image, 512×512 images cost $0.018 per image, and 256×256 images cost $0.016 per image.
+Now, Nintendo has released a brand new demo for the game via the Switch eShop - allowing newcomers to check out a "limited selection" of characters and stadiums in the game.
 
-Advertisement
+"Some game modes in the demo can be played a limited number of times. For Quick Battle, you can play up to 7 matches, and for Cup Battles, the Cannon Cup is playable once."
 
-Currently, Microsoft is already using the DALL-E API in closed-access trials of its new Microsoft Designer app, and Shutterstock recently announced DALL-E integration into its website. Additionally, OpenAI says that design apps called CALA and Mixtiles are using the DALL-E API as well.
 
-Since its launch in April, DALL-E and other image synthesis models, such as Stable Diffusion, have been the subject of ethical controversy because of baked-in bias, the ability to potentially generate harmful images, and the fact that these AI generative models have been trained using human-created artwork without individual artist consent. However, OpenAI implements filters that restrict the generation of nudity, "hate symbols," and violence in an attempt to keep the service palatable for a mass audience.
 
-It's worth noting that Stable Diffusion has been available as open source since August, and developers have already been integrating that technology into their apps without the individual image generation cost, filters, or content policy restrictions that come with OpenAI's DALL-E API if run locally. However, Stability AI also offers its own DreamStudio API for a fee that comes with its own content moderation tools.
 
-As competition between AI image synthesis models continues to heat up, developers now have more choice over which model they can integrate into their products.
+
+Play with a limited selection of characters, stadiums, and matches in the demo today:pic.twitter.com/OlaNdbdWyR Tested your grit out on the Strike field yet? Now’s your chance! The #MarioStrikers : Battle League free demo is available now on Nintendo #eShop Play with a limited selection of characters, stadiums, and matches in the demo today: https://t.co/6jMCXWtDFd November 10, 2022
+
+Nintendo previously ran a "first kick" demo event - allowing Switch Online members to play the game's tutorial and also enjoy some multiplayer sessions over a number of days.
+
+Mario Strikers: Battle League most recently added Pauline and Diddy Kong to the lineup back in September. Other characters added since launch include Daisy and Shy Guy. You can learn more about Mario Strikers in our full Nintendo Life review:

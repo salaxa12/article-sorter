@@ -1,43 +1,23 @@
-God of War Ragnarök is nearly here, and gamers are in for a treat. In our God of War Ragnarök review, we gave the game 4.5 out of five stars and an Editor’s Choice award, while claiming that the experience was “worthy of the gods.” And, if you know anything about Norse mythology, then you won’t be surprised to learn that one of those gods is Odin, the All-Father.
+Microsoft last month announced that it is working with Apple to bring the Apple TV and Apple Music apps to Windows PCs. More than that, the company teased an integration of the native Photos app on Windows 11 with iCloud Photos. Now this integration is finally being rolled out to Windows users.
 
-Odin didn’t appear in God of War (2018), but he played a big role in the story nonetheless. As the father of Baldur, husband of Freya and torturer of Mimir, Odin casts a long shadow over God of War Ragnarök. If you want to learn more about this iconic mythological figure before the game comes out, here’s what we know about Odin from the first game — and from Norse myth.
+Windows 11 with iCloud Photos
 
-This game doesn’t contain any spoilers for God of War Ragnarök, aside from what we’ve seen in trailers, but it does have major spoilers for God of War (2018) and some of the older games.
+According to The Verge, the update to the Photos app in Windows 11 with iCloud Photos integration is now available. In order to get everything up and running, users must update the app through the Microsoft Store and then install iCloud for Windows – which is also available on the Microsoft Store.
 
-Odin in God of War
+After that, just log in with your Apple ID in the iCloud app and enable the photo library sync. As a result, all your photos and videos stored in iCloud should automatically appear in the Windows Photos app.
 
-(Image credit: Sony )
+“We know that many Windows customers have photo and video collections on their iPhones that they would like to be able to view on their PC,” says Dave Grochocki, principal product manager lead for Microsoft’s Windows inbox apps. “This iCloud Photos integration will make it easier for those with an iPhone to have direct access to all their cherished memories in one organized place and is another step in our continued efforts to make experiences on Windows 11 seamless.”
 
-First off, while Sony hasn’t show any images of Odin yet, we do know what he sounds like. According to IMDB, Richard Schiff of The West Wing fame plays the patriarchal deity in God of War Ragnarök. If you listen closely in the God of War Ragnarök – State of Play story trailer, you can hear Schiff’s recognizable cadence around the 1:30 mark:
+This is an important step forward in improving the experience of users who own both Apple devices and Windows PCs. Although iCloud Photos was already available on Windows before the update, the photos and videos had to be accessed through regular folders.
 
-“What do you even know of godhood?” he asks. “In your lifetimes, has anyone ever worshipped you? Ever prayed to you? Can you even imagine that kind of love? No! You don’t care about anything beyond yourself. Beyond the monster who kills without cause.”
+More integration with Apple services coming soon
 
-It’s a stark contrast to the arrogant, power-hungry Zeus from the Greek cycle games, to say the least.
+In addition, Microsoft and Apple have already confirmed that Windows users will soon have access to new Apple Music and Apple TV apps. Currently, Windows users have to access tv.apple.com through a web browser to watch Apple TV+ content, while Apple Music can be accessed through the music.apple.com website or iTunes – which was discontinued years ago.
 
-The dialogue seems to fit with what we learned about Odin in the previous game. We know that in the God of War mythos, Odin rules the Aesir from the lofty realm of Asgard. Unlike the brash Zeus, Odin seems to be fearful of any threat to his rule, so he blocked off passage among the Nine Worlds. He also imprisoned his former advisor, Mimir, for daring to suggest that Odin should rule Asgard in a more peaceful, equitable fashion.
+These announcements continue the expansion of Apple’s content services to more platforms, as Apple prioritizes subscription revenue over hardware sales.
 
-In terms of familial relationships, Odin is intimately connected to some other important characters from the first game. In this version of the Norse myth story, Odin married Freya, a Vanir goddess, to secure peace between the two warring deity factions. They had a son, Baldur, who served as the first game’s primary antagonist. Supposedly, some of Baldur’s egotism and vanity came from Odin. Freya and Odin parted on bad terms, although after the events of the previous game, Freya is also out for Kratos’ blood.
+In the case of Apple TV, wider platform availability is crucial as Apple strikes wide-reaching sports deals, such as the deal to exclusively stream Major League Soccer beginning with the 2023 season. Apple TV is also expected to land NFL Sunday Ticket streaming rights.
 
-Odin is also the father of Thor, who showed up briefly in the first game’s post-credits scene. We know from our God of War Ragnarök preview that there’s at least one major boss fight with Thor, so it stands to reason that the connection between those two gods will play a role in the story. Remember, too, that in the first game, Kratos and Atreus killed Thor’s sons, Magni and Modi. That means they also killed Odin’s grandsons, and it’s hard to imagine that the king of the Norse pantheon will take kindly to that.
+FTC: We use income earning auto affiliate links. More.
 
-That’s all we can definitively say about Odin based on the previous God of War game. But there is another source you can consult if you want more details: Norse myth itself.
-
-Odin in Norse mythology
-
-(Image credit: Wilhelm Wägner)
-
-First and foremost, it’s worth noting that God of War has always played a little fast and loose with mythological characters, and Odin is probably no exception. The Odin we’ll see in the game isn’t precisely the Odin you might know from the Poetic Edda and the Prose Edda, the two major sources of Norse myth. But by the same token, the God of War series has also shown a lot of respect for its source material, so revisiting the myths is always a good place to start.
-
-First off, if you have no frame of reference whatsoever for Odin outside of the Marvel Cinematic Universe, he is the most prominent among the deities of Norse mythology. He rules the godly realm of Asgard, where two of his sons, Thor and Baldur, are also members of the court. His wife, Frigg, may or may not be the same entity as Freya, the Vanir goddess of love and beauty. (There are two sets of gods in Norse myth: the Aesir in Asgard, and the Vanir in Vanaheim.)
-
-Odin plays a major role in some of the defining stories of Norse myth, but two important incidents stand out, as they both portray his never-ending quest for knowledge. First, Odin tore out his own eye and threw it into the mythical Mimir’s Well in order to gain knowledge. On another occasion, he hanged himself from the world-tree Yggdrasil for nine days in order to learn the secrets of runic writing.
-
-Norse myth also associates Odin with ravens. He rarely travels without his familiars Huginn (thought) and Muninn (memory), who also act as his spies.
-
-In other words, Odin is not a mighty warrior, first and foremost; he is a scholar and an explorer. However, Odin also possesses martial prowess, particularly with the enchanted spear Gungnir.
-
-While we could dedicate a whole series of articles to the importance of Odin in Norse mythology, there’s just one other point that seems relevant here. In the myths, Ragnarök is the twilight of the Norse gods, when most of the pantheon dies in a cataclysmic war. And, as you might expect, things don’t end especially well for Odin.
-
-Another character you may know from Norse mythology is Loki, the trickster god, who sets Ragnarök into motion. One of Loki’s sons is the giant wolf Fenrir, and during Ragnarök, Fenrir devours the sun itself. In retaliation, Odin takes up arms against Fenrir, who promptly swallows the god. Odin’s son, Vidar, kills Fenrir shortly after that, but it’s already too late for the king of Asgard.
-
-Whether God of War Ragnarök will adapt this particular story point, or whether it will go with something completely different, you’ll have to play the game to see for yourself. One thing we do know, at least, is that God of War Ragnarök will end Kratos’ Norse saga, so if the series continues, we’ll have to learn about a whole new pantheon next time around.
+Check out 9to5Mac on YouTube for more Apple news:

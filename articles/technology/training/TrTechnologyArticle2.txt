@@ -1,23 +1,41 @@
-We're just weeks out from the global release of Pokémon Scarlet and Violet on Nintendo Switch. If you've been wondering about the interest in the lead-up - here's a small sample of data from a local chain of video game stores in Japan's Niigata prefecture.
+As expected, Apple is now rolling out iOS 16.1.1 to iPhone users. The update includes additional bug fixes and security improvements. It comes following the release of iOS 16.1 with a number of major new features last month and the continued beta testing of iOS 16.2.
 
-As highlighted by the Twitter account @Pierre485, pre-orders at COMG! for the new generation of Pokémon games coming to Switch have already "surpassed the first 3 days of sales made by any Pokémon game on Switch":
+iOS 16.1.1 now available
 
+Users can now update to iOS 16.1.1 by going to the Software Update menu within the iPhone Settings app. The build number for the update is 20B101. Apple is also rolling out iPadOS 16.1.1 as well for iPad users.
 
+Apple’s release notes for iOS 16.1.1 indicate that the update includes bug fixes and performance improvements. The company hasn’t shared any specific details on what’s been fixed, but there were issues affecting the SKAdNetwork for developers as well as complaints about Wi-Fi connectivity.
 
+Apple says:
 
+This update includes bug fixes and security updates and is recommended for all users.
 
-14 days before launch :
+Apple is also rolling out macOS Ventura 13.0.1 to all Mac users today as well. Here are the details on the security fixes:
 
-• Animal Crossing: New Horizons - 434
+libxml2
 
-• Splatoon 3 - 497
+Available for: iPhone 8 and later, iPad Pro (all models), iPad Air 3rd generation and later, iPad 5th generation and later, and iPad mini 5th generation and later
 
-• Smash Ultimate - 641
+Impact: A remote user may be able to cause unexpected app termination or arbitrary code execution
 
-• Monster Hunter Rise - 797
+Description: An integer overflow was addressed through improved input validation.
 
-• Pokemon Scarlet/Violet - 1208 Pokemon S/V also surpassed the first 3 days of sales made by any Pokemon game on Switch with only pre-orders.14 days before launch :• Animal Crossing: New Horizons - 434• Splatoon 3 - 497• Smash Ultimate - 641• Monster Hunter Rise - 797• Pokemon Scarlet/Violet - 1208 pic.twitter.com/uHftqT872U November 5, 2022
+CVE-2022-40303: Maddie Stone of Google Project Zero
 
-Serebii.net webmaster Joe Merrick chimed in, noting how "this game is going to be a monster" when it arrives. It's not just Japan where pre-orders for Scarlet and Violet are looking healthy, either.
+libxml2
 
-Over on Amazon, both versions of the game are already charting in the "best sellers" video game category. If you would like to secure your own copy of the new games, be sure to check out our pre-order guide:
+Available for: iPhone 8 and later, iPad Pro (all models), iPad Air 3rd generation and later, iPad 5th generation and later, and iPad mini 5th generation and later
+
+Impact: A remote user may be able to cause unexpected app termination or arbitrary code execution
+
+Description: This issue was addressed with improved checks.
+
+CVE-2022-40304: Ned Williamson and Nathan Wachholz of Google Project Zero
+
+Following today’s release of iOS 16.1.1, Apple’s next software update for iPhone users will be iOS 16.2. This update is currently in testing with developers and public beta users. It includes a number of new features and changes, such as Apple’s new Freefrom collaboration app, updates to the Home app, and more. It’s expected to be released in mid-December.
+
+Have you found any other changes in today’s update? Let us know in the comments section below or on Twitter @9to5Mac.
+
+FTC: We use income earning auto affiliate links. More.
+
+Check out 9to5Mac on YouTube for more Apple news:

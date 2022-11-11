@@ -1,11 +1,29 @@
-Diablo 4 is a title announced at BlizzCon 2019, alongside games like Overwatch 2. It’s the next installment in the acclaimed series and is set to launch on the Battle.net client on PC and consoles. Since then, five character classes were announced (the Barbarian, Sorceress, Druid, Rogue, and Necromancer, respectively).
+Lenovo has fixed two high-severity vulnerabilities impacting various ThinkBook, IdeaPad, and Yoga laptop models that could allow an attacker to deactivate UEFI Secure Boot.
 
-Meanwhile, some time ago, some more information surfaced about Blizzard’s next big venture for the series. In a report from Windows Central, one of the biggest pieces of information comes from the game’s release window. Diablo 4 is projected to launch in April 2023, and preorders might open as soon as next month.
+UEFI Secure Boot is a verification system that ensures no malicious code can be loaded and executed during the computer boot process.
 
-Activision Blizzard’s current status (which is in the process of being acquired by Microsoft) could also contribute to the game’s launch status; it could very well land on Game Pass shortly after launch. Moving on, though, there’s also information relating to the game’s launch status. It’s set to follow a seasonal model with its updates.
+The consequences of running unsigned, malicious code before OS boot are significant, as threat actors can bypass all security protections to plant malware that persists between OS reinstallations.
 
-If that reminds you of Overwatch 2 and its upcoming hero Ramattra, yeah, that’d make some sense. Other titles also have a seasonal format for their updates and content, like Destiny 2 and Fortnite, for instance. Back to Diablo 4: the game’s upcoming launch information disclosed today should be taken with a grain of salt (as it’s currently unofficial).
+The problem arises from Lenovo mistakenly including an early development driver that could change secure boot settings from the OS in the final production versions.
 
-Something else to consider is that we’re inching closer and closer to The Game Awards 2022. Throughout the event’s festivities, you can probably find high-profile reveals for new games or content (like Joker’s reveal for Super Smash Bros. Ultimate back in 2018), and the show is coming on December 2nd, 2022.
+This means the vulnerabilities are not caused by a bug in the code but rather a practical error of including the incorrect driver on production devices.
 
-An update relating to Diablo 4’s status, in an official capacity, could very well happen during the famed show alongside its many other surprises that are to be expected. We’ll continue to update as more information on Diablo 4 as it’s released. Diablo 4 is currently in development for PC and consoles with a yet-to-be-confirmed release date.
+The presence of these drivers in multiple Lenovo products was discovered by ESET researchers, who reported it to the computer vendor.
+
+"The affected drivers were meant to be used only during the manufacturing process but were mistakenly included in the production," explains the Twitter thread by ESET.
+
+ESET says that the vulnerabilities can be exploited simply by creating special NVRAM variables and shared a link to a Twitter thread by Nikolaj Schlej that explains why UEFI firmware developers should not use NVRAM as trusted storage.
+
+The two flaws fixed by Lenovo via BIOS fix the following vulnerabilities:
+
+CVE-2022-3430 : Vulnerability in the WMI Setup driver on some consumer Lenovo Notebook devices may allow an attacker with elevated privileges to modify Secure Boot setting by modifying an NVRAM variable.
+
+: Vulnerability in the WMI Setup driver on some consumer Lenovo Notebook devices may allow an attacker with elevated privileges to modify Secure Boot setting by modifying an NVRAM variable. CVE-2022-3431: Vulnerability in a driver used during manufacturing process on some consumer Lenovo Notebook devices that was mistakenly not deactivated may allow an attacker with elevated privileges to modify Secure Boot setting by modifying an NVRAM variable.
+
+There's also a third flaw of similar nature, tracked as CVE-2022-3432, impacting only Ideapad Y700-14ISK. Lenovo will not address this vulnerability as the affected product has reached its end of life (EOL).
+
+Owners of supported Lenovo computers can check the model list on the vendor's security bulletin to determine if either flaw impacts them.
+
+The firmware versions that fix the vulnerabilities are mentioned under the CVE IDs, so make sure to upgrade to that version or later.
+
+For official Lenovo software, check out this online support portal or run the update tool pre-installed on your computer.

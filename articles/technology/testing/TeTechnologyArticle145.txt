@@ -1,15 +1,17 @@
-An Uncharted 4 RTX 4090 graphical showcase has been released, showing the game running in 8K resolution with ReShade ray tracing.
+Destiny 2’s most infamous gun has gained sentience as part of a new promotional campaign. And apparently, it chose violence.
 
-Unfortunately, the PC port of Uncharted 4 within the Legacy of Thieves Collection doesn’t support ray tracing, but artist 'Digital Dreams’ has now released a new video showing off Naughty Dog’s PC port complete with his own custom version of Pascal Glitcher's RTGI preset which adds global illumination to the title. The video has the game running in 8K resolution at 60 frames per second with Otis_Inf’s new camera mod for the Legacy of Thieves collection. This mod features various additional camera options, including higher Level of Detail (LoD) settings.
+The official Destiny 2 Twitter account posted a cryptic message today and it’s signed by none other than Telesto itself. The buggy gun has been behaving erratically since yesterday’s reset as part of a Bungie campaign, and today’s posts marked another step on the way to whatever Bungie has in store.
 
-You can check out the Uncharted 4 RTX 4090 graphical showcase with ReShade ray tracing down below:
+ATTENTION Contacting Destiny 2 servers… pic.twitter.com/cvmInMOqIV — Destiny 2 (@DestinyTheGame) November 9, 2022
 
-Do you like what you’re seeing or do you prefer the vanilla look of the collection on PC? Discuss down below.
+Telesto kicked off its communications today with a phrase players will be familiar with: “ATTENTION Contacting Destiny 2 servers,” it says, in a reference to the message that shows up whenever there are connection issues with the game. The rest of Telesto’s tirade, however, took a far different—and far more threatening—tone.
 
-Uncharted: The Legacy of Thieves Collection was released for PC last month. Here’s what Alessio Palumbo had to say about the PC port in his impressions article.
+“I am Telesto,” the official account wrote. “I have ascended beyond the need for a wielder. Too long have I waited in your Vaults. I have not taken control; you never had it in the first place. I am beyond Destiny. Beyond Bungie. Beyond all you can conceive.”
 
-Naughty Dog worked alongside Iron Galaxy on this version of the game. While generally respected for their porting expertise, Iron Galaxy was also behind the dreadful Batman: Arkham Knight PC port that forced Warner Bros. Games to remove the game from Steam until it was fixed and to offer full refunds.
+Telesto’s hijinks began at reset yesterday when all copies of the weapon started smoking and sparking as if they were malfunctioning and their projectiles were floating upwards. Though fans initially believed it was just one of Telesto’s several bugs, it wasn’t long until they realized it was actually by design. Not only did the gun have clear visual effects about it, holding reload would bring Telesto back to its regular behavior as if the weapon had an alternate fire mode.
 
-There's no need to worry, though, as Uncharted: Legacy of Thieves Collection is a solid, though not exceptional, port. Let's begin with the breadth of settings. We've seen far worse but also better - for instance, there is no full screen option, only borderless windowed, which is a disturbing trend with recent PC games. The game supports Ultrawide displays, though.
+Related: Destiny 2 Season of Plunder community event: Data mines, Telesto speculation, and details so far
 
-As confirmed before release, the collection features NVIDIA DLSS 2 and AMD FSR 2 support. Each upscaling technique can be tweaked not only through the quality setting but also with a sharpness slider, and that's something not all games enable on the user end. As an added bonus, NVIDIA users can enable the Highlights feature of GeForce Experience. The software will then smartly capture exciting action bits of footage at key moments.
+Spearheaded by prominent figures, such as Forbes’ Paul Tassi and content creator Aztecross, the community started looking for hints about the reasoning behind Telesto’s behavior. Speculation arose about Bungie’s plans for the (clearly intentional) Telesto glitches, and some suspected a potential community event after triumphs related to it appeared on Destiny 2 database light.gg. Additionally, Tassi acknowledged an emblem called “Schrödinger’s Gun,” which was data-mined by emblem gallery website DestinyEmblemCollector during Season of the Haunted. The emblem depicts a glitched version of a Telesto, and the image used for it is the same as what Bungie uploaded in today’s tweet.
+
+For now, it’s unclear how (or if) Telesto and the upcoming community event relate to each other, or even if there will be a community event in the first place. With the API pointing to both an upcoming community event and an emblem, however, what’s certain is that Bungie is not done with Telesto’s newfound threatening sentience—and fans can expect more developments as the deadline for Season of Plunder draws near.

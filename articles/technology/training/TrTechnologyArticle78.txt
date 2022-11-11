@@ -1,11 +1,11 @@
-As per the official blog post published by DALL-E, "developers can now integrate DALL-E directly into their apps and products through our APL." Adding to it, the post reads, "more than 3 million people are already using DALL-E to extend their creativity and speed up their workflows, generating over 4 million images a day."
+Publisher Devolver Digital and developer Ahr Ech have announced side-scrolling action platformer Pepper Grinder for Switch and PC (Steam). It will launch in 2023.
 
-DALL-E can now be integrated into other platforms
+Here is an overview of the game, via its Steam page:
 
-Essentially, developers of apps can now integrate the DALL-E image creation AI into their code. It will enable users to create images using the app instead of heading to the platform. DALL-E also announced that Microsoft is bringing its AI into a new graphic design app, Designer. The app will help users create professional-quality graphics that are social media-ready.
+About Pepper Grinder is an action-packed pirate adventure starring the titular Pepper, a seafaring soul with a passion for prospecting, and Grinder, her super-powered drilling device. Shipwrecked and robbed of her treasure, Pepper must spin up her trusty sidearm to reclaim what the mischievous Narlings stole. Armed with Grinder, Pepper burrows through terrain and water, controls machines, and pulverizes all enemies blocking the way towards recovering her missing fortune – with interest! Pepper’s progress will not be that simple, however, as mysterious beings begin to emerge from the shadows… Key Features Gritty Gameplay – Cruise through a colorfully animated world with precise movements, fluid drilling, and thrilling leaps.
 
-Microsoft is also adding DALL-E in Bing and Microsoft Edge with Image Creator, allowing users to create images themselves if regular web searches do not return what they want. Another platform that happens to be the world's first fashion and lifestyle operating system called CALA is also powered by DALL-E. "CALA's new artificial intelligence tools will allow users to generate new design ideas from natural text descriptions or uploaded reference images."
+– Cruise through a colorfully animated world with precise movements, fluid drilling, and thrilling leaps. Thrilling Drilling – Chew through the world with Grinder and find new drill bits to ramp up the chaos and solve clever puzzles.
 
-The AI image generation tool now has better moderation
+– Chew through the world with Grinder and find new drill bits to ramp up the chaos and solve clever puzzles. Conquer and Collect – Pick up jewels and other riches during your adventure and cash them in at shops to power up Pepper, open up new paths on the world map, and snag collectible stickers for your sticker book.
 
-Another photo startup, Mixtiles, uses the DALL-E API to "create and frame emotionally resonating" artwork. In addition, users now have full ownership rights over the images they make. DALL-E also has a new moderation system that includes filters for hate symbols and gore. "As a part of OpenAI's commitment to responsible deployment, we will continue to make trust & safety a top priority so that developers can focus on building."
+Watch the announcement trailer below.

@@ -1,9 +1,31 @@
-Following the release of the Leonardo Softhouse Fly the Maddog earlier this year, the team has been noticeably quiet. Outside of some updates here and there, the team hasn’t really provided information on what they have been working on. However, that changes today with the latest forum post from the team.
+Hadlee Simons / Android Authority
 
-In Stefano’s post, he recognised how quite they have been, but this has been for a good reason. Over the past few months, the team has been working on a new ’bridge’ application that will allow more features and functionality to overcome some of the limitations of working within MSFS. This new bridge, known as the ’MDClient’ allows ACARS pages to be added, CPDLC functionality, full integration with GSX Pro and much more.
+TL;DR VPN by Google One is now available on Windows and macOS PCs.
 
-The new update for the Fly the Maddog on Microsoft Flight Simulator is currently in beta testing and the release is expected in the next few weeks.
+The desktop version of the VPN can be installed in 22 countries.
 
-What is also exciting about this new information is the fact that the team can refocus its efforts on bringing the MD-88 and the MD-83 to the simulator. There isn’t any additional information on those right now, but we will be sure to keep our eyes peeled.
+It’s available at no extra cost to Google One Premium customers with 2TB or higher plans.
 
-Upcoming Update Changelog
+Last month, Google announced a new virtual private network service for Android and iOS devices called VPN by Google One. Today, the company is expanding its availability across the Windows and Mac desktop platforms.
+
+Starting today, VPN by Google One on desktop will be available to all Google One members on Premium plans. That means if you pay for a 2TB or higher plan, you’ll automatically get VPN by Google One for no extra cost.
+
+Google says the desktop version of its VPN will be available in the same markets where it is currently available on Android and iOS. These include the US, UK, Canada, France, Germany, and more. Here is the complete list of the 22 markets where the service is available.
+
+How to get VPN by Google One on Windows and Mac?
+
+Google
+
+If you qualify for the service, i.e., you have a Google One plan that’s 2TB or higher, you can download the VPN from the Google One website. Once you go to the Google One website on your macOS or Windows computer, navigate to the Benefits page.
+
+Under VPN for multiple devices , click View details
+
+, click Click Download app and confirm the download.
+
+and confirm the download. Open VpnByGoogleOne.dmg if you are using a Mac or VpnByGoogleOne.exe if you are on Windows
+
+if you are using a Mac or if you are on Windows Follow the on-screen instructions to install the VPN. Google One members can share their plan and the VPN with up to five family members at no extra cost, so they can all use the VPN across Android, iOS, Windows, or Mac devices.
+
+“We remain committed to a high degree of transparency and verifiability of our privacy & security guarantees. We have recently completed an extension of this audit to cover the desktop implementations for Windows and macOS,” Google wrote in a press statement, reiterating that the VPN cannot be tied to your online activity and your identity.
+
+Comments

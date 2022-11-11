@@ -1,29 +1,21 @@
-It’s called Imagen and it’s Google’s answer to the wave of text-to-image models whose creations have flooded the internet this year. But unlike those released by Meta, Microsoft, and OpenAI, the internet giant is taking a cautious approach by offering users a limited taste inside its AI Test Kitchen.
+Apple has made a useful little enhancement in the latest iOS 16.2 beta for iPhone 14 Pro users. In earlier versions, iPhone 14 Pro would only show two status icons (battery and either WiFi or single bars), as the activated Dynamic Island content was very wide.
 
-As with DALL-E, Make-A-Scene, and Stable Diffusion, Imagen uses A.I. imaging technologies to turn short text descriptions into unique photorealistic images. Google, however, ranks its model as best-in-class, stating in a paper released in May that “human raters strongly prefer Imagen over other methods.”
+However, this is no longer the case. Now when playing music, the island compresses down in width to allow all three status icons to be visible — complete with a sleek animation.
 
-The version available inside AI Test Kitchen, an app Google released in August to receive reactions to its A.I. projects, will have two functions for users to play with, City Dreamer and Wobble. The app, which requires a short application and waitlist for access, has a user base that is active, opinionated, and somewhat self-selecting, which the company claims has offered invaluable feedback.
+Depending on the Live Activity, the iPhone 14 Pro can show two or three icons. Activities with more content naturally take up more space, and induce status icon truncation.
 
-In City Dreamer, users come up with a theme, and the model then conjures buildings and urban plots. For Wobble, users choose a material and items of clothing, and the model then generates a mini monster (one that dances if poked).
+The truncation state is suboptimal. It isn’t immediately obvious that the island is the reason the status indicators have been hidden. You can sometimes accidentally think you have lost cellular signal altogether, because the icons vanish.
 
-It’s extremely limited compared to the broad creative freedom offered by other models. Intentionally so: Google wants more user feedback and to better understand how it breaks before launching a full release.
+But with the 16.2 beta change, one of the most common activities that users see — Now Playing audio — will no longer be such a cause.
 
-The company is also trying to mitigate problems other A.I. models have run into, namely around the social biases baked into the text from which such systems are built. “There is a risk that Imagen has encoded harmful stereotypes and representations,” Google Research’s Brain Team said earlier this year, “which guides our decision to not release Imagen for public use without further safeguards.”
+In keeping with the fluid vitality users expect from the Dynamic Island, this 16.2 behaviour also features a very smooth animation. As seen in the example video, after closing the Music app, the island first takes up the larger width and gradually shrinks down. The single bars animate in their appearance in coordination.
 
-The rapid emergence of A.I. images has also led to concerns about artistic copyright. Text-to-image models typically scrape publicly available images without crediting or compensating the original creators. In September, Getty Images banned such images from its platform, though last month, Shutterstock partnered with OpenAI to integrate an image synthesis product into its service.
+Note that iPhone 14 Pro Max users did not have this annoyance because the bigger screen meant there was enough space to show three icons at all times.
 
-Google seems reluctant to wade into such controversial waters—and for good reasons. But by the time it deems Imagen safe and culturally sensitive enough, Meta and the Elon Musk-backed OpenAI may already have a hold on the market.
+This is the latest enhancement to the Dynamic Island, which has seen several improvements in successive software updates since the iPhone 14 Pro launched in September.
 
-More Trending Stories:
+For instance, iOS 16.1 added Dynamic Island support for Reachability, and added a battery status view while in landscape orientation. iOS 16.1 also launched Live Activities API, allowing third-party apps to take advantage of the shiny new hardware feature.
 
-In a ‘Once-in-a-Lifetime’ Discovery, Swedish Archaeologists Have Unearthed a Cache of Viking Silver That Still Looks Brand New
+FTC: We use income earning auto affiliate links. More.
 
-Sarah Biffin, the Celebrated Victorian Miniaturist Born Without Hands, Is Now Receiving Her First Major Show in 100 Years
-
-A Painting the National Gallery Determined Was Not by Vermeer Will Be Displayed In the Rijksmuseum’s Vermeer Mega-Show Anyway
-
-It Took Eight Years, an Army of Engineers, and 1,600 Pounds of Chains to Bring Artist Charles Gaines’s Profound Meditation on America to Life. Now, It’s Here
-
-‘I’ll Have Terrific Shows Posthumously,’ Hedda Sterne Said. She Was Right—and Now the Late Artist Is Getting the Recognition She Deserved
-
-Follow Artnet News on Facebook:
+Check out 9to5Mac on YouTube for more Apple news:
