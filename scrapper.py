@@ -93,7 +93,6 @@ print(len(newsLinks))
 print(newsLinks[5:10])
 
 item = 1
-
 switch = 0
 
 os.chdir("articles/technology/training")
@@ -129,5 +128,5 @@ for url in newsLinks:
                 file2write.close()
         except:
             pass
-    elif item >= 200:
+    elif item >= 200:  # when number of articles reaches 200 code stops executing
         break
